@@ -14,7 +14,7 @@ Four acronyms kept appearing in my head whenever I tried to understand why thing
 
 • FOMO (Fear Of Missing Out)
 • NIMBY (Not In My Back Yard)
-• FAFO (Fuck Around, Find Out)
+• FAFO (F\*ck Around, Find Out)
 • HILO (History Is the Loudest Opinion)
 
 At first I thought they were just social phenomena. Descriptions of a certain kind of person. Easy to mock, hard to change.
