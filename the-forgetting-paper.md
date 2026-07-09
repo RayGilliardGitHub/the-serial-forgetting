@@ -2,6 +2,8 @@
 
 ## How Complex Systems Collapse from the Inside — and Why the Sky Is Silent
 
+*Version 1.1 — July 2026*
+
 ---
 
 ### Author's Note
@@ -123,6 +125,8 @@ When the shock comes — and it always does — the brittle system shatters. The
 
 The Permian-Triassic extinction event illustrates the same pattern. The trigger was the Siberian Traps volcanism. But the mechanism was a runaway greenhouse feedback loop that the system had been pushing itself toward for millions of years.
 
+The Classic Maya collapse is the same process compressed into centuries instead of millions of years. By the 9th century AD, the Maya had one of the highest population densities in the ancient world. To feed everyone, they cleared nearly all their forests. Satellite data and pollen records show that by 950 AD, the Maya lowlands were essentially treeless. Forests regulate rainfall, hold soil, and maintain the moisture cycle that keeps a region habitable. By removing them, the Maya changed their own climate — paleoclimate records from lake sediments and cave deposits confirm that the 9th to 11th centuries brought the worst multi-decadal droughts in Maya prehistory. The Maya had survived droughts before through irrigation, reservoirs, and agricultural flexibility. But after centuries of deforestation, they had removed their own resilience. They had optimized so hard for growth that they eliminated their margin for error. When the drought came, there was nothing left to buffer it. The external trigger (drought) gets the blame, but the real cause was the slow forgetting that turned a resilient system into a brittle one.
+
 #### 3.3 Human Societies
 
 The Roman Republic lasted nearly 500 years — one of the longest-running functional systems in Western history. Its founding was built on *mos maiorum*, the way of the ancestors — unwritten norms of civic virtue, service before self, honor in competition. Senators competed by building aqueducts, not fortunes. This was the **Second Path**.
@@ -143,15 +147,17 @@ The Hindu Yuga cycle describes exactly this cascade at the largest temporal scal
 
 - **Satya Yuga:** Truth reigns. Humans are content, meditative, peaceful. No disease, no conflict, no envy. Duration: 1,728,000 years. The **Second Path**.
 
-- **Treta Yuga:** Vice appears but virtue dominates. Sacrifice and ritual replace direct knowing. FOMO begins — the desire for what others have enters human experience.
+- **Treta Yuga:** Vice appears but virtue dominates. Sacrifice and ritual replace direct knowing. FOMO begins — the desire for what others have enters human experience. Duration: 1,296,000 years.
 
-- **Dvapara Yuga:** Disease, war, and disaster. Knowledge declines. Pursuit of pleasure dominates. NIMBY at civilizational scale — hoarding, territoriality, inequality.
+- **Dvapara Yuga:** Disease, war, and disaster. Knowledge declines. Pursuit of pleasure dominates. NIMBY at civilizational scale — hoarding, territoriality, inequality. Duration: 864,000 years.
 
-- **Kali Yuga:** Greed, short lives, truth hidden. The age of quarrel. The loudest drown out the wisest. Nobody remembers what was lost because nobody lived in the age that had it. Full HILO.
+- **Kali Yuga:** Greed, short lives, truth hidden. The age of quarrel. The loudest drown out the wisest. Nobody remembers what was lost because nobody lived in the age that had it. Full HILO. Duration: 432,000 years.
 
 The Andean concept of *Pachakuti* describes the same arc in different terms: a world-age of order and coherence, followed by gradual decline, ended by a violent overturning (the *pachakuti* itself), then a reset. The Incas identified five such ages. Each ended not because of external invasion but because the internal balance was exhausted.
 
 These traditions emerged on different continents, in different millennia, with no contact between them. They all describe the same pattern. This is either a remarkable coincidence or evidence that the pattern is built into the structure of human societies.
+
+A quantitative version of the same insight comes from Peter Turchin's cliodynamics — the mathematical modeling of historical data. Analyzing cycles across Rome, medieval France, ancient China, and the United States, Turchin identified consistent 200-300 year secular cycles of stability and integration followed by crisis and disintegration, with nested 50-year instability cycles. His models predict these surges are driven by *elite overproduction*: when a society matures, the number of educated aspirants outgrows the number of prestigious positions. The excess elites stop cooperating, recruit followers from the frustrated majority, and destabilize the system from within. In a 2012 paper in the *Journal of Peace Research*, Turchin used this model to predict that the next peak of American political instability would arrive around 2020 — a prediction made eight years early. The mechanism is FOMO and NIMBY at the structural level: too many qualified people competing for too few slots, the system becoming top-heavy with aspirants who cannot find a place, and the resulting fragmentation accelerating the cascade.
 
 #### 3.5 Philosophy: The Universal Diagnosis
 
@@ -262,6 +268,10 @@ Every philosopher who diagnosed this disease prescribed the same treatment:
 
 These are not doctrines to believe. They are *practices to do.* The **Second Path** is not a concept that can be understood intellectually. It is a state that must be maintained actively, moment by moment, generation by generation. The moment practice stops, forgetting begins.
 
+But practice alone is not enough, because the forgetting is not merely a failure of will — it has a psychological mechanism. Research from Harvard Business School shows that people systematically filter out negative information, especially when acting on it would require changing their behavior. Psychologists call this *normalcy bias*: the deep-seated tendency to believe that because something bad has not happened recently, it cannot happen soon. At an individual level this is merely self-deception. At a civilizational level it is catastrophic — entire institutions built on past solutions defend those solutions long after the problems have changed. The cascade does not just proceed *despite* knowledge of it. It proceeds *because* the knowledge is structurally filtered out before it can produce action.
+
+This argues for a second kind of intervention alongside individual practice: institutional design. The post-war European Union was built not on the hope that nations would *remember* the costs of war, but on a structure that made war between members economically impossible. The institutional answer to Santayana's warning is not to memorize more history but to build systems that do not require memory to function — to engineer the structural incentives so that the self-destructive choice is harder and the adaptive choice is easier. Practice works on the individual. Architecture works on the system. Both are required, because the forgetting operates at both scales.
+
 ---
 
 ### 8. Glossary
@@ -361,8 +371,15 @@ Though this essay is an original synthesis, the ideas it synthesizes draw on a w
 
 - Gibbon, E. (1776-1789). *The History of the Decline and Fall of the Roman Empire.* — The classic account of internal decay preceding external collapse.
 - Tainter, J. (1988). *The Collapse of Complex Societies.* — The diminishing marginal returns of complexity as a driver of collapse.
+- Turchin, P. (2012). "Dynamics of Political Instability in the United States, 1780-2010." *Journal of Peace Research.* — Cliodynamic modeling and the prediction of the 2020 instability peak using elite overproduction theory.
+- Samvero (2026). "The Pattern Behind Every Major Civilization Collapse." *YouTube.* — A convergent synthesis of Tainter, Turchin, and Toynbee; the v1.1 additions to this essay (Maya deforestation case study, cliodynamics, normalcy bias, and institutional design) were prompted by this video.
 - Diamond, J. (2005). *Collapse.* — Case studies of societies that failed due to resource mismanagement.
 - Slotine, J.J. & Lohmiller, W. (1998). "Contraction Analysis of Nonlinear Systems." — The mathematical framework for understanding how systems lose stability.
+
+*On Cognitive Biases and Structural Forgetting*
+
+- Sharot, T. (2011). "The Optimism Bias." *Current Biology.* — On the systematic filtering of negative information, the psychological mechanism that makes knowledge alone insufficient to prevent the cascade.
+- Kahneman, D. (2011). *Thinking, Fast and Slow.* — Cognitive biases including normalcy bias and the systematic underestimation of tail risks.
 
 *On the Fermi Paradox and the Great Filter*
 
@@ -375,6 +392,8 @@ Though this essay is an original synthesis, the ideas it synthesizes draw on a w
 - IPCC Reports (1990-2025). — The accumulating evidence on the current cascade.
 - Lenton, T. et al. (2008). "Tipping Elements in the Earth's Climate System." — The science of critical thresholds in planetary systems.
 - Kolbert, E. (2014). *The Sixth Extinction.* — The current mass extinction event driven by the forgetting of planetary coherence.
+- Cook, B. et al. (2012). "Deforestation-Induced Climate Change and the Classic Maya Collapse." *Journal of Geophysical Research.* — Satellite and paleoclimate evidence linking Maya deforestation to warm/dry conditions and the terminal collapse.
+- Kennett, D. et al. (2012). "Development and Disintegration of Maya Political Systems in Response to Climate Change." *Science.* — Lake sediment and cave deposit records confirming severe multi-decadal droughts during the terminal Classic period.
 
 *The Quantum Analog*
 
