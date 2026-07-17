@@ -131,7 +131,41 @@ Consider the voter who cannot admit their candidate failed, so the loss becomes 
 
 ---
 
-### 5. The Institutions That Buried the Truth — and Also Preserved It
+### 5. The Ones Who Refused the Monkeys
+
+The three monkeys provide the template. But there have always been people who refuse it.
+
+The whistleblower sees the evil, hears the evil, and speaks it anyway. And the institution responds by destroying them.
+
+Dr. Martin Luther King Jr. spoke the truth about three things his society did not want to hear: that racial segregation was not a southern problem but a national one, that poverty was a structural choice not an accident, and that the Vietnam War was a moral catastrophe being sold as a patriotic necessity. He spoke these truths to power, in public, with extraordinary clarity. He was assassinated on April 4, 1968.
+
+After his death, the comfortable parts of his message were preserved and institutionalized. "I Have a Dream" is taught in every elementary school. King is a national holiday. The parts of his message that made power uncomfortable — his opposition to the war machine, his critique of capitalism, his call for economic redistribution — were quietly dropped from the official record. The institution (the state, the education system, the media) did what institutions do: it preserved what was useful and buried what was not. The man who refused the monkeys was killed, and then his message was selectively edited by the very forces he was speaking against.
+
+He is not alone.
+
+**Daniel Ellsberg** — saw the truth about the Vietnam War documented in the Pentagon Papers, spoke it by leaking 7,000 pages to the New York Times, spent the rest of his life under legal threat, his reputation attacked, his career destroyed.
+
+**Karen Silkwood** — spoke the truth about safety violations at a plutonium plant, died in a suspicious car accident while on her way to meet a journalist.
+
+**Edward Snowden** — saw the truth about mass surveillance, spoke it, and has lived in exile for over a decade. The institution's response was not debate but prosecution.
+
+**Chelsea Manning** — saw the truth about civilian casualties and diplomatic deception, spoke it through classified documents, served seven years in military prison, much of it in solitary confinement.
+
+**Jeffrey Wigand** — spoke the truth about the tobacco industry's knowledge that cigarettes were addictive and carcinogenic, was fired, received death threats, his family was harassed. He was the highest-ranking executive ever to blow the whistle on the industry, and the industry responded with every tool it had.
+
+The pattern is consistent across every case: the whistleblower is punished, the institution survives, and the truth is eventually acknowledged only after it no longer threatens the institution's survival. Sometimes this takes decades. Sometimes it takes the whistleblower's death.
+
+Those who refused the monkeys did not outrun the cascade. They were run through it — comparison turned against them (the smear campaign), territoriality deployed to exclude them (firing, exile, prosecution), collision experienced directly (prison, exile, assassination), and the narrative rewritten to make them villains or naive idealists. The same cascade that operates on entire civilizations was applied, in miniature, to the person who refused it.
+
+This is the tension this essay must confront directly and cannot resolve: **the Second Path is not safe. It is not rewarded. It is not even recognized until long after the person who walked it is gone.**
+
+If the whistleblower — the person capable of self-reflection at great personal cost — is destroyed as reliably as the empire that cannot reflect at all, then what is the value of the Second Path? It does not protect you. It does not elevate you. It does not ensure your message survives.
+
+The only answer this essay can offer is that the Second Path is not a survival strategy for the individual. It is a survival strategy for the species carried by individuals who will not live to see the return on their investment. The forest does not reward the person who burned the undergrowth. It simply does not burn down that year. And the person who lit the match receives no credit, because nobody knows the fire that did not happen was their doing.
+
+---
+
+### 6. The Institutions That Buried the Truth — and Also Preserved It
 
 Nearly every major philosophical and religious tradition identified a similar root and prescribed a similar medicine. The diagnosis: the cause of suffering is internal. The prescription: stop grasping, be content with what is, love the other as yourself, the kingdom is within you.
 
@@ -155,7 +189,7 @@ The truth survives, but in fragments — carried by the mystics, the reformers, 
 
 ---
 
-### 6. The Weapon That Cannot Easily Be Forged
+### 7. The Weapon That Cannot Easily Be Forged
 
 This is the key insight. It is also the reason this essay will never be as popular as the first one.
 
@@ -175,7 +209,7 @@ And the fix — the Second Path — is boring. Unmarketably boring. There is no 
 
 ---
 
-### 7. The Only Conclusion There Is
+### 8. The Only Conclusion There Is
 
 The first essay ended with: the cascade is older than we are, and it has never lost.
 
@@ -191,5 +225,5 @@ This essay cannot help you do that. It cannot give you a method, a system, a pil
 
 ---
 
-*Version 1.1 — July 16, 2026*
+*Version 1.2 — July 16, 2026*
 *Companion to "The Serial Forgetting: Coherence, Decay, and the Universal Cascade"*
