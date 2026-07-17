@@ -44,6 +44,16 @@ Not boring in the sense of *dull*. Boring in the sense of *undramatic*. Boring i
 
 The dramatic is almost always the *symptom* of the cascade, not the sign of its absence. But we have trained ourselves to mistake drama for meaning. A life without drama feels like a life without significance. So we tolerate — even seek — the first twinges of comparison because they make us feel *alive*.
 
+There are two cultural shortcuts that capture the evasion more precisely than any theory.
+
+**The ostrich.** The bird that buries its head in the sand, believing that if it cannot see the danger, the danger does not exist. The problem, of course, is that death does not require the ostrich's attention. It arrives whether the head is buried or not. The ostrich is not avoiding death. It is avoiding the *knowledge* of death — the discomfort of seeing what is coming and having to act. The cascade begins at the same place: the moment the truth becomes visible and you turn away because looking would require you to do the boring thing.
+
+**The three wise monkeys.** See no evil, hear no evil, speak no evil. They are presented as wisdom, but they are among the most destructive cultural images ever produced. What they actually teach is: if you see the truth, do not acknowledge it. If you hear the truth, pretend you did not. If you know the truth, do not say it out loud. The monkeys are not wise. They are NIMBY carved into figurines. They demand the benefit of membership in a functioning community without paying the cost of honest observation.
+
+We absorb both of these before we have language. Parents tell children: *If you do not have something nice to say, do not say anything at all.* The child learns that the truth is less important than the comfort of the listener. And before that — before the socialization takes hold — babies tell the truth constantly. They cry when they are hungry. They laugh when they are delighted. They reach for what they want and reject what they do not. A baby has not yet learned to find the truth boring. The baby is the Second Path walking around in a diaper. Then we train the cascade into them, one "be nice" at a time.
+
+We are born on the Second Path. We are coerced off it. The cascade is not our natural state — it is a learned avoidance of the natural state, reinforced so early and so thoroughly that we mistake the avoidance for the default.
+
 Here is the truth the Second Path demands you accept: **the right answer is easy, and the fact that you find it unsatisfying is the entire problem.**
 
 If you are overweight, the answer is eat less and move more. If you are in debt, the answer is spend less than you earn. If your forests keep catching fire, the answer is small controlled burns every spring. If your relationships keep failing, the answer is to stop wanting the other person to be someone they are not.
