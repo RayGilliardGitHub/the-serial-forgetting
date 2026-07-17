@@ -231,6 +231,12 @@ The "content of character" King called for has been twisted into a politics of c
 
 The cascade is not only about the future — about forgetting to maintain the system. It is also about the past. We do not just forget to act. We actively forget what happened. We edit the record, trim the uncomfortable parts, sanitize the inconvenient figures, and pass down a version of events that demands nothing of the listener.
 
+And when sanitization is not enough — when someone insists on remembering the full, uncomfortable version — the cascade has a second defense. It exhumes the messenger's flaws. *He was an adulterer. He plagiarized his dissertation. He kept company with communists. He was not a good husband. He was not a good father.* Every charge is true, every charge irrelevant to the truth he spoke. But they do not need to be relevant. They only need to be loud enough to change the subject.
+
+The cascade protects itself by making the truth-teller the issue. If you cannot bury the truth, bury the one who carries it. If he is already dead, dig up his sins and lay them next to his words so that the words appear smaller.
+
+The strategy works because it is human. We want heroes to be perfect. When they are not, we feel betrayed. And in that feeling of betrayal, we release ourselves from the obligation to hear what they said. *If he was flawed, his message must be flawed too.* That is not logic. It is the cascade using our own moral discomfort as a weapon against the truth.
+
 The Second Path requires everything from you. It requires you to admit that the easy answer is the right answer and that your dissatisfaction with its simplicity is your own problem to manage. It requires you to accept that you will not be recognized for maintaining coherence, that your work will be invisible, and that the only reward for doing the right thing is that the wrong thing does not happen — and nobody credits you for the thing that did not happen.
 
 It requires you to say: **the real enemy is me, and the war has no victory condition, and the only thing that matters is whether I show up tomorrow and do the boring thing again.**
@@ -239,5 +245,5 @@ This essay cannot help you do that. It cannot give you a method, a system, a pil
 
 ---
 
-*Version 1.3 — July 16, 2026*
+*Version 1.4 — July 16, 2026*
 *Companion to "The Serial Forgetting: Coherence, Decay, and the Universal Cascade"*
