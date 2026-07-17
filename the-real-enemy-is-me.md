@@ -157,6 +157,10 @@ The pattern is consistent across every case: the whistleblower is punished, the 
 
 Those who refused the monkeys did not outrun the cascade. They were run through it — comparison turned against them (the smear campaign), territoriality deployed to exclude them (firing, exile, prosecution), collision experienced directly (prison, exile, assassination), and the narrative rewritten to make them villains or naive idealists. The same cascade that operates on entire civilizations was applied, in miniature, to the person who refused it.
 
+And in most of these cases, the machinery was not set in motion by the institution's survival instinct. It was set in motion by one person — a manager, a director, a cabinet secretary, a bureau chief, a general — who saw the truth coming and realized it would make them look bad. The whistleblower was not threatening the Republic. They were threatening one powerful person's reputation. The cascade was deployed not to protect the system but to protect the ego of someone inside it who refused the reflection the truth demanded.
+
+That is the cascade at its purest. The institution acts as the delivery mechanism, but the motive is personal: *I cannot be seen to have been wrong. I cannot lose my position. I cannot be knocked down a peg.* The same refusal to look inward that ends empires also ends careers, relationships, and lives — applied at whatever scale is necessary to protect one person from the unbearable experience of admitting error.
+
 This is the tension this essay must confront directly and cannot resolve: **the Second Path is not safe. It is not rewarded. It is not even recognized until long after the person who walked it is gone.**
 
 If the whistleblower — the person capable of self-reflection at great personal cost — is destroyed as reliably as the empire that cannot reflect at all, then what is the value of the Second Path? It does not protect you. It does not elevate you. It does not ensure your message survives.
