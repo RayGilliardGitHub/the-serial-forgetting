@@ -50,9 +50,7 @@ There are two cultural shortcuts that capture the evasion more precisely than an
 
 **The three wise monkeys.** See no evil, hear no evil, speak no evil. They are presented as wisdom, but they are among the most destructive cultural images ever produced. What they actually teach is: if you see the truth, do not acknowledge it. If you hear the truth, pretend you did not. If you know the truth, do not say it out loud. The monkeys are not wise. They are NIMBY carved into figurines. They demand the benefit of membership in a functioning community without paying the cost of honest observation.
 
-We absorb both of these before we have language. Parents tell children: *If you do not have something nice to say, do not say anything at all.* The child learns that the truth is less important than the comfort of the listener. And before that — before the socialization takes hold — babies tell the truth constantly. They cry when they are hungry. They laugh when they are delighted. They reach for what they want and reject what they do not. A baby has not yet learned to find the truth boring. The baby is the Second Path walking around in a diaper. Then we train the cascade into them, one "be nice" at a time.
-
-We are born on the Second Path. We are coerced off it. The cascade is not our natural state — it is a learned avoidance of the natural state, reinforced so early and so thoroughly that we mistake the avoidance for the default.
+We absorb both of these before we have language. Parents tell children: *If you do not have something nice to say, do not say anything at all.* The child learns that the truth is less important than the comfort of the listener. And before that — before the socialization takes hold — babies have not yet learned the social evasions that adults practice. They cry when they are hungry. They laugh when they are delighted. They reach for what they want and reject what they do not. They have not yet learned to find the truth boring. Then we train the cascade into them, one "be nice" at a time.
 
 Here is the truth the Second Path demands you accept: **the right answer is easy, and the fact that you find it unsatisfying is the entire problem.**
 
@@ -187,7 +185,7 @@ And within a generation or two of the founder's death — in most cases, though 
 
 The problem is not that institutions are *bad*. It is that they face a structural tension that cannot be fully resolved. The message "the real enemy is inside you" does not recruit members. It does not raise funds. It does not defend borders. It does not justify hierarchy. An institution that takes this message seriously will find itself with fewer resources, less cohesion, and more internal dissent than an institution that tells its members the enemy is outside and the institution holds the key.
 
-The transmission of any teaching across generations requires organization. And organization, once formed, has its own survival as a primary objective. The founder's insight is preserved in the organization's charter but gradually subordinated to the organization's needs. This is not betrayal. It is thermodynamics applied to human systems. Every institution that survives long enough faces the same trade-off, and most resolve it in the same direction.
+The transmission of any teaching across generations requires organization. And organization, once formed, has its own survival as a primary objective. The founder's insight is preserved in the organization's charter but gradually subordinated to the organization's needs. This is not betrayal. It is the price of transmission. Every institution that survives long enough faces the same trade-off, and most resolve it in the same direction.
 
 The truth survives, but in fragments — carried by the mystics, the reformers, the ones who read the original text and noticed the gap between what it said and what the institution was doing. They are rarely welcomed.
 
@@ -221,21 +219,9 @@ This essay ends the same way — but for a different reason.
 
 The cascade never loses because it does not need to win. It is not a force or an enemy. It is the shape of forgetting, and forgetting is the default trajectory of any system that stops maintaining itself. The cascade never loses because winning requires nothing from it. It just waits.
 
-Every January, around Martin Luther King's birthday, the country performs a ritual of remembering. Schools teach "I Have a Dream." Politicians quote "content of character." The speakers at the ceremonies do not mention his opposition to the Vietnam War. They do not mention his call for economic redistribution. They do not mention the FBI surveillance designed to destroy him, or the assassination, or the fact that the man who pulled the trigger was never tried.
+Every January, around Martin Luther King's birthday, the country performs a ritual of remembering — but it is remembering dressed as forgetting. The comfortable fragments are preserved: "I Have a Dream," "content of character." The uncomfortable parts are dropped: the opposition to the Vietnam War, the call for economic redistribution, the FBI surveillance, the assassination. The "content of character" he called for has been twisted into a politics of colorblindness that skips the reckoning and pretends the past does not exist. This is HILO applied to history: we rewrite what happened so that no one has to feel uncomfortable about what we inherited or what we are failing to do.
 
-They are not remembering King. They are performing a ritual of forgetting dressed up as remembering — selecting the comfortable fragments, discarding the rest, and calling it honor. The words are kept but the demand they made on the listener is quietly removed.
-
-This is the cascade operating inside the very act of memory. We can remember the wrongs. We have the capacity. We do it every year. But we choose to forget the hurt and the harm, because full remembering would require something from us — a change in behavior, a redistribution of resources, an admission that the current order is built on the ground the truth-teller cleared.
-
-The "content of character" King called for has been twisted into a politics of colorblindness: "I don't see race." This is not what he meant. He was calling for a return to the Second Path — a world where people are seen fully, harm acknowledged, history reckoned with, and judgment rendered on the whole person. Colorblindness skips the reckoning. It pretends the past does not exist. It is HILO applied to history: we rewrite what happened so that no one has to feel uncomfortable about what we inherited, who we are, or what we are failing to do.
-
-The cascade is not only about the future — about forgetting to maintain the system. It is also about the past. We do not just forget to act. We actively forget what happened. We edit the record, trim the uncomfortable parts, sanitize the inconvenient figures, and pass down a version of events that demands nothing of the listener.
-
-And when sanitization is not enough — when someone insists on remembering the full, uncomfortable version — the cascade has a second defense. It exhumes the messenger's flaws. *He was an adulterer. He plagiarized his dissertation. He kept company with communists. He was not a good husband. He was not a good father.* Every charge is true, every charge irrelevant to the truth he spoke. But they do not need to be relevant. They only need to be loud enough to change the subject.
-
-The cascade protects itself by making the truth-teller the issue. If you cannot bury the truth, bury the one who carries it. If he is already dead, dig up his sins and lay them next to his words so that the words appear smaller.
-
-The strategy works because it is human. We want heroes to be perfect. When they are not, we feel betrayed. And in that feeling of betrayal, we release ourselves from the obligation to hear what they said. *If he was flawed, his message must be flawed too.* That is not logic. It is the cascade using our own moral discomfort as a weapon against the truth.
+The cascade is not only about the future. We do not just forget to act. We actively forget what happened — we edit the record, trim the uncomfortable parts, and if the sanitized version is challenged, we exhume the messenger's flaws to give ourselves permission to stop listening. *If he was flawed, his message must be flawed too.* That is not logic. It is the cascade using our own moral discomfort as a weapon against the truth.
 
 The Second Path requires everything from you. It requires you to admit that the easy answer is the right answer and that your dissatisfaction with its simplicity is your own problem to manage. It requires you to accept that you will not be recognized for maintaining coherence, that your work will be invisible, and that the only reward for doing the right thing is that the wrong thing does not happen — and nobody credits you for the thing that did not happen.
 
@@ -245,5 +231,5 @@ This essay cannot help you do that. It cannot give you a method, a system, a pil
 
 ---
 
-*Version 1.4 — July 16, 2026*
+*Version 1.5 — July 16, 2026*
 *Companion to "The Serial Forgetting: Coherence, Decay, and the Universal Cascade"*
