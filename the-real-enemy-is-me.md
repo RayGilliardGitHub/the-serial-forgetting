@@ -221,6 +221,16 @@ This essay ends the same way — but for a different reason.
 
 The cascade never loses because it does not need to win. It is not a force or an enemy. It is the shape of forgetting, and forgetting is the default trajectory of any system that stops maintaining itself. The cascade never loses because winning requires nothing from it. It just waits.
 
+Every January, around Martin Luther King's birthday, the country performs a ritual of remembering. Schools teach "I Have a Dream." Politicians quote "content of character." The speakers at the ceremonies do not mention his opposition to the Vietnam War. They do not mention his call for economic redistribution. They do not mention the FBI surveillance designed to destroy him, or the assassination, or the fact that the man who pulled the trigger was never tried.
+
+They are not remembering King. They are performing a ritual of forgetting dressed up as remembering — selecting the comfortable fragments, discarding the rest, and calling it honor. The words are kept but the demand they made on the listener is quietly removed.
+
+This is the cascade operating inside the very act of memory. We can remember the wrongs. We have the capacity. We do it every year. But we choose to forget the hurt and the harm, because full remembering would require something from us — a change in behavior, a redistribution of resources, an admission that the current order is built on the ground the truth-teller cleared.
+
+The "content of character" King called for has been twisted into a politics of colorblindness: "I don't see race." This is not what he meant. He was calling for a return to the Second Path — a world where people are seen fully, harm acknowledged, history reckoned with, and judgment rendered on the whole person. Colorblindness skips the reckoning. It pretends the past does not exist. It is HILO applied to history: we rewrite what happened so that no one has to feel uncomfortable about what we inherited, who we are, or what we are failing to do.
+
+The cascade is not only about the future — about forgetting to maintain the system. It is also about the past. We do not just forget to act. We actively forget what happened. We edit the record, trim the uncomfortable parts, sanitize the inconvenient figures, and pass down a version of events that demands nothing of the listener.
+
 The Second Path requires everything from you. It requires you to admit that the easy answer is the right answer and that your dissatisfaction with its simplicity is your own problem to manage. It requires you to accept that you will not be recognized for maintaining coherence, that your work will be invisible, and that the only reward for doing the right thing is that the wrong thing does not happen — and nobody credits you for the thing that did not happen.
 
 It requires you to say: **the real enemy is me, and the war has no victory condition, and the only thing that matters is whether I show up tomorrow and do the boring thing again.**
@@ -229,5 +239,5 @@ This essay cannot help you do that. It cannot give you a method, a system, a pil
 
 ---
 
-*Version 1.2 — July 16, 2026*
+*Version 1.3 — July 16, 2026*
 *Companion to "The Serial Forgetting: Coherence, Decay, and the Universal Cascade"*
