@@ -12,14 +12,16 @@ The essays were written over time, each one correcting or deepening the one befo
 
 ### The Essays in Order of Writing
 
-| # | File | Description |
-|---|---|---|
-| 1 | [`the-forgetting-paper.md`](the-forgetting-paper.md) | **The Serial Forgetting** — The cascade observed externally across history, ecology, quantum physics, and philosophy. Argues that the same pattern (FOMO → NIMBY → FAFO → HILO) recurs at every scale. |
-| 2 | [`the-real-enemy-is-me.md`](the-real-enemy-is-me.md) | **The Real Enemy Is Me** — The same lens turned inward. Argues that the cascade is not something that happens *to* us — it is something we participate in. The simple answer is the right answer, and our dissatisfaction with its simplicity is the engine of forgetting. |
-| 3 | [`sack-of-shit.md`](sack-of-shit.md) | **Sack of Shit** — A meditation on entropy, meaning, and the temporary membrane. Asks whether any of this matters given the universe's indifference and answers with a quiet "I choose to keep caring anyway." |
-| 4 | [`i-wish.md`](i-wish.md) | **I Wish** — Projection, mathematics, the looking-glass self, and the lilies of the field. An essay about seeing only your own angle and mistaking it for the whole. Uses the Erdős Unit Distance Problem as a metaphor for resolving contradiction by rotating into a higher dimension. |
-| 5 | [`i-wish-second-version.md`](i-wish-second-version.md) | **I Wish (Second Version)** — The same essay stripped of decoys. Admits the first version danced around grief using math as a shield. Names Nancy directly. The hole where she used to be is the silence the other essays describe at scale. |
-| 6 | [`the-serial-silence.md`](the-serial-silence.md) | **The Serial Silence** — A correction to the first essay. The mechanism is not forgetting. The information never disappears — it is *silenced* by people who see the pattern but calculate that speaking costs more than watching. The silence of the informed is the precondition that makes the cascade possible. |
+Every essay in this series started the same way: something in the news — a YouTube video, a contamination outbreak, a sanctions story, an HFY sci-fi narration — sparked a conversation, and the conversation became an essay. The news trigger is noted for each.
+
+| # | File | Trigger | Description |
+|---|---|---|---|
+| 1 | [`the-forgetting-paper.md`](the-forgetting-paper.md) | A YouTube video analyzing civilizational collapse patterns (Samvero, 2026) + observing a "Karen" in a store | **The Serial Forgetting** — The cascade observed externally across history, ecology, quantum physics, and philosophy. Argues that the same pattern (FOMO → NIMBY → FAFO → HILO) recurs at every scale. |
+| 2 | [`the-real-enemy-is-me.md`](the-real-enemy-is-me.md) | The first essay's own glibness — the "Karen" section let readers feel superior instead of implicated | **The Real Enemy Is Me** — The same lens turned inward. Argues that the cascade is not something that happens *to* us — it is something we participate in. The simple answer is the right answer, and our dissatisfaction with its simplicity is the engine of forgetting. |
+| 3 | [`sack-of-shit.md`](sack-of-shit.md) | FDA Cyclospora outbreak in Taco Bell lettuce (July 2026) — a parasite traced to human sewage in Mexican irrigation water | **Sack of Shit** — A meditation on entropy, meaning, and the temporary membrane. Asks whether any of this matters given the universe's indifference and answers with a quiet "I choose to keep caring anyway." |
+| 4 | [`i-wish.md`](i-wish.md) | A YouTube video titled "Denmark's New Move Against ISLAM Has Europe Stunned" — alarmist clickbait that spiraled into projection, mathematics, and the looking-glass self | **I Wish** — Projection, mathematics, the looking-glass self, and the lilies of the field. An essay about seeing only your own angle and mistaking it for the whole. Uses the Erdős Unit Distance Problem as a metaphor for resolving contradiction by rotating into a higher dimension. |
+| 5 | [`i-wish-second-version.md`](i-wish-second-version.md) | Feedback that the first version was still hiding — using math as a decoy instead of naming what the essay was actually about | **I Wish (Second Version)** — The same essay stripped of decoys. Admits the first version danced around grief using math as a shield. Names Nancy directly. The hole where she used to be is the silence the other essays describe at scale. |
+| 6 | [`the-serial-silence.md`](the-serial-silence.md) | An HFY sci-fi story ("A Cloaked Human Battleship Revealed Itself…" — Black Captain Extra) + the France/NixOS/Huawei sanctions news cycle | **The Serial Silence** — A correction to the first essay. The mechanism is not forgetting. The information never disappears — it is *silenced* by people who see the pattern but calculate that speaking costs more than watching. The silence of the informed is the precondition that makes the cascade possible. |
 
 ---
 
