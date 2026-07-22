@@ -37,7 +37,7 @@ I have been sitting with the HFY story I mentioned in the conversation that prod
 
 That is not forgetting. That is **silence.** And it is serial — repeated, structural, rewarded across generations.
 
-The first essay mistook the symptom for the cause. The forgetting is real, but it is downstream. The upstream mechanism is the silence of the people who know. The cascade does not begin when the information is lost. It begins when the people who have the information decide that keeping their seat at the table is worth more than telling the truth.
+The first essay mistook the symptom for the cause. The forgetting is real, but it is downstream. The upstream mechanism is the silence of the people who know. The cascade does not begin when the information is lost. It begins when the people who have the information decide that keeping their seat at the table is worth more than telling the truth — when **see no evil** becomes not seeing, **hear no evil** becomes not listening, **speak no evil** becomes not saying, and **do no evil** becomes not acting. The four monkeys were supposed to be a practice of purity. The corrupted version makes them a practice of complicity.
 
 ---
 
@@ -57,7 +57,7 @@ I did not see this when I wrote the first essay. I was looking at the pattern of
 
 There is a simpler way to see this. We are born on the **Second Path**. A baby tells the truth, wants what it wants, has no comparison and no territoriality and no narrative rewriting. Then we train the cascade into them, one "if you don't have something nice to say" at a time.
 
-The three wise monkeys — see no evil, hear no evil, speak no evil — are not wisdom. They are **Silence** carved into figurines. They teach: if you see the truth, don't acknowledge it; if you hear it, pretend you didn't; if you know it, don't say it.
+The three wise monkeys — see no evil, hear no evil, speak no evil — are not wisdom in the corrupted version most of us inherit. The original teaching was about guarding the senses against corruption: do not let evil enter through your eyes, your ears, or your mouth. A fourth monkey — **do no evil** — completes the set: do not let your hands act on what the first three have kept out. But the original meaning was forgotten — a HILO event in miniature — and what survived was the version that serves power: look away, listen away, shut up, and keep your hands still. That corrupted version is **Silence** carved into figurines. It teaches: if you see the truth, don't acknowledge it; if you hear it, pretend you didn't; if you know it, don't say it; and if you can act, don't move.
 
 The cascade is not the fall from grace. It is what happens when grace is educated out of you — when a child who tells the truth learns that telling the truth costs them something they want more. That lesson is the first practice of **Silence**. Everything else — the empires, the collapses, the silenced courtiers — is just that lesson scaled up.
 
@@ -134,7 +134,7 @@ All three happen. But underneath all three is a simpler failure: **the people wh
 
 This is not a failure of intelligence, judgment, or power. It is a failure of nerve — structural, rewarded, and serial. The same institution that cannot hear bad news selects for people who learn not to deliver it. After enough cycles of this selection, the institution becomes a room full of people who all see it, all know it, and all know better than to say it.
 
-The first sign of decline is not corruption, not incompetence, not external pressure. It is the silence of the informed. It is the moment when the person who could stop the disaster does the math and decides that keeping their seat is worth more than preventing the collision.
+The first sign of decline is not corruption, not incompetence, not external pressure. It is the silence of the informed. It is the moment when the person who could stop the disaster does the math and decides that keeping their seat is worth more than preventing the collision. **See no evil** — the pattern is visible but they train their eyes away. **Hear no evil** — the warnings arrive but they do not let them land. **Speak no evil** — the truth forms in their mind but stops at their throat. **Do no evil** — their hands stay folded while the system tips.
 
 I missed this in the first essay. I described the forgetting. I did not name the silence that causes it.
 
