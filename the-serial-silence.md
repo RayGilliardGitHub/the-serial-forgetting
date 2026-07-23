@@ -103,6 +103,16 @@ From the throne's perspective, this silence looks like agreement. The courtiers 
 
 But the silence is not peace. It is the spite of people who gave up trying to be heard and decided to let gravity do its work. The silence is the moment the system's last chance at correction expires.
 
+There is a scene in *The Chronicles of Riddick* that captures this exactly. The Lord Marshal is giving a speech to his minions, self-absorbed, certain of his power. He does not see Riddick approaching with a knife. Vaako and Dame Vaako stand in the shadows — they see everything. Vaako moves to intervene. He could save the Lord Marshal. He could stop what is about to happen.
+
+His wife stops him.
+
+She does not explain. She does not argue. She simply prevents the intervention. The Lord Marshal turns back, suddenly aware he has lost control, that the thing he did not see coming is already upon him. The knife goes in.
+
+And Dame Vaako — watching the system collapse from the inside, watching the man who would not listen be consumed by what he refused to see — says: **"Flawless."**
+
+That is entropy's voice. Not angry, not triumphant. Just observing that the mechanism operated without error. The system destroyed itself exactly as it was always going to. She did not cause it. She just got out of the way and let it happen.
+
 ### Why the Simple Fix Stays Unspoken
 
 There is a deeper mechanism here that the first essay gestured at but did not name clearly. The **Second Path** answer to most problems is embarrassingly simple. Eat less, move more. Light small fires every spring. Tell the truth. Admit you were wrong. Spend less than you earn.
