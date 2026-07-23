@@ -93,7 +93,7 @@ Silence is usually framed as the weapon of the powerful — the gag order, the s
 
 It is the silence of the people who *could* speak but *won't*, and their silence is not compliance. It is the only power they have left.
 
-The courtier who has watched forty years of bad news being shot, forty years of truth-tellers being sidelined, forty years of Sharpies drawn on maps while everyone nods — at some point the calculation shifts. It shifts from "I cannot speak" to "I will not speak." And that shift is **spite** — the last currency of the powerless.
+The courtier who has watched forty years of bad news being shot, forty years of truth-tellers being sidelined, forty years of Sharpies drawn on weather maps while everyone nods — at some point the calculation shifts. It shifts from "I cannot speak" to "I will not speak." And that shift is **spite** — the last currency of the powerless.
 
 > *"You don't want to hear it. You've made that clear for decades. So I'll stop saying it. And when the thing I saw coming arrives, don't act surprised."*
 
