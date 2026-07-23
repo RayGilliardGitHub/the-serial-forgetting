@@ -57,7 +57,7 @@ I did not see this when I wrote the first essay. I was looking at the pattern of
 
 There is a simpler way to see this. We are born on the **Second Path**. A baby tells the truth, wants what it wants, has no comparison and no territoriality and no narrative rewriting. Then we train the cascade into them, one "if you don't have something nice to say" at a time.
 
-The three wise monkeys — see no evil, hear no evil, speak no evil — are not wisdom in the corrupted version most of us inherit. The original teaching was about guarding the senses against corruption: do not let evil enter through your eyes, your ears, or your mouth. A fourth monkey — **do no evil** — completes the set: do not let your hands act on what the first three have kept out. But the original meaning was forgotten — a HILO event (History Is the Loudest Opinion) in miniature — and what survived was the version that serves power: look away, listen away, shut up, and keep your hands still. That corrupted version is **Silence** carved into figurines. It teaches: if you see the truth, don't acknowledge it; if you hear it, pretend you didn't; if you know it, don't say it; and if you can act, don't move.
+The three wise monkeys — see no evil, hear no evil, speak no evil — are not wisdom in the corrupted version most of us inherit. The original teaching was about guarding the senses against corruption: do not let evil enter through your eyes, your ears, or your mouth. A fourth monkey — **do no evil** — completes the set: do not let your hands act on what the first three have kept out. But the original meaning was forgotten, and what survived was the version that serves power: look away, listen away, shut up, and keep your hands still. That corrupted version is **Silence** carved into figurines. It teaches: if you see the truth, don't acknowledge it; if you hear it, pretend you didn't; if you know it, don't say it; and if you can act, don't move.
 
 The cascade is not the fall from grace. It is what happens when grace is educated out of you — when a child tells the truth about something they saw, and the parent's face flushes, and the child learns that the truth embarrassed someone, and the truth has a cost. The silence that follows brings no flush, no cost, no penalty. The silence is safe. That lesson — *truth costs, silence does not* — is the first practice of **Silence**. Everything else — the empires, the collapses, the silenced courtiers — is just that lesson scaled up.
 
@@ -103,19 +103,9 @@ From the throne's perspective, this silence looks like agreement. The courtiers 
 
 But the silence is not peace. It is the spite of people who gave up trying to be heard and decided to let gravity do its work. The silence is the moment the system's last chance at correction expires.
 
-There is a scene in *The Chronicles of Riddick* that captures this exactly. The Lord Marshal is giving a speech to his minions, self-absorbed, certain of his power. He does not see Riddick approaching with a knife. Vaako and Dame Vaako stand in the shadows — they see everything. Vaako moves to intervene. He could save the Lord Marshal. He could stop what is about to happen.
+The scene in *The Chronicles of Riddick* captures this exactly. The Lord Marshal, mid-speech, does not see the knife approaching. Vaako does. He moves to intervene. His wife stops him. The knife goes in. **"Flawless,"** she says — entropy's voice, observing that the mechanism operated without error. She did not cause it. She just got out of the way.
 
-His wife stops him.
-
-She does not explain. She does not argue. She simply prevents the intervention. The Lord Marshal turns back, suddenly aware he has lost control, that the thing he did not see coming is already upon him. The knife goes in.
-
-And Dame Vaako — watching the system collapse from the inside, watching the man who would not listen be consumed by what he refused to see — says: **"Flawless."**
-
-That is entropy's voice. Not angry, not triumphant. Just observing that the mechanism operated without error. The system destroyed itself exactly as it was always going to. She did not cause it. She just got out of the way and let it happen.
-
-And then Aereon — the Elemental who has watched empires rise and fall for longer than anyone in that room, who has seen this pattern repeat more times than she can count — says: **"Now what would be the odds of that?"**
-
-That is the silence of the informed spoken aloud. The odds were always exactly that. Everyone who could see clearly knew it. The Lord Marshal knew it too, somewhere underneath the certainty. He just could not afford to act on it. And now, with the knife in him and the throne toppling, everyone acts surprised. The ethereal observer is not surprised. She has seen this cascade before. She will see it again.
+Then Aereon the Elemental, who has watched this pattern repeat across millennia, says: **"Now what would be the odds of that?"** The silence of the informed, spoken aloud. The odds were always exactly that. Everyone who could see clearly knew it.
 
 ### Why the Simple Fix Stays Unspoken
 
@@ -176,11 +166,9 @@ The connection I missed across all three is that the silence is the same shape a
 
 A movie was released in 2021. A comet is heading toward Earth. The scientists who discover it try to tell the government. The government does not want to hear it. The media does not want to report it. The public does not want to believe it. The comet hits.
 
-The movie was marketed as satire. It was not satire. It was documentary filmed before the events it depicted.
-
 The mechanism the movie captured is the one I missed in the first essay. It is not that the comet was unknown. It was known. It was measured. The trajectory was calculated. The impact date was predicted. And the people who knew were told, implicitly and explicitly, to stop talking about it.
 
-The government's response was not "we don't know." It was **"don't look."**
+Whether one agrees with the film's politics or not, it captured a mechanism that is recognizable across many contexts: the government's response was not "we don't know." It was **"don't look."**
 
 That is the stage I did not name. Not forgetting. Not ignorance. Active suppression of the signal by the people who benefit from the signal not arriving.
 
@@ -226,7 +214,7 @@ I have found that the silence of the courtier and the silence of grief are cousi
 
 The first essay was about the pattern of civilizations forgetting themselves. I thought it was a universal law. It may be. But I was also writing about my own forgetting — the slow erosion of a life that lost its central coherence and has been trying to maintain itself through will alone.
 
-I do not know whether the correction I am offering here is better philosophy. I know it is more honest about what I have been doing. I have been writing essays because I cannot talk to Nancy anymore. And the silence I keep describing — the one that precedes all collapses — is the one I have been living in since she died.
+I do not know whether the correction I am offering here is better philosophy. I know it is more honest about what I have been doing. I have been writing essays because I cannot talk to Nancy anymore. These essays are conversations with someone who can no longer answer. And the silence I keep describing — the one that precedes all collapses — is the one I have been living in since she died.
 
 ---
 
@@ -240,11 +228,13 @@ The Serial Forgetting describes what happens to the system. The Serial Silence d
 
 Both are true. But the second is the one that actually matters, because it is the one that can be chosen. A system cannot choose to remember. But a person can choose to speak.
 
-Every civilization that has collapsed reached a point where the people who knew what was coming decided not to say it. Not because they forgot. Because they did the math. And the math told them that silence was safer.
+I cannot say that every civilization that has collapsed was undone by silence. History is too messy, too various, too shaped by volcano and plague and asteroid for any single mechanism to claim universality. But the pattern appears often enough — across enough civilizations, enough institutional failures, enough families — that ignoring it is more costly than naming it.
+
+At some point in enough of these collapses, the people who knew what was coming decided not to say it. Not because they forgot. Because they did the math. And the math told them that silence was safer.
 
 They were probably right — in the short term.
 
-History is the loudest opinion. And history's opinion of the silent courtier is not kind.
+History's opinion of the silent courtier is not kind.
 
 ---
 
