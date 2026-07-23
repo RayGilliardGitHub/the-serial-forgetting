@@ -43,7 +43,7 @@ The first essay mistook the symptom for the cause. The forgetting is real, but i
 
 ### 2. The Shape of the Correction
 
-The four-stage cascade — FOMO → NIMBY → FAFO → HILO — is still a useful description of what happens *after* the coherence breaks. But it is missing the stage that precedes all of them, the precondition that makes the cascade possible:
+The four-stage cascade — FOMO → NIMBY → FAFO → HILO (History Is the Loudest Opinion) — is still a useful description of what happens *after* the coherence breaks. But it is missing the stage that precedes all of them, the precondition that makes the cascade possible:
 
 **SILENCE** — The moment the information feedback loop breaks because the people closest to the truth choose not to speak it.
 
@@ -57,7 +57,7 @@ I did not see this when I wrote the first essay. I was looking at the pattern of
 
 There is a simpler way to see this. We are born on the **Second Path**. A baby tells the truth, wants what it wants, has no comparison and no territoriality and no narrative rewriting. Then we train the cascade into them, one "if you don't have something nice to say" at a time.
 
-The three wise monkeys — see no evil, hear no evil, speak no evil — are not wisdom in the corrupted version most of us inherit. The original teaching was about guarding the senses against corruption: do not let evil enter through your eyes, your ears, or your mouth. A fourth monkey — **do no evil** — completes the set: do not let your hands act on what the first three have kept out. But the original meaning was forgotten — a HILO event in miniature — and what survived was the version that serves power: look away, listen away, shut up, and keep your hands still. That corrupted version is **Silence** carved into figurines. It teaches: if you see the truth, don't acknowledge it; if you hear it, pretend you didn't; if you know it, don't say it; and if you can act, don't move.
+The three wise monkeys — see no evil, hear no evil, speak no evil — are not wisdom in the corrupted version most of us inherit. The original teaching was about guarding the senses against corruption: do not let evil enter through your eyes, your ears, or your mouth. A fourth monkey — **do no evil** — completes the set: do not let your hands act on what the first three have kept out. But the original meaning was forgotten — a HILO event (History Is the Loudest Opinion) in miniature — and what survived was the version that serves power: look away, listen away, shut up, and keep your hands still. That corrupted version is **Silence** carved into figurines. It teaches: if you see the truth, don't acknowledge it; if you hear it, pretend you didn't; if you know it, don't say it; and if you can act, don't move.
 
 The cascade is not the fall from grace. It is what happens when grace is educated out of you — when a child who tells the truth learns that telling the truth costs them something they want more. That lesson is the first practice of **Silence**. Everything else — the empires, the collapses, the silenced courtiers — is just that lesson scaled up.
 
