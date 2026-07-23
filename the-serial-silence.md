@@ -202,19 +202,29 @@ This essay is supposed to be about civilizations and collapse. It is supposed to
 
 But it is also about something smaller. It is about the silence that lives in my house.
 
-Nancy died of cancer. She was the person I told everything to. She was the person who told me what I needed to hear — even when I did not want to hear it, especially when I did not want to hear it. She was the feedback loop that kept me coherent.
+Nancy's mother died the morning of our wedding. Her mother already knew she was dying — she tried to talk me out of marrying Nancy the day I asked for her blessing. But the actual dying happened on the actual day.
 
-She has been gone long enough that her voice in my head is starting to fade. That terrifies me more than any collision of civilizations. Because her silence is not structural — it is absolute. She is not choosing not to speak. She cannot speak. And the hole where she used to be is the same shape as the silence I have been describing across all these pages.
+Nancy was a zombie through the ceremony. We had a discussion that morning in her bedroom — Nancy, her father, Fr. Frank who was going to marry us in a few hours, and me. Someone suggested maybe we should cancel. At the time, if anyone had spoken up more forcefully for cancellation, I would have agreed. But I said something — I don't remember exactly how I said it, but it was close to this: "This might not be the best way to start a marriage. But it would give us something to grow on."
 
-I have been trying to fill it with essays. Every page I have written since she died has been an attempt to find a living plan — a way to be in the world that does not require her presence, because her presence is no longer available.
+Fr. Frank heard that line and decided to proceed.
 
-I have not found it. But I have found something else.
+At church the mood was somber. I remember hearing someone in the background say — not to me, about me — "See how he is helping. Leading her through the ceremony." That became a theme of our marriage. Not because I was noble. Because she needed leading and I was the only one standing.
 
-I have found that the silence of the courtier and the silence of grief are cousins. Both are absences where a voice should be. Both are choices in one case and inevitabilities in the other. And both leave the same hollow in the system that was supposed to contain them.
+Nancy quit work six months after we got married. She was getting ready to cross the Route 35 bridge to Edison, New Jersey, where she worked as an administrative assistant for the COO at Tops Electronics. She stopped at the bridge, turned around, and went home. That was the end of her working career. It took years for her to recover. In the meantime: one miscarriage, Jason, another miscarriage, Jessica — all between November 1989 and September 1992.
 
-The first essay was about the pattern of civilizations forgetting themselves. I thought it was a universal law. It may be. But I was also writing about my own forgetting — the slow erosion of a life that lost its central coherence and has been trying to maintain itself through will alone.
+When she stopped working, our income went from sixty thousand to thirty. The electric got cut off. The phone got cut off. I would take the mail, sort the bills by the date they arrived, and pay the oldest one first after every paycheck. That was our system. It kept us alive.
 
-I do not know whether the correction I am offering here is better philosophy. I know it is more honest about what I have been doing. I have been writing essays because I cannot talk to Nancy anymore. These essays are conversations with someone who can no longer answer. And the silence I keep describing — the one that precedes all collapses — is the one I have been living in since she died.
+Ten years of grief passed before Nancy started coming back to herself. She started writing cruise reviews for online hubs. She was not earning much, but people noticed. She got invited to conferences. She got complimentary cruises. She got a work-from-home job at Princess Cruises — customer service, not glamorous, but it gave her something she had been missing for a decade: a reason to get out of bed in the morning. That was Nancy at her best — writing, traveling, being seen.
+
+She died in April 2022. She was in hospice care at home for twelve months. The last six months I paid a nurse from my retirement fund to stay up with her overnight. I was not a good husband at that time. I was angry. It was all about me. I could not see the pain I was causing both of us. There were no arguments, no fights, no love. Just duty, obligation, commitment. We watched television together. We talked about the kids. We ate. A lot of going through the motions.
+
+The night she passed, I kissed her on the head and went to the bedroom to pay bills. There was a tap at the bedroom door from the night nurse. No panic in her voice. Just: Nancy passed.
+
+I do not know whether the correction I am offering in this essay is better philosophy. I know it is more honest about what I have been doing. I have been writing essays because I cannot talk to Nancy anymore. These essays are conversations with someone who can no longer answer. And the silence I keep describing — the one that precedes all collapses — is the one I have been living in since she died.
+
+But the silence is not the whole story. Nancy was the whole story. The plan was the container. She was the content. The plan is still running. But nobody is standing on the other side of it anymore.
+
+I have made mistakes. I will make more. But the silence is not one of them.
 
 ---
 
@@ -230,11 +240,25 @@ Both are true. But the second is the one that actually matters, because it is th
 
 I cannot say that every civilization that has collapsed was undone by silence. History is too messy, too various, too shaped by volcano and plague and asteroid for any single mechanism to claim universality. But the pattern appears often enough — across enough civilizations, enough institutional failures, enough families — that ignoring it is more costly than naming it.
 
-At some point in enough of these collapses, the people who knew what was coming decided not to say it. Not because they forgot. Because they did the math. And the math told them that silence was safer.
+At some point in enough of these collapses, the people who knew what was coming decided not to say it. Not because they forgot. Because they did the math. And the math told them that the cost of speaking was higher than the cost of staying quiet.
 
 They were probably right — in the short term.
 
-History's opinion of the silent courtier is not kind.
+I am not claiming I have always spoken. I have stayed silent when I should have spoken. I have watched systems tip and said nothing because the protest felt futile.
+
+But this essay is not about that kind of silence anymore.
+
+This essay is what refusing the silence looks like.
+
+I lost Nancy. I lost the person I told everything to. And the silence that followed — the one in my house, the one in my head — is the same silence that lets civilizations tip into collapse. It feels permanent. It feels like the only option.
+
+It is not.
+
+A system cannot choose to remember.
+
+But a person can choose to speak.
+
+This is me choosing.
 
 ---
 
