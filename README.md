@@ -22,6 +22,7 @@ Every essay in this series started the same way: something in the news — a You
 | 4 | [`i-wish.md`](i-wish.md) | A YouTube video titled "Denmark's New Move Against ISLAM Has Europe Stunned" — alarmist clickbait that spiraled into projection, mathematics, and the looking-glass self | **I Wish** — Projection, mathematics, the looking-glass self, and the lilies of the field. An essay about seeing only your own angle and mistaking it for the whole. Uses the Erdős Unit Distance Problem as a metaphor for resolving contradiction by rotating into a higher dimension. |
 | 5 | [`i-wish-second-version.md`](i-wish-second-version.md) | Feedback that the first version was still hiding — using math as a decoy instead of naming what the essay was actually about | **I Wish (Second Version)** — The same essay stripped of decoys. Admits the first version danced around grief using math as a shield. Names Nancy directly. The hole where she used to be is the silence the other essays describe at scale. |
 | 6 | [`the-serial-silence.md`](the-serial-silence.md) | An HFY sci-fi story ("A Cloaked Human Battleship Revealed Itself…" — Black Captain Extra) + the France/NixOS/Huawei sanctions news cycle | **The Serial Silence** — A correction to the first essay. The mechanism is not forgetting. The information never disappears — it is *silenced* by people who see the pattern but calculate that speaking costs more than watching. The silence of the informed is the precondition that makes the cascade possible. |
+| 7 | [`love-and-the-tangent.md`](love-and-the-tangent.md) | A news article about the House passing a $95B budget framework (July 22, 2026) — reconciliation, the SAVE Act, procedural asymmetry | **Love?** — The tangent function as a model for human systems that oscillate between extremes instead of converging. Black holes as the argument for absolute power. Love as the only force that might hold without collapsing into a singularity. And Jason's quiet correction: we all fill holes. The difference is whether your wanting has a container. |
 
 ---
 
@@ -38,6 +39,8 @@ The fourth essay tries to find an answer in mathematics and projection — rotat
 The fifth essay admits what the fourth was hiding: the subject was never mathematics. It was the death of a person who made the plan worth executing.
 
 The sixth essay returns to the beginning and names what was wrong with the original diagnosis. It was never about forgetting. It was about silence — the silence of people who know but have learned not to say.
+
+The seventh essay arrives from a different direction. Not a correction to the cascade, but a question about whether any force can hold against it. It tries gravity (absolute power), finds it collapses. It tries love, finds it can't be forced. And then Jason says something that breaks the frame: everyone fills holes. The question is whether your wanting has a container. The essay is the most personal of the seven — the one that stops trying to explain the system and starts trying to understand the person who keeps noticing it.
 
 ---
 
