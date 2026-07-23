@@ -113,6 +113,10 @@ And Dame Vaako — watching the system collapse from the inside, watching the ma
 
 That is entropy's voice. Not angry, not triumphant. Just observing that the mechanism operated without error. The system destroyed itself exactly as it was always going to. She did not cause it. She just got out of the way and let it happen.
 
+And then Aereon — the Elemental who has watched empires rise and fall for longer than anyone in that room, who has seen this pattern repeat more times than she can count — says: **"Now what would be the odds of that?"**
+
+That is the silence of the informed spoken aloud. The odds were always exactly that. Everyone who could see clearly knew it. The Lord Marshal knew it too, somewhere underneath the certainty. He just could not afford to act on it. And now, with the knife in him and the throne toppling, everyone acts surprised. The ethereal observer is not surprised. She has seen this cascade before. She will see it again.
+
 ### Why the Simple Fix Stays Unspoken
 
 There is a deeper mechanism here that the first essay gestured at but did not name clearly. The **Second Path** answer to most problems is embarrassingly simple. Eat less, move more. Light small fires every spring. Tell the truth. Admit you were wrong. Spend less than you earn.
