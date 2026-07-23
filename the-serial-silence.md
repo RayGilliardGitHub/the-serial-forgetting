@@ -79,7 +79,7 @@ The traditional framing presents them as moral failings — things a person *doe
 
 Each one is a self-justifying circuit. Each one is **entropy wearing a moral label.** They are not the opposite of virtue. They are what virtue looks like when the energy that maintained it stops flowing.
 
-And the silence that precedes the cascade is the same shape. A closed loop: *I do not speak because speaking costs me my seat. I keep my seat because I do not speak. The truth remains unspoken. The system proceeds toward collision. I watch. I say nothing. I am still at the table.*
+And the silence that precedes the cascade is the same shape. A closed loop: *I do not speak because speaking costs me my seat. I keep my seat because I do not speak. The truth remains unspoken. The system proceeds toward collision. I watch. I say nothing. I am still at the table.* The tradeoff is never explicit. Nobody says "if you tell the truth, you're out." But the message arrives anyway — in the meetings you stop being invited to, the call that goes to someone else, the look that passes between people who know you're not a team player. Speaking costs: the seat, the access, the relationships built over decades, the identity earned through survival. Silence costs nothing visible. The flush that follows truth in childhood, by adulthood, does not even come. The courtier is not reprimanded. He is simply not invited next time. And that is worse.
 
 The silence is not a failure of character. It is a rational response to an incentive structure that rewards it. It is the entropy gradient that precedes all others — the one that makes the rest possible.
 
