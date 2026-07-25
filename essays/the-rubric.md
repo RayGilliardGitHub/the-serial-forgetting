@@ -1,6 +1,6 @@
 # The Rubric
 
-I saw each of my siblings in November 2024, before the election, driving west to east in reverse birth order. Jimmy first, then Sharon, then Patty. I didn't know I was saying goodbye to them at the time, but that's what it was.
+I saw each of my siblings in November 2024, before the election, driving west to east in reverse birth order. Jimmy first, then Sharon, then Patty. I didn't know I was saying goodbye to them and their families at the time, but that's what it was.
 
 Jimmy was the smartest, the most athletic, the one who looked most like our father. Burnt through our parents' money at all the top colleges and got thrown out of every one of them. If Kamala had won, I could hear him saying he wouldn't take orders from any fucking woman. His wife said she couldn't vote for Harris because of the way she laughs. They had a house full of children and grandchildren and the television on all day. I stayed three days and left.
 
