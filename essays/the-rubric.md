@@ -82,8 +82,6 @@ I did not know how easy I had it. Now my life is harder. It will get harder. Tho
 
 The slipper never fit. The glass was never meant for my foot. But I'm still here, standing on the bare floor in the bare apartment with the minimum everything, watching the dust settle.
 
-Dust Bowl topsoil took ten thousand years to build and blew away in three.
+The Dust Bowl just reminds me that something will grow, given time.
 
-But dust settles. And something grows eventually.
-
-I was here. I left a mark. And it is not the shit stain in my underwear.
+But I tell you now, I was here. I left a mark. And it is not the shit stain in my underwear.
