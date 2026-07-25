@@ -36,7 +36,7 @@ I am the man who stays. Even when staying costs everything. Even when nobody not
 
 ---
 
-The measles came back this year. FoodNet was cut to two pathogens. Seven thousand people got a parasite that makes you shit yourself and the government can't find the source. The CDC was hollowed out. McConnell fell and nobody knows what's really happening. The people in charge believe public health is not their job. They're the kind of wrong that people die from.
+I pay attention to the news and current events, particularly around changes to Social Security — trying to understand what might impact the survival and safety of my responsibilities. The measles came back this year. FoodNet was cut to two pathogens. Seven thousand people got a parasite that makes you shit yourself and the government can't find the source. The CDC was hollowed out. McConnell fell and nobody knows what's really happening. The people in charge believe public health is not their job. They're the kind of wrong that people die from.
 
 I asked whether foreign powers are causing this. They're pouring gasoline on a fire that was already burning. But the house was dry as tinder before they showed up.
 
