@@ -96,4 +96,4 @@ Dust Bowl topsoil took ten thousand years to build and blew away in three.
 
 But dust settles. And something grows eventually.
 
-That's the only thing I've got left to bet on.
+I was here. I left a mark. And it is not the shit stain in my underwear.
