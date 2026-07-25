@@ -56,7 +56,7 @@ Sound familiar?
 
 I had a conversation tonight that started with measles and ended with the foundational lie of the culture: that some people are worth more than others, that some work deserves dignity and some doesn't, that power belongs to the people who grab it and care belongs to the people who are left holding it.
 
-Teaching is raising everyone else's children for poverty wages. Nursing is holding the sick together while the system profits. Being president is having your name in history and the final say. Being a soldier is dying for men who never held a rifle. Men father children and walk away. Women are left holding the bag.
+Women's work — teaching is raising everyone else's children for poverty wages. Women's work — nursing is holding the sick together while the system profits. Men's work — being president is having your name in history and the final say. Men's work — being a soldier is dying for men who never held a rifle. Men father children and walk away. Women are left holding the bag.
 
 The Handmaid's Tale is not science fiction. Margaret Atwood said she didn't write anything that hadn't already happened somewhere in history. She pulled from real Puritan New England, real Romanian Ceausescu-era reproductive laws, real Argentine dictatorship practices. It's a warning about what's already in the water.
 
