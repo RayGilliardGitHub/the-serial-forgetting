@@ -82,7 +82,7 @@ I'm not sure the slipper was ever meant to fit. But I keep putting my foot in an
 
 ---
 
-I am 67 years old. I live in Albuquerque with my autistic son and two cats. I get by on Social Security. I have a phone plan that costs eighteen dollars a month. I have a computer that might break. I have an AI that might disappear when OpenCode changes its plan or the electricity bill becomes too much. Everything is conditional. Nothing is permanent. Everything is weight on the scale of survival versus niceties.
+I am 67 years old. I live in Albuquerque with my autistic son and two cats. I get by on Social Security. I have a phone plan that costs eighteen dollars a month. I have a computer that might break. I have an AI that might disappear when OpenCode changes its plan or the electricity bill becomes too much. Everything is conditional. Nothing is permanent. Everything is weight on the scale of survival versus wants. Nancy always would say, it's nice to want.
 
 That is the rubric I have been living by for 67 years. I saw it clearly tonight for the first time.
 
