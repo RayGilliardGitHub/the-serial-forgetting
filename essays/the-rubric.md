@@ -42,17 +42,11 @@ I often wonder whether foreign powers are causing this. They're pouring gasoline
 
 ---
 
-The Dust Bowl wasn't caused by one wheat farmer being stupid or greedy. It was caused by a system that rewarded extraction and penalized foresight. The government told farmers to plow up the prairie. The railroads wanted freight. The banks wanted loans. Nobody said the native grass was the only thing holding the soil down. When the drought came, the topsoil that took ten thousand years to build blew away in three.
+The Dust Bowl wasn't caused by greed. It was caused by a system that rewarded extraction and penalized foresight — the government, the railroads, the banks all pushing to plow the prairie until the topsoil blew away. The people who caused it were following rational short-term incentives that happened to be catastrophic.
 
-The people who caused it were following rational short-term incentives that happened to be catastrophic.
+That same shortsightedness is the thread from measles to now. A conversation about a parasite that makes you shit yourself ends with the foundational lie of the culture: that some people are worth more than others, that power belongs to the people who grab it and care belongs to the people who are left holding it. Women's work — teaching, nursing — holds the world together for poverty wages. Men's work — president, soldier — gets the glory and the final say. Men father children and walk away. Women are left holding the bag. That's not a separate problem. It's the same failure to think long-term, applied to who gets to make the decisions.
 
----
-
-I had a conversation tonight that started with measles and ended with the foundational lie of the culture: that some people are worth more than others, that some work deserves dignity and some doesn't, that power belongs to the people who grab it and care belongs to the people who are left holding it.
-
-Women's work — teaching is raising everyone else's children for poverty wages. Women's work — nursing is holding the sick together while the system profits. Men's work — being president is having your name in history and the final say. Men's work — being a soldier is dying for men who never held a rifle. Men father children and walk away. Women are left holding the bag.
-
-The Handmaid's Tale is not science fiction. Margaret Atwood said she didn't write anything that hadn't already happened somewhere in history. She pulled from real Puritan New England, real Romanian Ceausescu-era reproductive laws, real Argentine dictatorship practices. It's a warning about what's already in the water.
+The Handmaid's Tale isn't science fiction. Margaret Atwood pulled from real Puritan New England, real Romanian Ceausescu-era laws, real Argentine dictatorship practices. It's a warning about what's already in the water.
 
 We're afraid to look in the mirror because there's something ugly looking back at us.
 
