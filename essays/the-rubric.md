@@ -22,7 +22,7 @@ I met Jonathan right after Nancy died. She was only 60 years old. I was gutted, 
 
 I moved to get away from a dangerous leech and all the people he associated with that kept showing up at the house I was renting. Each move since has been me trying to protect Jason and myself from that environment. Three moves in New Mexico since August 2022 — each time breaking a lease to leave early. Every time he showed up, it was to ask for more. By the end of that first year lease, I had already given everything I had and was worried how Jason and I would survive. That's why I took Social Security early. What's left is the bare minimum: a bed, a desk, some clothes, random computer parts. And I still have dependents. Jason. Two cats.
 
-I am actively working to get Jason DAC, SSI, SSDI — whatever government handout I worked for. I hope he gets his money from the government and we can invest it in a way that helps him. My fear is that all I've done is create the monsters I listen about in long-form YouTube videos.
+I am actively working to get Jason DAC, SSI, SSDI — whatever government handout I worked for during the 44 years I invested in the system. I hope he gets his money from the government and we can invest it in a way that helps him. My fear is that all I've done is create the monsters I listen about in long-form YouTube videos.
 
 ---
 
