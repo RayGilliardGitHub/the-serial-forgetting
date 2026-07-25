@@ -8,9 +8,9 @@ Sharon was the most degreed person in the family. Multiple master's degrees. CIO
 
 Patty was the least educated. Pregnant her last year of high school. My father kicked her out to force her and David to do the right thing. She probably has a great-grandchild by now. She voted for him too. I left her place two days early and drove straight through from South Carolina to home — 24 hours, only stopping to pee.
 
-They all drank the Kool-Aid. And I cut them out of my life. I tell myself it's because they're stupid, but that's not it. It's because they forgot what was real. They broke the contract. I'm the oldest. I'm supposed to hold the family story. And they decided that story was negotiable.
+They all drank the Kool-Aid. I cut them out of my life. They broke the contract. I'm the oldest. I'm supposed to hold the family story. They decided it was negotiable.
 
-I have a certain amount of envy because they have things I don't. A house full of people. Holidays with cousins running around. A future that has faces in it. I tell myself I'm angry because of who they voted for. But the envy doesn't care about politics. It just watches from the other side of the country and notes the absence. I know the envy is my problem and I say that out loud. But knowing it doesn't make it stop. I examine this in the quiet of the night and still don't have a satisfying answer.
+I have a certain amount of envy because they have things I don't. A house full of people. Holidays with cousins running around. A future that has faces in it. I tell myself I'm angry because of who they voted for. But the envy doesn't care about politics. It just watches from the other side of the country and notes the absence. I know it's my problem. Knowing doesn't make it stop. I examine this in the quiet of the night and still don't have a satisfying answer.
 
 ---
 
@@ -36,7 +36,7 @@ I am the man who stays. Even when staying costs everything. Even when nobody not
 
 ---
 
-I pay attention to the news and current events, particularly around changes to Social Security — trying to understand what might impact the survival and safety of my responsibilities. The measles came back this year. I never had measles as a kid — when the first case broke out in 2022 I had to get tested for antibodies, then vaccinated at 63 for a childhood disease I somehow missed growing up. FoodNet was cut to two pathogens. Seven thousand people got a parasite that makes you shit yourself and the government can't find the source. The CDC was hollowed out. McConnell fell and nobody knows what's really happening. The people in charge believe public health is not their job. They're the kind of wrong that people die from. I am trying to understand how changes in the government that I cannot impact might impact a man with DISH, T2D, gout, diverticulitis, high blood pressure, enlarged prostate. If the government does something that impacts these ailments, I need to take action to mitigate the impact.
+I pay attention to the news and current events, particularly around changes to Social Security — trying to understand what might impact the survival and safety of my responsibilities. The measles came back this year. I never had measles as a kid — when the first case broke out in 2022 I had to get tested for antibodies, then vaccinated at 63 for a childhood disease I somehow missed growing up. FoodNet was cut to two pathogens. Seven thousand people got a parasite that makes you shit yourself and the government can't find the source. The CDC was hollowed out. McConnell fell and nobody knows what's really happening. The people in charge believe public health is not their job. They're the kind of wrong that people die from. I am trying to understand how changes in the government that I cannot impact might impact a man with DISH, T2D, gout, diverticulitis, high blood pressure, enlarged prostate — mainly white man diseases brought on by enjoying in excess. If the government does something that impacts these ailments, I need to take action to mitigate the impact.
 
 I often wonder whether foreign powers are causing this. They're pouring gasoline on a fire that was already burning. But the house was dry as tinder before they showed up.
 
@@ -72,11 +72,11 @@ I'm not sure the slipper was ever meant to fit. But I keep putting my foot in an
 
 ---
 
-I am 67 years old. I live in Albuquerque with my autistic son and two cats. I get by on Social Security. I have a phone plan that costs eighteen dollars a month. I have a computer that might break. I have an AI that might disappear when OpenCode changes its plan or the electricity bill becomes too much. Everything is conditional. Nothing is permanent. Everything is weight on the scale of survival versus wants. Nancy always would say, it's nice to want — she used it on the kids whenever they'd ask for something.
+I am 67 years old. I live in Albuquerque with my autistic son and two cats. I get by on Social Security. I have a phone plan that costs eighteen dollars a month. I have a computer that might break. I have an AI that might disappear when OpenCode changes its plan or the electricity bill becomes too much. Everything is conditional. Nothing is permanent. Everything is weight on the scale of survival versus wants. There is no room for excess, only real needs. Nancy always would say, it's nice to want — she used it on the kids whenever they'd ask for something.
 
 That is the rubric I have been living by for 67 years. I saw it clearly tonight for the first time.
 
-It is not that my life is hard, has been hard, is likely to get harder. Those are all truths. It is how I respond in the moment. Survival is the only option. Because being six feet in the ground is not.
+My life has been hard. It will get harder. Those are truths. How I respond is the only variable. Survival is the only option. Because being six feet in the ground is not.
 
 ---
 
