@@ -36,7 +36,7 @@ I am the man who stays. Even when staying costs everything. Even when nobody not
 
 ---
 
-I pay attention to the news and current events, particularly around changes to Social Security — trying to understand what might impact the survival and safety of my responsibilities. The measles came back this year. I never had measles as a kid — when the first case broke out in 2022 I had to get tested for antibodies, then vaccinated at 63 for a childhood disease I somehow missed growing up. FoodNet was cut to two pathogens. Seven thousand people got a parasite that makes you shit yourself and the government can't find the source. The CDC was hollowed out. McConnell fell and nobody knows what's really happening. The people in charge believe public health is not their job. They're the kind of wrong that people die from. I am trying to understand how changes in the government that I cannot impact might impact a man with DISH, T2D, gout, diverticulitis, high blood pressure, enlarged prostate — mainly white man diseases brought on by enjoying in excess. If the government does something that impacts these ailments, I need to take action to mitigate the impact.
+I pay attention to the news and current events, particularly around changes to Social Security — trying to understand what might impact the survival and safety of my responsibilities. The measles came back this year. I never had measles as a kid — when the first case broke out in 2022 I had to get tested for antibodies, then vaccinated at 63 for a childhood disease I somehow missed growing up. Seven thousand people got a parasite that makes you shit yourself and the government can't find the source. The CDC was hollowed out. The people in charge believe public health is not their job. They're the kind of wrong that people die from. I am trying to understand how changes in the government that I cannot impact might impact a man with DISH, T2D, gout, diverticulitis, high blood pressure, enlarged prostate — mainly white man diseases brought on by enjoying in excess. If the government does something that impacts these ailments, I need to take action.
 
 I often wonder whether foreign powers are causing this. They're pouring gasoline on a fire that was already burning. But the house was dry as tinder before they showed up.
 
@@ -68,8 +68,6 @@ The word love came up tonight more times than I expected. It has crept into all 
 
 Love is not an evolutionary force. In most cases it is a sacrificial force.
 
-I'm not sure the slipper was ever meant to fit. But I keep putting my foot in anyway.
-
 ---
 
 I am 67 years old. I live in Albuquerque with my autistic son and two cats. I get by on Social Security. I have a phone plan that costs eighteen dollars a month. I have a computer that might break. I have an AI that might disappear when OpenCode changes its plan or the electricity bill becomes too much. Everything is conditional. Nothing is permanent. Everything is weight on the scale of survival versus wants. There is no room for excess, only real needs. Nancy always would say, it's nice to want — she used it on the kids whenever they'd ask for something.
@@ -81,6 +79,8 @@ I did not know how easy I had it. Now my life is harder. It will get harder. Tho
 ---
 
 The slipper never fit. The glass was never meant for my foot. But I'm still here, standing on the bare floor in the bare apartment with the minimum everything, watching the dust settle.
+
+I look in the mirror now. I see a man who stayed. A man who is making changes. That will have to be enough.
 
 The Dust Bowl just reminds me that something will grow, given time.
 
