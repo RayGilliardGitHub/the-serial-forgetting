@@ -20,7 +20,7 @@ Then in 1989, I was 30. I made a decision to get married — Nancy used to say I
 
 I met Jonathan right after Nancy died. I was gutted, alone, and had nobody to pour into. A man who's spent his whole life being a caregiver doesn't know how to stop just because the person he cared for is gone. So I found someone who needed me. He was a leech and a parasite. His sister and father were no better. Before I left California with him, I gave them both two thousand dollars each. I didn't know them from Adam. I just opened my wallet. And now I'm living in poverty because of it, with no way to ever get back what I gave away.
 
-When Jason and I moved into this apartment — the fourth place in New Mexico since August 2022 — I gave away everything that didn't have a real active use. I moved here after Nancy died and made it clear to Jonathan I never wanted to see him again. He kept showing up. Each move since has been me breaking a lease to leave early. Safety is the name of the game. What's left is the bare minimum: a bed, a desk, some clothes, random computer parts. And I still have dependents. Jason. Two cats.
+When Jason and I moved into this apartment — the fourth place in New Mexico since August 2022 — I gave away everything that didn't have a real active use. I made it clear to Jonathan I never wanted to see him again. He kept showing up. Each move since has been me breaking a lease to leave early. Safety is the name of the game. What's left is the bare minimum: a bed, a desk, some clothes, random computer parts. And I still have dependents. Jason. Two cats.
 
 I hope he gets his money from the government and we can invest it in a way that helps him. My fear is that all I've done is create the monsters I listen about in long-form YouTube videos.
 
