@@ -36,21 +36,15 @@ I am the man who stays. Even when staying costs everything. Even when nobody not
 
 ---
 
-The measles came back this year — 2,318 cases by July, more than all of last year. FoodNet was cut from eight pathogens to two. Seven thousand people across thirty-four states got a parasite the government can no longer trace. The CDC was hollowed out by a vaccine skeptic who genuinely believes he's protecting children. Mitch McConnell fell at his home in June. His office went silent. HIPAA, they said. Nobody knows what's really happening.
+The measles came back this year. FoodNet was cut to two pathogens. Seven thousand people got a parasite that makes you shit yourself and the government can't find the source. The CDC was hollowed out. McConnell fell and nobody knows what's really happening. The people in charge believe public health is not their job. They're the kind of wrong that people die from.
 
-The people in charge believe public health is not their job. I don't think they're evil. I think they're wrong. I think they're the kind of wrong that people die from.
-
----
-
-I asked someone whether foreign powers are causing this. The answer was complicated. They're pouring gasoline on a fire that was already burning. But the house was dry as tinder before they showed up.
+I asked whether foreign powers are causing this. They're pouring gasoline on a fire that was already burning. But the house was dry as tinder before they showed up.
 
 ---
 
 The Dust Bowl wasn't caused by one wheat farmer being stupid or greedy. It was caused by a system that rewarded extraction and penalized foresight. The government told farmers to plow up the prairie. The railroads wanted freight. The banks wanted loans. Nobody said the native grass was the only thing holding the soil down. When the drought came, the topsoil that took ten thousand years to build blew away in three.
 
 The people who caused it were following rational short-term incentives that happened to be catastrophic.
-
-Sound familiar?
 
 ---
 
