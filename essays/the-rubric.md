@@ -76,7 +76,7 @@ I don't believe it. But I have to act as if it's possible. Because the alternati
 
 The word love came up tonight more times than I expected. It has crept into all the essays, with Jesus creeping into the examples. I am not religious. I lost that in high school. An all-boys Catholic school beat it out of you. You have older men trying to be examples for younger men, but when you get down to their own stories, they're all running away from something they themselves cannot name.
 
-Love is not an evolutionary force. In most cases it is a sacrifice force.
+Love is not an evolutionary force. In most cases it is a sacrificial force.
 
 I'm not sure the slipper was ever meant to fit. But I keep putting my foot in anyway.
 
