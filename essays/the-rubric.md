@@ -14,7 +14,7 @@ I have a certain amount of envy because they have things I don't. A house full o
 
 ---
 
-The year 1989 was 37 years ago. I was 30. I made a decision to get married. Nancy used to tell people I had a five-year plan coming out of college — work, work, marry, kids, work. It was, I think, the wrong decision. Nancy felt it too. She blamed me for ripping her away from everything she knew. When we moved to Memphis, she was isolated — no family to fall back on. It took her more than ten years to get over the grief of losing her parents, and by the time she was through that, we had already built a life around the grief.
+The year 1989 was 37 years ago. I was 30. I made a decision to get married — Nancy used to say I was just checking off boxes. I had a five-year plan coming out of college: work, work, marry, kids, work. It was, I think, the wrong decision. Nancy felt it too. She blamed me for ripping her away from everything she knew. When we moved to Memphis, she was isolated — no family to fall back on. It took her more than ten years to get over the grief of losing her parents, and by the time she was through that, we had already built a life around the grief.
 
 I left my own family behind when I moved out of my parents' house at 25 and never once asked them for help. I gave all my siblings financial help when they were starting out. Not one cent has ever been paid back. I'm not sure that's what I want, but I'm not sure what I want anymore.
 
