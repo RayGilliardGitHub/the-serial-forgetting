@@ -76,7 +76,7 @@ I am 67 years old. I live in Albuquerque with my autistic son and two cats. I ge
 
 That is the rubric I have been living by for 67 years. I saw it clearly tonight for the first time.
 
-My life has been hard. It will get harder. Those are truths. How I respond is the only variable. Survival is the only option. Because being six feet in the ground is not.
+I did not know how easy I had it. Now my life has been hard. It will get harder. Those are truths. How I respond is the only variable. Survival is the only option. Because being six feet in the ground is not.
 
 ---
 
