@@ -22,7 +22,7 @@ I met Jonathan right after Nancy died. I was gutted, alone, and had nobody to po
 
 When Jason and I moved into this apartment — the fourth place in New Mexico since August 2022 — I gave away everything that didn't have a real active use. I made it clear to Jonathan I never wanted to see him again. He kept showing up. Each move since has been me breaking a lease to leave early. Safety is the name of the game. What's left is the bare minimum: a bed, a desk, some clothes, random computer parts. And I still have dependents. Jason. Two cats.
 
-I hope he gets his money from the government and we can invest it in a way that helps him. My fear is that all I've done is create the monsters I listen about in long-form YouTube videos.
+I am actively working to get Jason DAC, SSI, SSDI. I hope he gets his money from the government and we can invest it in a way that helps him. My fear is that all I've done is create the monsters I listen about in long-form YouTube videos.
 
 ---
 
