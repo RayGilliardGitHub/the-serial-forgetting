@@ -10,7 +10,7 @@ Patty was the least educated. Pregnant her last year of high school. My father k
 
 They all drank the Kool-Aid. And I cut them out of my life. I tell myself it's because they're stupid, but that's not it. It's because they forgot what was real. They broke the contract. I'm the oldest. I'm supposed to hold the family story. And they decided that story was negotiable.
 
-I have a certain amount of envy because they have things I don't. A house full of people. A future that has faces in it. I know the envy is my problem and I say that out loud. But I'm still angry. I examine this in the quiet of the night and still don't have a satisfying answer.
+I have a certain amount of envy because they have things I don't. A house full of people. Holidays with cousins running around. A future that has faces in it. I tell myself I'm angry because of who they voted for. But the envy doesn't care about politics. It just watches from the other side of the country and notes the absence. I know the envy is my problem and I say that out loud. But knowing it doesn't make it stop. I examine this in the quiet of the night and still don't have a satisfying answer.
 
 ---
 
@@ -18,7 +18,7 @@ The year 1989 was 35 years ago. I was 25. I made a decision to get married. It w
 
 I met Jonathan right after Nancy died. I was gutted, alone, and had nobody to pour into. A man who's spent his whole life being a caregiver doesn't know how to stop just because the person he cared for is gone. So I found someone who needed me. He was a leech and a parasite. His sister and father were no better. Before I left California with him, I gave them both two thousand dollars each. I didn't know them from Adam. I just opened my wallet. And now I'm living in poverty because of it, with no way to ever get back what I gave away.
 
-When Jason and I moved into this apartment, I gave away everything that didn't have a real active use. What's left is the bare minimum: a bed, a desk, some clothes, random computer parts. And I still have leeches hanging on. Jason. Two cats.
+When Jason and I moved into this apartment, I gave away everything that didn't have a real active use. What's left is the bare minimum: a bed, a desk, some clothes, random computer parts. And I still have dependents. Jason. Two cats.
 
 I hope he gets his money from the government and we can invest it in a way that helps him. My fear is that all I've done is create the monsters I listen about in long-form YouTube videos.
 
@@ -34,21 +34,13 @@ I am the man who stays. Even when staying costs everything. Even when nobody not
 
 ---
 
-The measles came back this year. Two thousand three hundred eighteen cases by July, more than all of last year. The US is on track to lose its elimination status. The CDC was hollowed out by a vaccine skeptic who genuinely believes he's protecting children. FoodNet, the surveillance system that tracks foodborne illness, was cut from eight pathogens to two. This summer, seven thousand people across thirty-four states got explosive diarrhea from a parasite the government can no longer trace. Nobody can find the source. The surveillance network that would have found it was deliberately dismantled.
+The measles came back this year — 2,318 cases by July, more than all of last year. FoodNet was cut from eight pathogens to two. Seven thousand people across thirty-four states got a parasite the government can no longer trace. The CDC was hollowed out by a vaccine skeptic who genuinely believes he's protecting children. Mitch McConnell fell at his home in June. His office went silent. HIPAA, they said. Nobody knows what's really happening.
 
-Mitch McConnell fell at his home in June. His office went silent. Confidential medical information, they said. HIPAA, they said. Conspiracy theories filled the vacuum. A photo was released. People said it was AI. The governor of Kentucky — a Democrat — would appoint his replacement if he died. Nobody knows what's really happening.
-
-The people in charge believe that public health is not the federal government's job. They believe that states should compete like laboratories of democracy. They believe that parents, not doctors, should decide whether children get vaccinated. They believe that the market will handle food safety. They believe that if the CDC had never told anyone to wear a mask or get a shot, we would be better off.
-
-I don't think they're evil. I think they're wrong. I think they're the kind of wrong that people die from.
+The people in charge believe public health is not their job. I don't think they're evil. I think they're wrong. I think they're the kind of wrong that people die from.
 
 ---
 
-I asked someone tonight — an intelligence, not a person — whether foreign powers are causing all of this. Russia running bot farms to amplify the anti-vaccine movement. China positioning America as chaotic and untrustworthy so their own people can't point to a working US government.
-
-The answer was complicated. They're pouring gasoline on a fire that was already burning. But the house was dry as tinder before they showed up.
-
-That's the part that keeps me up.
+I asked someone whether foreign powers are causing this. The answer was complicated. They're pouring gasoline on a fire that was already burning. But the house was dry as tinder before they showed up.
 
 ---
 
@@ -95,12 +87,6 @@ That is the rubric I have been living by for 67 years. I saw it clearly tonight 
 It is not that my life is hard, has been hard, is likely to get harder. Those are all truths. It is how I respond in the moment. Survival is the only option. Because being six feet in the ground is not.
 
 ---
-
-I don't have answers. I have one clear direction: moving forward. Learning from the past and the past of others, in the hope of not making the same mistakes over and over.
-
-That's not a plan. That's not a philosophy. That's not even hope, in the way that word is usually used. It's just the thing you do when you've decided to stay.
-
-So I'm staying.
 
 The slipper never fit. The glass was never meant for my foot. But I'm still here, standing on the bare floor in the bare apartment with the minimum everything, watching the dust settle.
 
