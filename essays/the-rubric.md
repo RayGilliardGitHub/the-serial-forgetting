@@ -6,7 +6,7 @@ Jimmy was the smartest, the most athletic, the one who looked most like our fath
 
 Sharon was the most degreed person in the family. Multiple master's degrees. CIO, CTO of hospital systems. She thought Trump was a businessman and that was what the country needed. I stayed three days and left.
 
-Patty was the least educated. Pregnant her last year of high school. My father kicked her out to force her and David to do the right thing. She probably has a great-grandchild by now. She voted for him too.
+Patty was the least educated. Pregnant her last year of high school. My father kicked her out to force her and David to do the right thing. She probably has a great-grandchild by now. She voted for him too. I left her place two days early and drove straight through from South Carolina to home — 24 hours, only stopping to pee.
 
 They all drank the Kool-Aid. And I cut them out of my life. I tell myself it's because they're stupid, but that's not it. It's because they forgot what was real. They broke the contract. I'm the oldest. I'm supposed to hold the family story. And they decided that story was negotiable.
 
