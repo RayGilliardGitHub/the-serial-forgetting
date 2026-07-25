@@ -48,6 +48,8 @@ That same shortsightedness is the thread from measles to now. A conversation abo
 
 The Handmaid's Tale isn't science fiction. Margaret Atwood pulled from real Puritan New England, real Romanian Ceausescu-era laws, real Argentine dictatorship practices. It's a warning about what's already in the water.
 
+The rubric people judge each other with — it almost always has long-term impacts nobody accounts for.
+
 We're afraid to look in the mirror because there's something ugly looking back at us.
 
 ---
