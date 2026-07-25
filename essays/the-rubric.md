@@ -66,7 +66,7 @@ We're afraid to look in the mirror because there's something ugly looking back a
 
 I told the therapist on my last visit — this was after I tried to kill myself — that I just wanted to be left alone. I was thinking that I wanted somebody else to take over the bills, Jason, the cats. I wanted Jonathan to leave me alone.
 
-What happens to Jason when I pass? He has nothing. I have nothing to leave him. He is a goldfish. Put too much food in the tank and they eat themselves to death. He will likely never know what love of another person is. His sister has told me more than once that she does not want to be his caretaker. Nancy's fear of Jason living on the streets could be a reality if I die. That's why I need to get him situated in his own self-directed trajectory, at least having something. It's possible one of my siblings will take him in. That feels like an empty dream.
+What happens to Jason when I pass? He has nothing. I have nothing to leave him. He is a goldfish. Put too much food in the tank and they eat themselves to death. He will likely never know what love of another person is. His sister has told me more than once that she does not want to be his caretaker. Nancy feared that Jason living on the streets could be a reality if I die. That's why I need to get him situated in his own self-directed trajectory, at least having something. It's possible one of my siblings will take him in. That feels like an empty dream.
 
 Jason gets money from the government. If we can invest it, maybe he'll have something when I'm gone. Maybe he won't end up on the street. Maybe one of my siblings — the ones I cut out of my life — will take him in.
 
