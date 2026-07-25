@@ -26,7 +26,7 @@ I am actively working to get Jason DAC, SSI, SSDI. I hope he gets his money from
 
 ---
 
-I stopped drinking. I stopped smoking weed. I stopped playing music. I threw out the recorder — and all the fingering charts I built for it — because the sound disturbed Jason. Every pleasure I had, I gave up. One by one. They didn't disappear. I placed them on an altar and walked away.
+I stopped drinking. I stopped smoking weed. I stopped playing music. I gave away the electric piano — I had this dream that I would practice and be good enough to get gigs on cruise ships as a lounge player. This was something Nancy and I both enjoyed. I started to pick up the recorder because it was the only musical instrument I had left. I threw out the recorder — and all the fingering charts I built for it — because the sound disturbed Jason. Every pleasure I had, I gave up. One by one. They didn't disappear. I placed them on an altar and walked away.
 
 I hate having to bend to keep him stable. I hate not having the things I would have if I didn't need to take care of him. And every night before he goes to bed, he comes into my room and says good night, I love you. I hate that too.
 
