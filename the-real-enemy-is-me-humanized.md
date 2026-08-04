@@ -177,7 +177,7 @@ Within a generation or two of the founder's death — in most cases, though not 
 
 **Buddha** said: "The root of suffering is craving. The end of suffering is the end of craving." He hesitated to teach because he knew the teaching would be misunderstood. He was right. Within a generation, the sangha was debating the color of robes, the order of precedence, and which texts had canonical authority.
 
-**Confucius** said: "The noble person seeks within themselves; the small person seeks within others." He prescribed ritual practice (*li*) as the technology of self-cultivation. Within centuries, his teachings had been codified into an imperial examination system that had more to do with class advancement and state control than with self-cultivation.
+**Confucius** said: "The noble person seeks within themselves; the small person seeks within others." He prescribed ritual practice (***li***) as the technology of self-cultivation. Within centuries, his teachings had been codified into an imperial examination system that had more to do with class advancement and state control than with self-cultivation.
 
 **Muhammad** received: "Indeed, Allah will not change the condition of a people until they change what is in themselves." Within five centuries of his death, the Islamic world was fragmenting into sects defined by which party they blamed for the community's problems.
 

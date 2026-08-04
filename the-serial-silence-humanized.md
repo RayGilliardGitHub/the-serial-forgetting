@@ -123,7 +123,7 @@ I did not name this in the first essay. I missed it completely. I was so focused
 
 ### 5. The Real Signal of Decline
 
-Every civilizational cycle model — the Yuga cycle, Polybius's *anakyklosis*, Toynbee's challenge-and-response, Tainter's diminishing marginal returns — describes a trajectory from coherence to collapse. They disagree on timing, number of stages, and whether recovery is possible. But they all agree on one thing: collapse itself is not the interesting part. The decline that precedes it is.
+Every civilizational cycle model — the ***Yuga*** cycle, Polybius's ***anakyklosis***, Toynbee's challenge-and-response, Tainter's diminishing marginal returns — describes a trajectory from coherence to collapse. They disagree on timing, number of stages, and whether recovery is possible. But they all agree on one thing: collapse itself is not the interesting part. The decline that precedes it is.
 
 The question none of them answer well is: **how does the system stop correcting itself?**
 
@@ -275,12 +275,12 @@ This is me choosing.
 
 **Don't Look Up.** Directed by Adam McKay. Netflix, 2021. A satire in which astronomers discover a comet on a collision course with Earth and are systematically silenced by political and media institutions. The essay uses it as an illustration of the silence mechanism: the problem was known, measured, and predicted; the response was suppression.
 
-**Polybius (c. 200-118 BCE).** *The Histories.* Book 6. The concept of anakyklosis: a cyclical theory of political evolution in which governments degenerate through a predictable sequence (monarchy to tyranny to aristocracy to oligarchy to democracy to ochlocracy). Referenced in Section 5 as one of several civilizational cycle models.
+**Polybius (c. 200-118 BCE).** *The Histories.* Book 6. The concept of ***anakyklosis***: a cyclical theory of political evolution in which governments degenerate through a predictable sequence (monarchy to tyranny to aristocracy to oligarchy to democracy to ochlocracy). Referenced in Section 5 as one of several civilizational cycle models.
 
 **Toynbee, Arnold J.** *A Study of History.* Oxford University Press, 1934-1961. A twelve-volume analysis of the rise and fall of civilizations through a pattern of challenge and response. Civilizations decline when they fail to respond adequately to successive challenges.
 
 **Tainter, Joseph A.** *The Collapse of Complex Societies.* Cambridge University Press, 1988. The theory that societies collapse when the marginal returns on complexity become negative: each additional unit of complexity yields less benefit while imposing greater costs.
 
-**The Yuga Cycle.** Hindu cosmological framework describing four ages of civilizational decline: Satya Yuga (truth), Treta Yuga (ritual), Dvapara Yuga (disease and war), Kali Yuga (greed and chaos). Each age is shorter than the last. Referenced in Section 5 as one of several civilizational cycle models.
+**The ***Yuga*** Cycle.** Hindu cosmological framework describing four ages of civilizational decline: ***Satya Yuga*** (truth), ***Treta Yuga*** (ritual), ***Dvapara Yuga*** (disease and war), ***Kali Yuga*** (greed and chaos). Each age is shorter than the last. Referenced in Section 5 as one of several civilizational cycle models.
 
 **Hurricane Dorian "Sharpie" Incident.** September 4, 2019. President Trump displayed a National Hurricane Center forecast map with a hand-drawn extension of the storm's projected path using a black marker, apparently to retroactively support his earlier claim that Alabama was in danger. The incident became a symbol of the suppression of accurate information for political convenience.

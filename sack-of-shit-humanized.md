@@ -60,7 +60,7 @@ The Bhagavad Gita is a conversation on a battlefield. Arjuna looks at the army h
 
 That text is 2,500 years old. It was written by a civilization that understood the dynamics of control, duty, and forgetting at least as well as we do.
 
-There is a line in the *Upanishads* (I am paraphrasing) about the greatness of the person who remembers what is not here today but lives somewhere in the future. The same idea recurs across the Gita: the wise see beyond time, beyond birth and death. They see the pattern that others miss because they are too embedded in the moment to notice the shape of the whole.
+There is a line in the ***Upanishads*** (I am paraphrasing) about the greatness of the person who remembers what is not here today but lives somewhere in the future. The same idea recurs across the Gita: the wise see beyond time, beyond birth and death. They see the pattern that others miss because they are too embedded in the moment to notice the shape of the whole.
 
 Every civilization has produced these texts. Every civilization has watched them be weaponized by the institutions that claimed to preserve them. The Spanish burned nearly every Mesoamerican codex; four survive from an entire civilization's literary output. The Soviet Union rewrote its history every decade, airbrushing commissars out of photographs. Every Chinese dynasty rewrote the history of the preceding dynasty to justify its own legitimacy.
 

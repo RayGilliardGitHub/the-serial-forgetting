@@ -113,7 +113,7 @@ But the moment a quantum system interacts with its environment, the moment it "f
 
 **The mechanism is the same:** the **Second Path** (coherent superposition) is the natural default. It requires no enforcement. But it does require *not being disturbed.* The **First Path** (decohered classical state) is what happens when the system is disturbed and cannot maintain its integrity.
 
-There is no dualism here. No male/female, no *yin*/*yang*, no opposing forces that must be balanced. There is simply a coherent state and its inevitable decay when maintenance stops.
+There is no dualism here. No male/female, no ***yin***/***yang***, no opposing forces that must be balanced. There is simply a coherent state and its inevitable decay when maintenance stops.
 
 #### 3.2 Ecology and Evolution
 
@@ -129,7 +129,7 @@ The Classic Maya collapse is the same process compressed into centuries instead 
 
 #### 3.3 Human Societies
 
-The Roman Republic lasted nearly 500 years, one of the longest running functional systems in Western history. Its founding was built on *mos maiorum*, the way of the ancestors: unwritten norms of civic virtue, service before self, honor in competition. Senators competed by building aqueducts, not fortunes. This was the **Second Path**.
+The Roman Republic lasted nearly 500 years, one of the longest running functional systems in Western history. Its founding was built on ***mos maiorum***, the way of the ancestors: unwritten norms of civic virtue, service before self, honor in competition. Senators competed by building aqueducts, not fortunes. This was the **Second Path**.
 
 The cascade:
 
@@ -143,7 +143,7 @@ The cascade:
 
 #### 3.4 Civilizational Cycles
 
-The Hindu *Yuga* cycle describes exactly this cascade at the largest temporal scale:
+The Hindu ***Yuga*** cycle describes exactly this cascade at the largest temporal scale:
 
 - ***Satya Yuga***: Truth reigns. Humans are content, meditative, peaceful. No disease, no conflict, no envy. Duration: 1,728,000 years. The **Second Path**.
 
@@ -153,13 +153,13 @@ The Hindu *Yuga* cycle describes exactly this cascade at the largest temporal sc
 
 - ***Kali Yuga***: Greed, short lives, truth hidden. The age of quarrel. The loudest drown out the wisest. Nobody remembers what was lost because nobody lived in the age that had it. Full HILO (History Is the Loudest Opinion). Duration: 432,000 years.
 
-The Andean concept of *Pachakuti* describes the same arc in different terms: a world-age of order and coherence, followed by gradual decline, ended by a violent overturning (the *pachakuti* itself), then a reset. The Incas identified five such ages. Each ended not because of external invasion but because the internal balance was exhausted.
+The Andean concept of ***Pachakuti*** describes the same arc in different terms: a world-age of order and coherence, followed by gradual decline, ended by a violent overturning (the ***pachakuti*** itself), then a reset. The Incas identified five such ages. Each ended not because of external invasion but because the internal balance was exhausted.
 
 These traditions emerged on different continents, in different millennia, with no contact between them. They all describe a similar pattern. That is either a remarkable coincidence or evidence that the pattern is built into the structure of human societies.
 
 Here is my answer to that fork. Every human being alive descends from one ancestral population. Everyone outside Africa traces most of its ancestry to the same small group that left the continent roughly seventy thousand years ago, and everyone on Earth traces to a common African origin deeper still. A pattern that shows up in every human society, on every continent, with no contact between them, is not something that happened to recur. **It is something that was inherited.** The same genome carries the same social instincts. Comparison, territoriality, collision, and the rewriting of the record are not cultural inventions that spread from one place; they are human nature, and human nature is built by genes with a single origin. The traditions did not need to contact each other, because they were all reading the same machine.
 
-The pattern is older than our species — status hierarchies run through the mammals, territoriality deeper still — and that depth is the point, not the problem. The cascade is the default of complex life. Genes are how the universe got that default into the human machine. Culture carries it a third time, and culture is where the details drift: the *Yuga* durations, the names, the local myths. The shape holds because the layers beneath it hold. Physics, genome, culture — three inheritances, one pattern. Not a remarkable coincidence. It is built in.
+The pattern is older than our species — status hierarchies run through the mammals, territoriality deeper still — and that depth is the point, not the problem. The cascade is the default of complex life. Genes are how the universe got that default into the human machine. Culture carries it a third time, and culture is where the details drift: the ***Yuga*** durations, the names, the local myths. The shape holds because the layers beneath it hold. Physics, genome, culture — three inheritances, one pattern. Not a remarkable coincidence. It is built in.
 
 A quantitative version of the same insight comes from Peter Turchin's cliodynamics, a mathematical modeling of historical data. Analyzing cycles across Rome, medieval France, ancient China, and the United States, Turchin identified consistent 200 to 300 year secular cycles of stability and integration followed by crisis and disintegration, with nested 50-year instability cycles. His models predict these surges are driven by *elite overproduction*: when a society matures, the number of educated aspirants outgrows the number of prestigious positions. The excess elites stop cooperating, recruit followers from the frustrated majority, and destabilize the system from within. In a 2012 paper in the *Journal of Peace Research*, Turchin used this model to predict that the next peak of American political instability would arrive around 2020, a prediction made eight years early. The mechanism is FOMO and NIMBY at the structural level: too many qualified people competing for too few slots, the system becoming top heavy with aspirants who cannot find a place, and the resulting fragmentation accelerating the cascade.
 
@@ -167,13 +167,13 @@ A quantitative version of the same insight comes from Peter Turchin's cliodynami
 
 Every major philosophical tradition independently arrived at the same diagnosis.
 
-**Buddha** (600 BCE, India) identified *tanha*, craving, thirst, the desire for things to be other than they are, as the root of all suffering. That is FOMO translated into the language of the spirit. The Eightfold Path is a structured practice of returning to the **Second Path**: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration. *Nirvana* is not a reward for good behavior. It is what is left when craving is extinguished, the natural state that was always there underneath.
+**Buddha** (600 BCE, India) identified ***tanha***, craving, thirst, the desire for things to be other than they are, as the root of all suffering. That is FOMO translated into the language of the spirit. The Eightfold Path is a structured practice of returning to the **Second Path**: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration. ***Nirvana*** is not a reward for good behavior. It is what is left when craving is extinguished, the natural state that was always there underneath.
 
-**Confucius** (551-479 BCE, China) saw his own time, the Warring States period, as a society that had lost its way. His prescription was *li* (ritual propriety): structured practices that reinforce right relationship. His "rectification of names" is an argument against HILO (History Is the Loudest Opinion): if a ruler does not rule, they are not a ruler, regardless of what they call themselves. The noble person (*junzi*) "is calm and at ease; the small person is always anxious and full of concern." Fear of missing out versus joy of missing out, rendered as character types.
+**Confucius** (551-479 BCE, China) saw his own time, the Warring States period, as a society that had lost its way. His prescription was ***li*** (ritual propriety): structured practices that reinforce right relationship. His "rectification of names" is an argument against HILO (History Is the Loudest Opinion): if a ruler does not rule, they are not a ruler, regardless of what they call themselves. The noble person (***junzi***) "is calm and at ease; the small person is always anxious and full of concern." Fear of missing out versus joy of missing out, rendered as character types.
 
 **Jesus** (30 CE, Galilee) told his followers to "consider the lilies of the field, they neither toil nor spin": pure JOMO. The kingdom of heaven is within you, accessible not by achieving but by *remembering what you already are.* Turn the other cheek; do not enter the FAFO cycle. Love your neighbor as yourself: YIMBY at the spiritual level.
 
-**The Stoics** (Zeno, Epictetus, Marcus Aurelius) developed the dichotomy of control: some things are up to you, most are not. Suffering comes from wanting what is not up to you. They embodied PAFO: learning through reason and observation rather than through painful experience and collision. *Amor fati* (love of fate) is the ultimate YIMBY: not just accepting reality but loving it exactly as it is. Marcus Aurelius: "The universe is change; life is opinion."
+**The Stoics** (Zeno, Epictetus, Marcus Aurelius) developed the dichotomy of control: some things are up to you, most are not. Suffering comes from wanting what is not up to you. They embodied PAFO: learning through reason and observation rather than through painful experience and collision. ***Amor fati*** (love of fate) is the ultimate YIMBY: not just accepting reality but loving it exactly as it is. Marcus Aurelius: "The universe is change; life is opinion."
 
 **Zera Yacob** (1599-1692, Ethiopia) independently arrived at a natural theology based on reason alone, arguing that the Creator made an orderly universe that rewards truthfulness. He diagnosed HILO (History Is the Loudest Opinion) directly: "People are led astray by the authority of their forefathers. They believe what they are told without examination."
 
@@ -221,7 +221,7 @@ The silence of the sky is not evidence of absence. It is evidence of the same ki
 
 The power of this framework depends on what it does *not* invoke.
 
-**No male/female duality.** The **Second Path** and **First Path** are not opposing forces that must be balanced in the manner of *yin* and *yang*. They are not gendered. They are not complementary principles that together make a whole. They are consecutive states of a single system: coherence and its decay. The dualistic framing of Western and Eastern thought has often obscured this by presenting balance as the goal. Balance is not the goal. *Maintaining coherence is the goal.* Balance is what coherence looks like from the outside.
+**No male/female duality.** The **Second Path** and **First Path** are not opposing forces that must be balanced in the manner of ***yin*** and ***yang***. They are not gendered. They are not complementary principles that together make a whole. They are consecutive states of a single system: coherence and its decay. The dualistic framing of Western and Eastern thought has often obscured this by presenting balance as the goal. Balance is not the goal. *Maintaining coherence is the goal.* Balance is what coherence looks like from the outside.
 
 **No random asteroid events.** The standard story of the dinosaur extinction is: everything was fine, then a rock fell from the sky, catastrophe. I think the real story is the forgetting that made the system brittle over millions of years. The asteroid was punctuation. Internal dynamics, overspecialization, reduced genetic diversity, ecosystem simplification, resource exhaustion, had already set the collapse in motion. The asteroid just happened to be the trigger that made the collapse visible. In systems that do not encounter an asteroid, the internal cascade reaches the same endpoint, just more slowly.
 
@@ -266,7 +266,7 @@ Every philosopher who diagnosed this disease prescribed the same treatment:
 - Buddha: daily meditation, mindfulness, letting go
 - Confucius: ritual practice, right relationship, calling things by their true names
 - Jesus: love of neighbor, non-resistance, considering the lilies
-- Stoics: daily reflection, dichotomy of control, *amor fati*
+- Stoics: daily reflection, dichotomy of control, ***amor fati***
 - Aquinas: aligning human law with natural law through reason
 - Zera Yacob: rejecting inherited authority, examining reality with your own reason
 
@@ -336,13 +336,13 @@ All foreign terms are italicized on first use in the essay. The original languag
 
 | Term | Language | Translation / Meaning |
 |---|---|---|
-| *amor fati* | Latin | Love of fate — embracing whatever happens as necessary and good (Stoicism) |
-| *junzi* | Chinese | The noble person — a person of virtue and integrity in Confucian philosophy |
-| *li* | Chinese | Ritual propriety — the structured practices that maintain right relationship in Confucian philosophy |
-| *mos maiorum* | Latin | "The way of the ancestors" — unwritten Roman norms of civic virtue and tradition |
-| *pachakuti* | Quechua | A world-overturning — the violent reset at the end of an Andean world-age |
-| *tanha* | Pali | Craving, thirst — the desire for things to be other than they are; the root of all suffering in Buddhism |
-| *Yuga* cycle | Sanskrit | The four-age Hindu model of civilizational decline: *Satya Yuga* (truth, contentment), *Treta Yuga* (sacrifice, ritual), *Dvapara Yuga* (disease, war), and *Kali Yuga* (greed, short lives, narrative chaos) |
+| ***amor fati*** | Latin | Love of fate — embracing whatever happens as necessary and good (Stoicism) |
+| ***junzi*** | Chinese | The noble person — a person of virtue and integrity in Confucian philosophy |
+| ***li*** | Chinese | Ritual propriety — the structured practices that maintain right relationship in Confucian philosophy |
+| ***mos maiorum*** | Latin | "The way of the ancestors" — unwritten Roman norms of civic virtue and tradition |
+| ***pachakuti*** | Quechua | A world-overturning — the violent reset at the end of an Andean world-age |
+| ***tanha*** | Pali | Craving, thirst — the desire for things to be other than they are; the root of all suffering in Buddhism |
+| ***Yuga*** cycle | Sanskrit | The four-age Hindu model of civilizational decline: ***Satya Yuga*** (truth, contentment), ***Treta Yuga*** (sacrifice, ritual), ***Dvapara Yuga*** (disease, war), and ***Kali Yuga*** (greed, short lives, narrative chaos) |
 
 ---
 
@@ -358,13 +358,13 @@ Though this is an original synthesis, the ideas it synthesizes draw on a wide ra
 
 *On Civilizational Cycles*
 
-- The *Vedas* and *Puranas* (anonymous, c. 1500-500 BCE) — The *Yuga* cycle descriptions.
-- Guaman Poma de Ayala, F. (c. 1615). *El Primer Nueva Corónica y Buen Gobierno.* — Primary Andean source on the concept of *Pachakuti* and world ages.
+- The ***Vedas*** and ***Puranas*** (anonymous, c. 1500-500 BCE) — The ***Yuga*** cycle descriptions.
+- Guaman Poma de Ayala, F. (c. 1615). *El Primer Nueva Corónica y Buen Gobierno.* — Primary Andean source on the concept of ***Pachakuti*** and world ages.
 
 *On the Diagnosis in Philosophy*
 
-- The Dhammacakkappavattana Sutta (Buddha's first sermon, c. 528 BCE) — The Four Noble Truths, identifying craving (*tanha*) as the root of suffering.
-- The Analects of Confucius (c. 475-221 BCE) — The rectification of names, *li*, and the *junzi*.
+- The Dhammacakkappavattana Sutta (Buddha's first sermon, c. 528 BCE) — The Four Noble Truths, identifying craving (***tanha***) as the root of suffering.
+- The Analects of Confucius (c. 475-221 BCE) — The rectification of names, ***li***, and the ***junzi***.
 - The Gospel of Matthew (c. 70-110 CE) — The Sermon on the Mount, especially the lilies of the field.
 - Aurelius, M. (c. 170-180 CE). *Meditations.* — The core Stoic texts on the dichotomy of control.
 - Epictetus (c. 108 CE). *Discourses.* — Enchiridion, the manual on distinguishing what is and is not up to us.

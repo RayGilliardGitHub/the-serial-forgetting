@@ -134,7 +134,7 @@ And yet.
 
 I've been sober since 2023. I don't talk about it much because the story is not dramatic. I just stopped. The reasons were mine. But sobriety taught me something: there is a difference between knowing you should change and actually changing. The gap between them is not crossed by more information. It's crossed by something I can't name.
 
-The Christian tradition calls it *agape* — love that doesn't keep score, doesn't demand return, doesn't stop when it's not reciprocated. The Buddhists call it the end of craving — the third noble truth, the one that says cessation is possible.
+The Christian tradition calls it ***agape*** — love that doesn't keep score, doesn't demand return, doesn't stop when it's not reciprocated. The Buddhists call it the end of craving — the third noble truth, the one that says cessation is possible.
 
 I used to think these were just coping mechanisms for people who couldn't face reality. Now I'm not sure. I keep finding the shape of something that doesn't require energy input from outside because it generates its own. Love is one of the few things humans invest energy in without expecting proportional return. That's a stronger claim — and one I can defend.
 
@@ -220,6 +220,6 @@ There is no answer to the tangent function. The answer is to use a different fun
 
 **Belt and Road Initiative.** Chinese infrastructure and investment strategy launched in 2013, encompassing over 140 countries. Referenced in Section 4 as an example of development that functions as debt-trap diplomacy.
 
-***Agape***. The Greek term for unconditional, self-giving love in Christian theology, distinct from *eros* (romantic love) and *philia* (friendship). Referenced in Section 9 as a love that doesn't keep score.
+***Agape***. The Greek term for unconditional, self-giving love in Christian theology, distinct from ***eros*** (romantic love) and ***philia*** (friendship). Referenced in Section 9 as a love that doesn't keep score.
 
-**The Third Noble Truth.** In Buddhist doctrine, the truth that cessation of suffering (*dukkha*) is possible through the release of craving (*tanha*). Referenced in Section 9 alongside *agape* as a framework for love that doesn't require energy input from outside.
+**The Third Noble Truth.** In Buddhist doctrine, the truth that cessation of suffering (***dukkha***) is possible through the release of craving (***tanha***). Referenced in Section 9 alongside ***agape*** as a framework for love that doesn't require energy input from outside.

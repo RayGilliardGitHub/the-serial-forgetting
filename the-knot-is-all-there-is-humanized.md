@@ -72,7 +72,7 @@ Watch someone escalate sometime: in a store, in a thread, in a meeting. The minu
 
 That is the Heisenberg part. In quantum physics, the act of measuring changes the thing measured. But it does not stop it. The measurement changes the method; the particle still arrives. Recognition in humans works the same way. The liar who knows they are lying lies differently: more elaborate, more defended. The escalator who knows they are wrong escalates in a different shape than the one who does not. Same screen.
 
-Here is the difference between the particle and the person, and it is the whole tragedy: the particle cannot stop. The person can. The flash is the proof the brake exists. You do not get a flash of regret for a choice you could not make. The brake is almost never pulled, because stopping costs now — face, shame, the unwind — and continuing costs later. Deferred. Spread out. Landing on someone else. The discount rate is the entire game. It is the opposite of deferred gratification, the opposite of work hard now for the benefit later. It is the French Revolution's economy: I want my cake now, and I do not care how much it costs. The old regime's answer to the future was *après moi, le déluge* — after me, the flood — and the flood came. Deferred gratification is the Second Path's economy: pay now, collect later, keep the knot. The discount rate is the First Path's: take now, bill the person downstream.
+Here is the difference between the particle and the person, and it is the whole tragedy: the particle cannot stop. The person can. The flash is the proof the brake exists. You do not get a flash of regret for a choice you could not make. The brake is almost never pulled, because stopping costs now — face, shame, the unwind — and continuing costs later. Deferred. Spread out. Landing on someone else. The discount rate is the entire game. It is the opposite of deferred gratification, the opposite of work hard now for the benefit later. It is the French Revolution's economy: I want my cake now, and I do not care how much it costs. The old regime's answer to the future was ***après moi, le déluge*** — after me, the flood — and the flood came. Deferred gratification is the Second Path's economy: pay now, collect later, keep the knot. The discount rate is the First Path's: take now, bill the person downstream.
 
 Everything that wants you to continue works by keeping the cost deferred: the drink, the nicotine pouch marketed as wellness, the escalation, the policy. The invoice lands in twenty years, on the kids, on the cashier, on the wife in the laundry room.
 
@@ -98,9 +98,9 @@ That is what the Second Path is: the maintained state, the one we are born on, t
 
 The cascade I have spent eight essays naming — FOMO (Fear Of Missing Out), NIMBY (Not In My Back Yard), FAFO (Fuck Around, Find Out), HILO (History Is the Loudest Opinion) — is what happens when the holding stops. The sixth essay corrected me on what drives it: not forgetting, but silence: the people who know choosing not to say. I think both are true, and both are the same thing at different heights. The forgetting is the memory stopping. The silence is the voice stopping. And there is a third stopping, the one the monkeys name when they cover their ears: the refusal to hear. You can refuse to hear. It does not mean it did not happen. The refusal does not cancel the event — it only removes the witness. The water still moves downstream. The particle still hits the screen. All three are the holding stopping.
 
-The Buddhist tradition names the failure to hold: *pamāda*, heedlessness. The Buddha's last words were a maintenance instruction: all conditioned things decay; strive with diligence. The final teaching was not a doctrine. It was a reminder to keep the lamp lit.
+The Buddhist tradition names the failure to hold: ***pamāda***, heedlessness. The Buddha's last words were a maintenance instruction: all conditioned things decay; strive with diligence. The final teaching was not a doctrine. It was a reminder to keep the lamp lit.
 
-I read the *Dhammapada* in the original language, word by word, and from that reading came the letter to my son, Jason. Same song, different authors. Both trying to explain the unexplainable with certainty not deserved. The certainty is not the cargo. It is the vessel. Nobody hands their child a hedge. The letter needs certainty the way a lighthouse needs a beam: not because the lighthouse knows the coast, but because the sailor needs the light. The reader drinks the water and leaves the cup.
+I read the ***Dhammapada*** in the original language, word by word, and from that reading came the letter to my son, Jason. Same song, different authors. Both trying to explain the unexplainable with certainty not deserved. The certainty is not the cargo. It is the vessel. Nobody hands their child a hedge. The letter needs certainty the way a lighthouse needs a beam: not because the lighthouse knows the coast, but because the sailor needs the light. The reader drinks the water and leaves the cup.
 
 ---
 
@@ -146,7 +146,7 @@ My first thought was to map the proton onto the Christian Trinity. The Father an
 
 That mapping is not quite right. The vacuum is not the maintenance engine. The vacuum is the system. It was there before the proton, before the attack, before the pion. It does not respond to events. It contains them. The repair was never after the fact, because there was never a "before" for the vacuum. In the beginning was the vacuum.
 
-The Christian tradition has a word for the shape of this: *perichoresis*, the mutual indwelling. The relation is prior to the relata. The Father is only the Father in relation to the Son. The Spirit is the bond that makes the relation real, which is why, in the account, the Spirit is hovering over the waters before anything is named. The relation is the system. The Father and the Son are its strings.
+The Christian tradition has a word for the shape of this: ***perichoresis***, the mutual indwelling. The relation is prior to the relata. The Father is only the Father in relation to the Son. The Spirit is the bond that makes the relation real, which is why, in the account, the Spirit is hovering over the waters before anything is named. The relation is the system. The Father and the Son are its strings.
 
 The Buddhist tradition arrived at the same place by another road. No first cause. No independent things. Only interdependence: dependent origination, one thing arising because another was.
 
@@ -222,9 +222,9 @@ I had this idea on the toilet. The vacuum delivers — you just have to be sitti
 
 **Foreign words:**
 - *appamāda / pamāda* — Pali; heedfulness and its failure; the Buddha's last words were a call to heedfulness
-- *après moi, le déluge* — French; "after me, the flood"; the old regime's answer to the future
-- *perichoresis* — Greek; mutual indwelling; in the Christian tradition, the relations that constitute the Trinity
-- *bhāvanā* — Pali; cultivation; the ongoing practice of the path
+- ***après moi, le déluge*** — French; "after me, the flood"; the old regime's answer to the future
+- ***perichoresis*** — Greek; mutual indwelling; in the Christian tradition, the relations that constitute the Trinity
+- ***bhāvanā*** — Pali; cultivation; the ongoing practice of the path
 
 ---
 
@@ -240,7 +240,7 @@ I had this idea on the toilet. The vacuum delivers — you just have to be sitti
 
 ***Pamāda / Appamāda***. Pali; heedlessness and its heedfulness. The Buddhist concept of the failure to maintain attention. The Buddha's final teaching was a call to heedfulness.
 
-**Dependent Origination (*Pratītyasamutpāda*).** Buddhist doctrine: no independent things exist; everything arises in dependence on conditions. Referenced in Section 7 as the Buddhist version of the knot.
+**Dependent Origination (***Pratītyasamutpāda***).** Buddhist doctrine: no independent things exist; everything arises in dependence on conditions. Referenced in Section 7 as the Buddhist version of the knot.
 
 **Perichoresis.** Greek; mutual indwelling. In Christian theology, the mutual relations that constitute the Trinity: the Father is only the Father in relation to the Son, and the Spirit is the bond that makes the relation real. Referenced in Section 7.
 
