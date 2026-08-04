@@ -100,7 +100,7 @@ The cascade I have spent eight essays naming — FOMO (Fear Of Missing Out), NIM
 
 The Buddhist tradition names the failure to hold: *pamāda*, heedlessness. The Buddha's last words were a maintenance instruction: all conditioned things decay; strive with diligence. The final teaching was not a doctrine. It was a reminder to keep the lamp lit.
 
-I read the Dhammapada in the original language, word by word, and from that reading came the letter to my son, Jason. Same song, different authors. Both trying to explain the unexplainable with certainty not deserved. The certainty is not the cargo. It is the vessel. Nobody hands their child a hedge. The letter needs certainty the way a lighthouse needs a beam: not because the lighthouse knows the coast, but because the sailor needs the light. The reader drinks the water and leaves the cup.
+I read the *Dhammapada* in the original language, word by word, and from that reading came the letter to my son, Jason. Same song, different authors. Both trying to explain the unexplainable with certainty not deserved. The certainty is not the cargo. It is the vessel. Nobody hands their child a hedge. The letter needs certainty the way a lighthouse needs a beam: not because the lighthouse knows the coast, but because the sailor needs the light. The reader drinks the water and leaves the cup.
 
 ---
 
@@ -236,11 +236,11 @@ I had this idea on the toilet. The vacuum delivers — you just have to be sitti
 
 **Heisenberg, Werner.** "Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik." *Zeitschrift für Physik* 43, no. 3-4 (1927): 172-198. The uncertainty principle: the act of measuring changes the thing measured. Referenced in Section 3 as the quantum analog of self-awareness changing behavior.
 
-**The Dhammapada.** Pali Buddhist scripture, c. 3rd century BCE. "All conditioned things decay; strive with diligence." The Buddha's last words, interpreted in the essay as a maintenance instruction. Referenced in Section 4.
+***The Dhammapada***. Pali Buddhist scripture, c. 3rd century BCE. "All conditioned things decay; strive with diligence." The Buddha's last words, interpreted in the essay as a maintenance instruction. Referenced in Section 4.
 
-**Pamāda / Appamāda.** Pali; heedlessness and its heedfulness. The Buddhist concept of the failure to maintain attention. The Buddha's final teaching was a call to heedfulness.
+***Pamāda / Appamāda***. Pali; heedlessness and its heedfulness. The Buddhist concept of the failure to maintain attention. The Buddha's final teaching was a call to heedfulness.
 
-**Dependent Origination (Pratītyasamutpāda).** Buddhist doctrine: no independent things exist; everything arises in dependence on conditions. Referenced in Section 7 as the Buddhist version of the knot.
+**Dependent Origination (*Pratītyasamutpāda*).** Buddhist doctrine: no independent things exist; everything arises in dependence on conditions. Referenced in Section 7 as the Buddhist version of the knot.
 
 **Perichoresis.** Greek; mutual indwelling. In Christian theology, the mutual relations that constitute the Trinity: the Father is only the Father in relation to the Son, and the Spirit is the bond that makes the relation real. Referenced in Section 7.
 

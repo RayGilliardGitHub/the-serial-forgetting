@@ -113,7 +113,7 @@ But the moment a quantum system interacts with its environment, the moment it "f
 
 **The mechanism is the same:** the **Second Path** (coherent superposition) is the natural default. It requires no enforcement. But it does require *not being disturbed.* The **First Path** (decohered classical state) is what happens when the system is disturbed and cannot maintain its integrity.
 
-There is no dualism here. No male/female, no yin/yang, no opposing forces that must be balanced. There is simply a coherent state and its inevitable decay when maintenance stops.
+There is no dualism here. No male/female, no *yin*/*yang*, no opposing forces that must be balanced. There is simply a coherent state and its inevitable decay when maintenance stops.
 
 #### 3.2 Ecology and Evolution
 
@@ -167,7 +167,7 @@ A quantitative version of the same insight comes from Peter Turchin's cliodynami
 
 Every major philosophical tradition independently arrived at the same diagnosis.
 
-**Buddha** (600 BCE, India) identified *tanha*, craving, thirst, the desire for things to be other than they are, as the root of all suffering. That is FOMO translated into the language of the spirit. The Eightfold Path is a structured practice of returning to the **Second Path**: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration. Nirvana is not a reward for good behavior. It is what is left when craving is extinguished, the natural state that was always there underneath.
+**Buddha** (600 BCE, India) identified *tanha*, craving, thirst, the desire for things to be other than they are, as the root of all suffering. That is FOMO translated into the language of the spirit. The Eightfold Path is a structured practice of returning to the **Second Path**: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration. *Nirvana* is not a reward for good behavior. It is what is left when craving is extinguished, the natural state that was always there underneath.
 
 **Confucius** (551-479 BCE, China) saw his own time, the Warring States period, as a society that had lost its way. His prescription was *li* (ritual propriety): structured practices that reinforce right relationship. His "rectification of names" is an argument against HILO (History Is the Loudest Opinion): if a ruler does not rule, they are not a ruler, regardless of what they call themselves. The noble person (*junzi*) "is calm and at ease; the small person is always anxious and full of concern." Fear of missing out versus joy of missing out, rendered as character types.
 
@@ -221,7 +221,7 @@ The silence of the sky is not evidence of absence. It is evidence of the same ki
 
 The power of this framework depends on what it does *not* invoke.
 
-**No male/female duality.** The **Second Path** and **First Path** are not opposing forces that must be balanced in the manner of yin and yang. They are not gendered. They are not complementary principles that together make a whole. They are consecutive states of a single system: coherence and its decay. The dualistic framing of Western and Eastern thought has often obscured this by presenting balance as the goal. Balance is not the goal. *Maintaining coherence is the goal.* Balance is what coherence looks like from the outside.
+**No male/female duality.** The **Second Path** and **First Path** are not opposing forces that must be balanced in the manner of *yin* and *yang*. They are not gendered. They are not complementary principles that together make a whole. They are consecutive states of a single system: coherence and its decay. The dualistic framing of Western and Eastern thought has often obscured this by presenting balance as the goal. Balance is not the goal. *Maintaining coherence is the goal.* Balance is what coherence looks like from the outside.
 
 **No random asteroid events.** The standard story of the dinosaur extinction is: everything was fine, then a rock fell from the sky, catastrophe. I think the real story is the forgetting that made the system brittle over millions of years. The asteroid was punctuation. Internal dynamics, overspecialization, reduced genetic diversity, ecosystem simplification, resource exhaustion, had already set the collapse in motion. The asteroid just happened to be the trigger that made the collapse visible. In systems that do not encounter an asteroid, the internal cascade reaches the same endpoint, just more slowly.
 
@@ -358,7 +358,7 @@ Though this is an original synthesis, the ideas it synthesizes draw on a wide ra
 
 *On Civilizational Cycles*
 
-- The Vedas and Puranas (anonymous, c. 1500-500 BCE) — The *Yuga* cycle descriptions.
+- The *Vedas* and *Puranas* (anonymous, c. 1500-500 BCE) — The *Yuga* cycle descriptions.
 - Guaman Poma de Ayala, F. (c. 1615). *El Primer Nueva Corónica y Buen Gobierno.* — Primary Andean source on the concept of *Pachakuti* and world ages.
 
 *On the Diagnosis in Philosophy*

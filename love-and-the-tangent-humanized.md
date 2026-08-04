@@ -220,6 +220,6 @@ There is no answer to the tangent function. The answer is to use a different fun
 
 **Belt and Road Initiative.** Chinese infrastructure and investment strategy launched in 2013, encompassing over 140 countries. Referenced in Section 4 as an example of development that functions as debt-trap diplomacy.
 
-**Agape.** The Greek term for unconditional, self-giving love in Christian theology, distinct from eros (romantic love) and philia (friendship). Referenced in Section 9 as a love that doesn't keep score.
+***Agape***. The Greek term for unconditional, self-giving love in Christian theology, distinct from *eros* (romantic love) and *philia* (friendship). Referenced in Section 9 as a love that doesn't keep score.
 
-**The Third Noble Truth.** In Buddhist doctrine, the truth that cessation of suffering (dukkha) is possible through the release of craving (tanha). Referenced in Section 9 alongside agape as a framework for love that doesn't require energy input from outside.
+**The Third Noble Truth.** In Buddhist doctrine, the truth that cessation of suffering (*dukkha*) is possible through the release of craving (*tanha*). Referenced in Section 9 alongside *agape* as a framework for love that doesn't require energy input from outside.
