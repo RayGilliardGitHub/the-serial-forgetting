@@ -15,5 +15,14 @@ Thumbs.db
 .vscode/
 .idea/
 
-# PDF is derived from markdown, but we track it for distribution
-# No exclusions needed
+# Only the humanized markdown lives on GitHub. PDFs are derived,
+# local distribution artifacts — never tracked.
+*.pdf
+
+# Originals, drafts, and AI-work artifacts — archived locally in old/
+old/
+
+# Private family documents — not for GitHub (Jason manual, Jessica's book)
+letter-to-jason.md
+letter-to-jessica.md
+dad-story-merged-draft.md

@@ -14,15 +14,13 @@ I thought I had found the missing half of the equation I'd been chasing all nigh
 
 I was wrong.
 
-I didn't know he had just answered a question I hadn't finished asking.
-
-But I didn't know it yet. I was in the middle of something else — I had been reading about a budget vote, and my head was full of abstractions. Power. Money. The shape of systems that don't hold. I filed his sentence away and went back to what I was doing.
+I didn't know he had just answered a question I hadn't finished asking. I was in the middle of something else — I had been reading about a budget vote, and my head was full of abstractions. Power. Money. The shape of systems that don't hold. I filed his sentence away and went back to what I was doing.
 
 I should tell you who I am before I go much further. White man. Grew up in Upper Darby, a white suburb of Philadelphia. Everyone I knew was white. I didn't meet a Black or Hispanic person in any real way until I went to Temple University in 1977.
 
-That's where I saw it firsthand — on the bus, on the elevated L to Broad Street, on the subway to campus, five years of going back and forth at all different times of day. The deference I got just for being white. Something I didn't earn. It was just given to me. I was 6'1", 210 pounds, prime muscle, nobody ever troubled me in five years. But I noticed how it wasn't the same for people who looked different than me.
+That's where I saw it firsthand: on the bus, on the elevated L to Broad Street, on the subway to campus, five years of going back and forth at all different times of day. The deference I got just for being white. Something I didn't earn. It was just given to me. I was 6'1", 210 pounds, prime muscle, nobody ever troubled me in five years. But I noticed how it wasn't the same for people who looked different than me.
 
-I think I'm trying to say: my experience is what everybody should get. But I know from the news, from the internet, from what I saw then and still see now — it's not the case. It wasn't the case then and it isn't the case now. I write about power and systems from a specific vantage point. Not a neutral one. And I want you to know that before I start telling you what I think is wrong with the world.
+I'm trying to say: my experience is what everybody should get. I know from the news, from the internet, from what I saw then and still see now — that's not the case. It wasn't the case then and it isn't the case now. I write about power and systems from a specific vantage point. Not a neutral one. And I want you to know that before I start telling you what I think is wrong with the world.
 
 ---
 
@@ -30,9 +28,9 @@ I think I'm trying to say: my experience is what everybody should get. But I kno
 
 The House passed a $95 billion budget framework 216-214. Nearly party line. Two Republicans and an independent who used to be one crossed over to vote no. Leadership had been scrambling for days to flip votes. They made it by two.
 
-I noticed something watching the coverage. When I say "corporate welfare" or "defense contractor payouts," I'm not stating a fact. I'm interpreting one. The honest version: they funded things that serve their coalition, and the people who benefit most are not the people I see at Walmart. But plenty of people at Walmart voted for this too, and they think it's about national security or election integrity. Maybe they're wrong. Maybe I'm wrong. I don't know how to test that.
+Watching the coverage, I noticed something. When I say "corporate welfare" or "defense contractor payouts," I'm not stating a fact. I'm interpreting one. The honest version: they funded things that serve their coalition, and the people who benefit most are not the people I see at Walmart. But plenty of people at Walmart voted for this too, and they think it's about national security or election integrity. Maybe they're wrong. Maybe I'm wrong. I don't know how to test that.
 
-There's a procedural detail that matters more than most people realize. This budget is moving through reconciliation — 50 votes instead of 60. Reconciliation was designed for budgets, not policy. But they're stuffing the SAVE Act into it by calling election grants "spending" to get past the parliamentarian. Meanwhile, the Affordable Care Act needed 60 votes to pass, and every Republican attempt to repeal it has failed — not because they couldn't find 60, but because they couldn't even find 50. So one party's priority needed a supermajority to pass. The other's slides through on a simple majority by relabeling it. That's not process. That's picking winners. And the man in the White House wants to kill the filibuster entirely — removing even the 60-vote hurdle. The laws that would pass wouldn't benefit the people who can't afford to lobby for them. They never do.
+There's a procedural detail that matters more than most people realize. This budget is moving through reconciliation — 50 votes instead of 60. Reconciliation was designed for budgets, not policy. But they're stuffing the SAVE Act into it by calling election grants "spending" to get past the parliamentarian. Meanwhile, the Affordable Care Act needed 60 votes to pass. Every Republican attempt to repeal it has failed — not because they couldn't find 60, but because they couldn't even find 50. So one party's priority needed a supermajority to pass. The other's slides through on a simple majority by relabeling it. That's not process. That's picking winners. And the man in the White House wants to kill the filibuster entirely — removing even the 60-vote hurdle. The laws that would pass wouldn't benefit the people who can't afford to lobby for them. They never do.
 
 ---
 
@@ -40,19 +38,19 @@ There's a procedural detail that matters more than most people realize. This bud
 
 The phrase that keeps sticking in my head: socialism for the connected, austerity for everyone else.
 
-But "everyone else" is not a category I can hide in. I'm on SNAP. I have Medicare. My son Jason qualifies for DAC because his disability was established before he was 22. I have Section 8 rent at an apartment in Albuquerque, NM — $1,141 a month for a two-bedroom, one-bath senior 55+ unit. These programs exist because of the same government I'm complaining about. If I'm honest, the system worked for me in ways it didn't work for other people. That's a counterexample I can't ignore.
+But I can't exactly hide in "everyone else." I'm on SNAP. I have Medicare. My son Jason qualifies for DAC because his disability was established before he was 22. I have Section 8 rent at an apartment in Albuquerque, NM — $1,141 a month for a two-bedroom, one-bath senior 55+ unit. These programs exist because of the same government I'm complaining about. If I'm honest, the system worked for me in ways it didn't work for other people. That's a counterexample I can't ignore.
 
 And I'll also be honest: I think I deserve it. I've been paying into this system since I was 16. I believed it would be there when I needed it. I played by the rules. I showed up. I paid taxes for 50 years. Some of that was by force (payroll tax), some by choice (believing it would hold). So when I say "the system worked for me," it's not pure luck — it's a 50-year investment that matured. The question is why it doesn't mature for everyone who makes the same investment.
 
 Here's what that investment looks like today: $3,300 a month in Social Security. The single most expensive thing outside of rent is healthcare — Medicare takes a big cut before I ever see the money. I live on about $2,700 a month. Fifty years of work, and that's the balance sheet. I'm not complaining about the number. I'm saying: if this is what the system pays out for someone who did everything right, imagine what it pays out for someone who didn't have the same advantages.
 
-I called it "privatize the gains, socialize the costs, punch down." That's a good line. But it's a conclusion. The exploring version is: I keep noticing that the people who write the rules seem to end up on the winning side of them, and I don't think that's a coincidence. But I also don't know what system wouldn't do that.
+I called it "privatize the gains, socialize the costs, punch down." That's a good line. But it's a conclusion. The exploring version is: I keep noticing the people who write the rules end up on the winning side of them, and I don't think that's a coincidence. I also don't know what system wouldn't do that.
 
 ---
 
 ## 3. The Fraying Anchor
 
-Treasury Secretary Bessent stood in front of cameras and said the gold at Fort Knox is all there — then added that it doesn't matter. The dollar hasn't been backed by gold since 1971. It's backed by trust, which is to say it's backed by nothing the physics department would recognize.
+Treasury Secretary Bessent stood in front of cameras and said the gold at Fort Knox is all there. Then he added that it doesn't matter. The dollar hasn't been backed by gold since 1971. It's backed by trust, which is to say it's backed by nothing the physics department would recognize.
 
 Something that looks like a physical law (gold backs the dollar) turns out to be a social agreement backed by nothing except everyone deciding to keep playing along. The US weaponized that agreement — sanctions, SWIFT cutoffs, freezing reserves — and our own allies noticed and started building escape routes. France took its gold out of the NY Fed. Canada started a sovereign wealth fund. Gulf states are taking yuan for oil.
 
@@ -62,13 +60,13 @@ I think this is one of those shapes that appears in different domains without be
 
 ## 4. The Globalist's Dilemma
 
-I have a problem. I don't trust China. The CCP runs a surveillance state that treats individuals as resources — not that the US doesn't do the same thing, it does, just in different degrees and methods. Their Belt and Road initiative looks like development but smells like debt traps. Their rhetoric of "multipolar world" means "a world where we also get a pole to swing" — Teddy Roosevelt would recognize the game, he just wouldn't recognize the player holding the big stick.
+I have a problem. I don't trust China. The CCP runs a surveillance state that treats individuals as resources — not that the US doesn't do the same thing, it does, just in different degrees and methods. Their Belt and Road initiative looks like development but smells like debt traps. Their rhetoric of "multipolar world" means "a world where we also get a pole to swing." Teddy Roosevelt would recognize the game, he just wouldn't recognize the player holding the big stick.
 
 But I also don't trust the US to do the right thing. WE wrote the rules — the royal we, the one that means you weren't in the room and neither was I — and then exempted ourselves. We invade without UN approval. We freeze assets we told everyone were safe. We call it "the rules-based international order" and the scare quotes around "rules-based" are visible from space.
 
-The idea of globalism was sound: connected economies make war more expensive. Shared standards prevent a race to the bottom. Trade lifts more boats than aid. But the implementation was rigged from the start. The strong wrote the rules, the stronger broke them, and the weak were told to follow or face consequences.
+The idea of globalism was sound: connected economies make war more expensive. Shared standards prevent a race to the bottom. Trade lifts more boats than aid, most of the time. But the implementation was rigged from the start. The strong wrote the rules, the stronger broke them, and the weak were told to follow or face consequences.
 
-I want a system where nation-states can't weaponize ideology. But I don't know how to build one that doesn't end up being the same game with different winners.
+I want a system where nation-states can't weaponize ideology. I don't know how to build one that doesn't end up being the same game with different winners.
 
 ---
 
@@ -76,19 +74,17 @@ I want a system where nation-states can't weaponize ideology. But I don't know h
 
 Here's the mathematical metaphor that stuck with me longest.
 
-Picture a graph. An S-curve rising from the bottom left, crossing through zero in the middle, climbing to the top right. It looks orderly at first — a clean transition, a manageable shape. That's the part most people see.
+Picture a graph. An S-curve that rises from the bottom left, crosses through zero in the middle, and climbs to the top right. It looks orderly at first — a clean transition, a manageable shape. That's the part most people see.
 
 The part you don't see is what happens off the edges. Beyond that apparently orderly crossing, the curve doesn't level out. It climbs vertically. It goes to infinity. Both directions. Too big for human comprehension.
 
 And here's the part that matters most: the incremental change near zero already behaves like it's heading to infinity. The escalation is baked in from the start. There is no plateau. No settling. Just an accelerating climb with no end in sight until it hits the asymptote and flips to the opposite extreme.
 
-The Law of Large Numbers says if you sample enough times, the average converges on the true value. That's the assumption behind democracy — enough voters, enough time, the right answer emerges.
+The Law of Large Numbers says if you sample enough times, the average settles on the truth. That's the assumption behind democracy: enough voters, enough time, the right answer emerges.
 
 But human systems don't sample from a stable distribution. They follow the tangent. They oscillate. Not around a center but between extremes.
 
-- Crime high → get tough → mass incarceration → defund the police → crime high again
-- Markets too loose → crash → new regulations → lobbyists hollow them out → crash again
-- Stay out of foreign wars → watch genocide happen → intervene → get stuck → swear off intervention → watch genocide happen again
+Crime goes up, we get tough, mass incarceration swells, we defund the police, crime goes up again. Markets get too loose, they crash, new regulations come in, lobbyists hollow them out, another crash. We stay out of foreign wars, watch genocide happen, intervene, get stuck, swear off intervention, watch genocide happen again.
 
 The "sensible center" in this model isn't a place you can build. It's a point you cross on your way from one overcorrection to the next. Zero is not a destination. It's a line.
 
@@ -114,7 +110,7 @@ I don't know how to scale that. But I can't pretend it didn't happen.
 
 ## 7. The Black Hole Solution
 
-Gravity isn't a force the way electromagnetism is a force. It's the system's reaction to mass. More mass, more curvature, more gravity. Given enough mass concentrated in one place, the geometry of spacetime collapses inward until the distinction between things disappears entirely. A black hole is perfect order — no entropy, no friction, no oscillation. Every path leads to the center.
+Gravity isn't a force like electromagnetism. It's what space does when mass is present. More mass, more curvature, more pull. Given enough mass concentrated in one place, the geometry of spacetime collapses inward until the distinction between things disappears entirely. A black hole is perfect order — no entropy, no friction, no oscillation. Every path leads to the center.
 
 If you read that as a political metaphor, it's the argument for absolute power. If only one force could overcome all others, you'd want it to be something that can't be gamed. And mass can't help but obey gravity. It's not a choice. It's not a system of laws. It's what mass *does.*
 
@@ -142,7 +138,7 @@ The Christian tradition calls it *agape* — love that doesn't keep score, doesn
 
 I used to think these were just coping mechanisms for people who couldn't face reality. Now I'm not sure. I keep finding the shape of something that doesn't require energy input from outside because it generates its own. Love is one of the few things humans invest energy in without expecting proportional return. That's a stronger claim — and one I can defend.
 
-Here's the thought experiment I keep coming back to. In physics, mass creates gravity. More mass, more curvature, more pull. It's not something mass chooses — it's what mass *does.* So what if people work the same way? What if a mass of people choosing to love one another — freely, not coerced — creates a curvature of the social space around them? A force that pulls the same way gravity does, but without requiring the collapse into a singularity?
+Here's the thought experiment I keep coming back to. In physics, mass creates gravity. More mass, more curvature, more pull. It's not something mass chooses. It's what mass *does.* So what if people work the same way? What if a mass of people choosing to love one another — freely, not coerced — creates a curvature of the social space around them? A force that pulls the same way gravity does, but without requiring the collapse into a singularity?
 
 I have no idea if that's real. It sounds like something you'd find in a metaphor that got too ambitious. But I keep finding the shape of it. The Martin email. The friends who showed up after my wife of 32 years, Nancy, died. The people who help with Jason. Sobriety. Small gatherings of people who chose love and the space around them bent.
 
@@ -164,7 +160,7 @@ That's the scale that matters. Not 10^67 years. Not a budget framework. Not the 
 
 ## 10. Jason's Correction
 
-I had spent the whole night tracking the tangent — the swing between extremes, the craving, the entropy, the decay, the force that cannot be resisted and the love that cannot be forced. I was describing the shape of *wanting.* Wanting the system to be fair. Wanting power to be accountable. Wanting love to scale. Wanting order where it cannot exist.
+I had spent the whole night tracking the tangent: the swing between extremes, the craving, the entropy, the decay, the force that cannot be resisted and the love that cannot be forced. I was describing the shape of *wanting.* Wanting the system to be fair. Wanting power to be accountable. Wanting love to scale. Wanting order where it cannot exist.
 
 Every loop I traced was a loop of desire.
 
@@ -186,11 +182,11 @@ He added: *"I want to fill the holes in my collection."*
 
 I almost missed the second sentence too.
 
-Think about what that means. He's not trying to track his whole collection. That would be the tangent — infinite scope, infinite swing. He's tracking what's *missing.* The holes. The gaps that need filling. By narrowing his wanting to only what completes the set, he keeps himself near zero. The holes are finite. The collection has a boundary. The want can only swing as far as the next missing piece.
+Think about what that means. He's not trying to track his whole collection. That would be the tangent: infinite scope, infinite swing. He's tracking what's *missing.* The holes. The gaps that need filling. By narrowing his wanting to only what completes the set, he keeps himself near zero. The holes are finite. The collection has a boundary. The want can only swing as far as the next missing piece.
 
 That's not a different function. That's the same function with guardrails. He didn't eliminate wanting. He contained it. He gave it a container with walls so it can't oscillate to infinity.
 
-Meanwhile, my wanting has no container. No collection. No finite set of holes. Just an unbounded field of "more" — more understanding, more insight, more answers, more meaning. The tangent swings unopposed.
+Meanwhile, my wanting has no container. No collection. No finite set of holes. Just an unbounded field of "more": more understanding, more insight, more answers, more meaning. The tangent swings unopposed.
 
 He wants too. He's just more honest about the shape of it. His wanting has a container. A Steam library. A Crunchyroll queue. A shelf. The holes he's filling are finite and visible. The holes I'm filling are not. But we are both filling holes. We both default to the same function. His just has guardrails mine doesn't.
 
@@ -206,4 +202,24 @@ The real discovery isn't that Jason has a different function. It's that he *know
 
 I don't need to close the loop. Jason already closed it.
 
-There is no answer to the tangent function. The answer is to use a different function. And the only way to do that is to notice you're on the wrong one first.
+There is no answer to the tangent function. The answer is to use a different function. The only way to do that is to notice you're on the wrong one first.
+
+---
+
+## References
+
+**Hawking, Stephen W.** "Particle Creation by Black Holes." *Communications in Mathematical Physics* 43, no. 3 (1975): 199-220. Hawking proved that black holes radiate thermally and eventually evaporate, a process now known as Hawking radiation. Referenced in Section 8 ("Hawking proved the singularity radiates").
+
+**Bernoulli, Jacob.** *Ars Conjectandi.* Basel: Impensis Typographiae, 1713. The Law of Large Numbers states that the average of results from a large number of trials converges on the expected value. Referenced in Section 5 as the assumption behind democracy.
+
+**The Tangent Function.** The essay uses the mathematical tangent (y = tan(x)) as a model for human systems that oscillate between extremes instead of converging. The function crosses zero linearly but climbs to infinity on both sides, with no plateau.
+
+**U.S. House of Representatives.** Vote on the FY2026 budget reconciliation framework, July 2026. Passed 216-214, nearly party line. The SAVE Act was attached via reconciliation by reclassifying election grants as spending.
+
+**Nixon, Richard M.** "Address to the Nation Announcing Steps to Protect the Dollar Position of the United States." August 15, 1971. The United States unilaterally converted the dollar from gold-backed to fiat, ending the Bretton Woods system.
+
+**Belt and Road Initiative.** Chinese infrastructure and investment strategy launched in 2013, encompassing over 140 countries. Referenced in Section 4 as an example of development that functions as debt-trap diplomacy.
+
+**Agape.** The Greek term for unconditional, self-giving love in Christian theology, distinct from eros (romantic love) and philia (friendship). Referenced in Section 9 as a love that doesn't keep score.
+
+**The Third Noble Truth.** In Buddhist doctrine, the truth that cessation of suffering (dukkha) is possible through the release of craving (tanha). Referenced in Section 9 alongside agape as a framework for love that doesn't require energy input from outside.
