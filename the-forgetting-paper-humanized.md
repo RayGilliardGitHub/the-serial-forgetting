@@ -143,19 +143,23 @@ The cascade:
 
 #### 3.4 Civilizational Cycles
 
-The Hindu Yuga cycle describes exactly this cascade at the largest temporal scale:
+The Hindu *Yuga* cycle describes exactly this cascade at the largest temporal scale:
 
-- **Satya Yuga:** Truth reigns. Humans are content, meditative, peaceful. No disease, no conflict, no envy. Duration: 1,728,000 years. The **Second Path**.
+- ***Satya Yuga***: Truth reigns. Humans are content, meditative, peaceful. No disease, no conflict, no envy. Duration: 1,728,000 years. The **Second Path**.
 
-- **Treta Yuga:** Vice appears but virtue dominates. Sacrifice and ritual replace direct knowing. FOMO begins as the desire for what others have enters human experience. Duration: 1,296,000 years.
+- ***Treta Yuga***: Vice appears but virtue dominates. Sacrifice and ritual replace direct knowing. FOMO begins as the desire for what others have enters human experience. Duration: 1,296,000 years.
 
-- **Dvapara Yuga:** Disease, war, and disaster. Knowledge declines. Pursuit of pleasure dominates. NIMBY at civilizational scale: hoarding, territoriality, inequality. Duration: 864,000 years.
+- ***Dvapara Yuga***: Disease, war, and disaster. Knowledge declines. Pursuit of pleasure dominates. NIMBY at civilizational scale: hoarding, territoriality, inequality. Duration: 864,000 years.
 
-- **Kali Yuga:** Greed, short lives, truth hidden. The age of quarrel. The loudest drown out the wisest. Nobody remembers what was lost because nobody lived in the age that had it. Full HILO (History Is the Loudest Opinion). Duration: 432,000 years.
+- ***Kali Yuga***: Greed, short lives, truth hidden. The age of quarrel. The loudest drown out the wisest. Nobody remembers what was lost because nobody lived in the age that had it. Full HILO (History Is the Loudest Opinion). Duration: 432,000 years.
 
 The Andean concept of *Pachakuti* describes the same arc in different terms: a world-age of order and coherence, followed by gradual decline, ended by a violent overturning (the *pachakuti* itself), then a reset. The Incas identified five such ages. Each ended not because of external invasion but because the internal balance was exhausted.
 
 These traditions emerged on different continents, in different millennia, with no contact between them. They all describe a similar pattern. That is either a remarkable coincidence or evidence that the pattern is built into the structure of human societies.
+
+Here is my answer to that fork. Every human being alive descends from one ancestral population. Everyone outside Africa traces most of its ancestry to the same small group that left the continent roughly seventy thousand years ago, and everyone on Earth traces to a common African origin deeper still. A pattern that shows up in every human society, on every continent, with no contact between them, is not something that happened to recur. **It is something that was inherited.** The same genome carries the same social instincts. Comparison, territoriality, collision, and the rewriting of the record are not cultural inventions that spread from one place; they are human nature, and human nature is built by genes with a single origin. The traditions did not need to contact each other, because they were all reading the same machine.
+
+The pattern is older than our species — status hierarchies run through the mammals, territoriality deeper still — and that depth is the point, not the problem. The cascade is the default of complex life. Genes are how the universe got that default into the human machine. Culture carries it a third time, and culture is where the details drift: the *Yuga* durations, the names, the local myths. The shape holds because the layers beneath it hold. Physics, genome, culture — three inheritances, one pattern. Not a remarkable coincidence. It is built in.
 
 A quantitative version of the same insight comes from Peter Turchin's cliodynamics, a mathematical modeling of historical data. Analyzing cycles across Rome, medieval France, ancient China, and the United States, Turchin identified consistent 200 to 300 year secular cycles of stability and integration followed by crisis and disintegration, with nested 50-year instability cycles. His models predict these surges are driven by *elite overproduction*: when a society matures, the number of educated aspirants outgrows the number of prestigious positions. The excess elites stop cooperating, recruit followers from the frustrated majority, and destabilize the system from within. In a 2012 paper in the *Journal of Peace Research*, Turchin used this model to predict that the next peak of American political instability would arrive around 2020, a prediction made eight years early. The mechanism is FOMO and NIMBY at the structural level: too many qualified people competing for too few slots, the system becoming top heavy with aspirants who cannot find a place, and the resulting fragmentation accelerating the cascade.
 
@@ -354,13 +358,13 @@ Though this is an original synthesis, the ideas it synthesizes draw on a wide ra
 
 *On Civilizational Cycles*
 
-- The Vedas and Puranas (anonymous, c. 1500-500 BCE) — The Yuga cycle descriptions.
-- Guaman Poma de Ayala, F. (c. 1615). *El Primer Nueva Corónica y Buen Gobierno.* — Primary Andean source on the concept of Pachakuti and world ages.
+- The Vedas and Puranas (anonymous, c. 1500-500 BCE) — The *Yuga* cycle descriptions.
+- Guaman Poma de Ayala, F. (c. 1615). *El Primer Nueva Corónica y Buen Gobierno.* — Primary Andean source on the concept of *Pachakuti* and world ages.
 
 *On the Diagnosis in Philosophy*
 
-- The Dhammacakkappavattana Sutta (Buddha's first sermon, c. 528 BCE) — The Four Noble Truths, identifying craving (tanha) as the root of suffering.
-- The Analects of Confucius (c. 475-221 BCE) — The rectification of names, li, and the junzi.
+- The Dhammacakkappavattana Sutta (Buddha's first sermon, c. 528 BCE) — The Four Noble Truths, identifying craving (*tanha*) as the root of suffering.
+- The Analects of Confucius (c. 475-221 BCE) — The rectification of names, *li*, and the *junzi*.
 - The Gospel of Matthew (c. 70-110 CE) — The Sermon on the Mount, especially the lilies of the field.
 - Aurelius, M. (c. 170-180 CE). *Meditations.* — The core Stoic texts on the dichotomy of control.
 - Epictetus (c. 108 CE). *Discourses.* — Enchiridion, the manual on distinguishing what is and is not up to us.
