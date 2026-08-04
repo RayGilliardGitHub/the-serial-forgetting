@@ -8,7 +8,7 @@
 
 ### Author's Note
 
-This essay follows *The Serial Forgetting: Coherence, Decay, and the Universal Cascade*. It assumes you know the framework — the four-stage cascade of FOMO, NIMBY, FAFO, and HILO, and the Second Path as the default state of a coherent system that has not yet forgotten itself.
+This essay follows *The Serial Forgetting: Coherence, Decay, and the Universal Cascade*. It assumes you know the framework — the four-stage cascade of FOMO, NIMBY, FAFO, and HILO (History Is the Loudest Opinion), and the Second Path as the default state of a coherent system that has not yet forgotten itself.
 
 The first essay was safe. It let you point at history, at empires, at ecosystems, at marriages, at startups. It was true, but comfortable — the truth was always *out there*, visible in systems larger than yourself. The cascade was something that happened *to* things.
 
@@ -219,7 +219,7 @@ This essay ends the same way — but for a different reason.
 
 The cascade never loses because it does not need to win. It is not a force or an enemy. It is the shape of forgetting, and forgetting is the default trajectory of any system that stops maintaining itself. The cascade never loses because winning requires nothing from it. It just waits.
 
-Every January, around Martin Luther King's birthday, the country performs a ritual of remembering — but it is remembering dressed as forgetting. The comfortable fragments are preserved: "I Have a Dream," "content of character." The uncomfortable parts are dropped: the opposition to the Vietnam War, the call for economic redistribution, the FBI surveillance, the assassination. The "content of character" he called for has been twisted into a politics of colorblindness that skips the reckoning and pretends the past does not exist. This is HILO applied to history: we rewrite what happened so that no one has to feel uncomfortable about what we inherited or what we are failing to do.
+Every January, around Martin Luther King's birthday, the country performs a ritual of remembering — but it is remembering dressed as forgetting. The comfortable fragments are preserved: "I Have a Dream," "content of character." The uncomfortable parts are dropped: the opposition to the Vietnam War, the call for economic redistribution, the FBI surveillance, the assassination. The "content of character" he called for has been twisted into a politics of colorblindness that skips the reckoning and pretends the past does not exist. This is HILO (History Is the Loudest Opinion) applied to history: we rewrite what happened so that no one has to feel uncomfortable about what we inherited or what we are failing to do.
 
 The cascade is not only about the future. We do not just forget to act. We actively forget what happened — we edit the record, trim the uncomfortable parts, and if the sanitized version is challenged, we exhume the messenger's flaws to give ourselves permission to stop listening. *If he was flawed, his message must be flawed too.* That is not logic. It is the cascade using our own moral discomfort as a weapon against the truth.
 

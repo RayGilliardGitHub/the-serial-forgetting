@@ -131,7 +131,7 @@ But I know it now. The past cannot receive the gift. The present can.
 
 *The essays in this series: The Serial Forgetting, The Real Enemy Is Me, Sack of Shit, I Wish, I Wish (Second Version), The Serial Silence, Love?, Respect, The Rubric — and this one, which is all of them, compressed.*
 
-*Glossary: FOMO — Fear Of Missing Out; NIMBY — Not In My Back Yard; FAFO — Fuck Around, Find Out; HILO — History Is the Loudest Opinion; the Second Path — the maintained path, the feedback loop still running; anicca (Pali) — all conditioned phenomena change.*
+*Glossary: FOMO — Fear Of Missing Out; NIMBY — Not In My Back Yard; FAFO — Fuck Around, Find Out; HILO (History Is the Loudest Opinion) — History Is the Loudest Opinion; the Second Path — the maintained path, the feedback loop still running; anicca (Pali) — all conditioned phenomena change.*
 
 ---
 

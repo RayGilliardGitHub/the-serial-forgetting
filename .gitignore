@@ -26,3 +26,11 @@ old/
 letter-to-jason.md
 letter-to-jessica.md
 dad-story-merged-draft.md
+
+# Book assembly artifacts — manuscript embeds the private letters
+manuscript.md
+manuscript.pdf
+book-glossary.md
+build_book.py
+book.css
+front-matter/

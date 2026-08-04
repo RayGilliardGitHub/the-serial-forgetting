@@ -199,7 +199,7 @@ I had this idea on the toilet. The vacuum delivers — you just have to be sitti
 - **FOMO** — Fear Of Missing Out
 - **NIMBY** — Not In My Back Yard
 - **FAFO** — Fuck Around, Find Out
-- **HILO** — History Is the Loudest Opinion
+- **HILO (History Is the Loudest Opinion)** — History Is the Loudest Opinion
 - **SILENCE** — the precondition; the refusal to speak what is known
 
 **Second Path — the maintained state:**

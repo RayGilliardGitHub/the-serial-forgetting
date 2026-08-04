@@ -129,7 +129,7 @@ Much of that chain has been broken in modern life. Not by accident — deliberat
 
 ### 7. The End of the Cascade
 
-I wrote the first essay about the cascade: FOMO, NIMBY, FAFO, HILO. The serial forgetting.
+I wrote the first essay about the cascade: FOMO, NIMBY, FAFO, HILO (History Is the Loudest Opinion). The serial forgetting.
 
 I think the cascade is what happens when the respect structure breaks. When there is no master to break the bowl, the apprentice cannot learn. When there is no pile on the floor, the apprentice thinks the first bowl should be perfect. When there is no standard held by a trusted judge, the apprentice substitutes the only judgment available: comparison with others.
 
@@ -141,7 +141,7 @@ Consider each stage in light of the video:
 
 **FAFO** is what happens when the self-taught apprentice collides with a market that still has standards, even if nobody is teaching them.
 
-**HILO** is what happens when the pile gets swept away and replaced with a story. The broken bowls were never broken. They were always fine. The standards were oppressive. The master was a tyrant. History rewrites the rejection as oppression.
+**HILO (History Is the Loudest Opinion)** is what happens when the pile gets swept away and replaced with a story. The broken bowls were never broken. They were always fine. The standards were oppressive. The master was a tyrant. History rewrites the rejection as oppression.
 
 I do not know if this reframing is more true than the first version. But it fits what I saw in that video in a way the original framework did not. The cascade may not be about forgetting or even about silence. It may be about the moment the master stops teaching and the apprentice stops trusting.
 

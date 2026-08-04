@@ -20,7 +20,7 @@ Seven independent philosophical traditions, three civilizational cycle models, t
 
 Correlation is not proof. But correlation across this many independent domains is *information.* Consider it an offer, not a demand.
 
-*A glossary of scientific terms and foreign words used in this essay can be found in section 8 for reference.*
+*A glossary of scientific terms and foreign words used in this essay can be found in the glossary at the end of the book.*
 
 ---
 
@@ -36,7 +36,7 @@ It starts with a person in a store. You know the type: something between a deman
 
 This person, colloquially the "Karen", is easy to mock. But mockery misses the point. She is not a unique character flaw. She is a **pure expression of a cascade** that operates at every kind of scale in human organization. The same engine driving her behavior drives the collapse of startups and the fall of empires. Even, if we are not careful, the silence of the cosmos.
 
-The engine has four stages, captured in four acronyms that everyone already knows: FOMO, NIMBY, FAFO, and HILO. Each connects to the next the way a falling row of dominoes connects to the one after it.
+The engine has four stages, captured in four acronyms that everyone already knows: FOMO, NIMBY, FAFO, and HILO (History Is the Loudest Opinion). Each connects to the next the way a falling row of dominoes connects to the one after it.
 
 - **Fear Of Missing Out (FOMO)** — the engine of comparison, status anxiety, and desire for what others have
 - **Not In My Back Yard (NIMBY)** — the constraint that demands benefits without accepting costs
@@ -63,7 +63,7 @@ This matters because the whole essay hangs on it. If you read "**Second Path**" 
 
 *Not every system follows this arc exactly, but enough do, across enough independent domains, that the shape is worth examining. The language of "all" and "every" in the sections that follow is emphasis, not insistence. Test each claim against your own experience.*
 
-The acronyms — FOMO, NIMBY, FAFO, HILO — are the stages of that forgetting.
+The acronyms — FOMO, NIMBY, FAFO, HILO (History Is the Loudest Opinion) — are the stages of that forgetting.
 
 ---
 
@@ -139,7 +139,7 @@ The cascade:
 
 - **FAFO:** Marius vs. Sulla. Caesar vs. Pompey. Octavian vs. Antony. A hundred years of civil war. The Republic died not from barbarian invasion but from Romans killing Romans because the system had lost its internal coherence and could not peacefully resolve disputes anymore.
 
-- **HILO:** Augustus called it "restoring the Republic." It was a monarchy. Everyone knew it. The name stuck anyway, and within two generations, nobody remembered what a real republic felt like. The history was written by the loudest, and the loudest was the emperor.
+- **HILO (History Is the Loudest Opinion):** Augustus called it "restoring the Republic." It was a monarchy. Everyone knew it. The name stuck anyway, and within two generations, nobody remembered what a real republic felt like. The history was written by the loudest, and the loudest was the emperor.
 
 #### 3.4 Civilizational Cycles
 
@@ -151,7 +151,7 @@ The Hindu Yuga cycle describes exactly this cascade at the largest temporal scal
 
 - **Dvapara Yuga:** Disease, war, and disaster. Knowledge declines. Pursuit of pleasure dominates. NIMBY at civilizational scale: hoarding, territoriality, inequality. Duration: 864,000 years.
 
-- **Kali Yuga:** Greed, short lives, truth hidden. The age of quarrel. The loudest drown out the wisest. Nobody remembers what was lost because nobody lived in the age that had it. Full HILO. Duration: 432,000 years.
+- **Kali Yuga:** Greed, short lives, truth hidden. The age of quarrel. The loudest drown out the wisest. Nobody remembers what was lost because nobody lived in the age that had it. Full HILO (History Is the Loudest Opinion). Duration: 432,000 years.
 
 The Andean concept of *Pachakuti* describes the same arc in different terms: a world-age of order and coherence, followed by gradual decline, ended by a violent overturning (the *pachakuti* itself), then a reset. The Incas identified five such ages. Each ended not because of external invasion but because the internal balance was exhausted.
 
@@ -165,13 +165,13 @@ Every major philosophical tradition independently arrived at the same diagnosis.
 
 **Buddha** (600 BCE, India) identified *tanha*, craving, thirst, the desire for things to be other than they are, as the root of all suffering. That is FOMO translated into the language of the spirit. The Eightfold Path is a structured practice of returning to the **Second Path**: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration. Nirvana is not a reward for good behavior. It is what is left when craving is extinguished, the natural state that was always there underneath.
 
-**Confucius** (551-479 BCE, China) saw his own time, the Warring States period, as a society that had lost its way. His prescription was *li* (ritual propriety): structured practices that reinforce right relationship. His "rectification of names" is an argument against HILO: if a ruler does not rule, they are not a ruler, regardless of what they call themselves. The noble person (*junzi*) "is calm and at ease; the small person is always anxious and full of concern." Fear of missing out versus joy of missing out, rendered as character types.
+**Confucius** (551-479 BCE, China) saw his own time, the Warring States period, as a society that had lost its way. His prescription was *li* (ritual propriety): structured practices that reinforce right relationship. His "rectification of names" is an argument against HILO (History Is the Loudest Opinion): if a ruler does not rule, they are not a ruler, regardless of what they call themselves. The noble person (*junzi*) "is calm and at ease; the small person is always anxious and full of concern." Fear of missing out versus joy of missing out, rendered as character types.
 
 **Jesus** (30 CE, Galilee) told his followers to "consider the lilies of the field, they neither toil nor spin": pure JOMO. The kingdom of heaven is within you, accessible not by achieving but by *remembering what you already are.* Turn the other cheek; do not enter the FAFO cycle. Love your neighbor as yourself: YIMBY at the spiritual level.
 
 **The Stoics** (Zeno, Epictetus, Marcus Aurelius) developed the dichotomy of control: some things are up to you, most are not. Suffering comes from wanting what is not up to you. They embodied PAFO: learning through reason and observation rather than through painful experience and collision. *Amor fati* (love of fate) is the ultimate YIMBY: not just accepting reality but loving it exactly as it is. Marcus Aurelius: "The universe is change; life is opinion."
 
-**Zera Yacob** (1599-1692, Ethiopia) independently arrived at a natural theology based on reason alone, arguing that the Creator made an orderly universe that rewards truthfulness. He diagnosed HILO directly: "People are led astray by the authority of their forefathers. They believe what they are told without examination."
+**Zera Yacob** (1599-1692, Ethiopia) independently arrived at a natural theology based on reason alone, arguing that the Creator made an orderly universe that rewards truthfulness. He diagnosed HILO (History Is the Loudest Opinion) directly: "People are led astray by the authority of their forefathers. They believe what they are told without examination."
 
 **Aquinas** (13th century, Europe) systematized natural law: there is a deep structure to reality that is good, and human laws are only just insofar as they align with it. Truth is not what the powerful say it is; it is built into existence. HITW as theology.
 
@@ -181,9 +181,9 @@ All of them diagnosed the same disease: the forgetting of the **Second Path** an
 
 The same cascade appears in systems too small to be civilizational but too large to be individual.
 
-**Startups.** Year 1: everyone sleeps on couches, shares everything, no titles, no politics. Second path. Year 3: Series A hires bring FOMO ("Why don't *we* have a gym like Google?"). Title inflation. Year 5: NIMBY: departments hoard headcount, teams stop sharing code. Year 8: FAFO: product bloat, toxic culture, layoffs. Year 10: HILO: the C-suite rewrites the origin story; within a decade nobody remembers what the company originally made.
+**Startups.** Year 1: everyone sleeps on couches, shares everything, no titles, no politics. Second path. Year 3: Series A hires bring FOMO ("Why don't *we* have a gym like Google?"). Title inflation. Year 5: NIMBY: departments hoard headcount, teams stop sharing code. Year 8: FAFO: product bloat, toxic culture, layoffs. Year 10: HILO (History Is the Loudest Opinion): the C-suite rewrites the origin story; within a decade nobody remembers what the company originally made.
 
-**Marriages.** Year 1: unconditional generosity, assuming best intent, pure JOMO. Years 3-7: FOMO creeps in ("Steve's wife doesn't make him do that"). Years 5-15: NIMBY solidifies ("that's your chore," "my money"). The crisis: FAFO. Betrayal, explosion, something that cannot be taken back. Aftermath: HILO. Both partners rewrite the history to make themselves the victim. The marriage becomes two competing narratives, and the truth of what happened is lost.
+**Marriages.** Year 1: unconditional generosity, assuming best intent, pure JOMO. Years 3-7: FOMO creeps in ("Steve's wife doesn't make him do that"). Years 5-15: NIMBY solidifies ("that's your chore," "my money"). The crisis: FAFO. Betrayal, explosion, something that cannot be taken back. Aftermath: HILO (History Is the Loudest Opinion). Both partners rewrite the history to make themselves the victim. The marriage becomes two competing narratives, and the truth of what happened is lost.
 
 **Scientific revolutions** (Thomas Kuhn's structure). Normal science: **Second Path**, curiosity, shared rules, incremental progress. Anomalies accumulate; the establishment defends the paradigm (NIMBY). Crisis: FAFO: the debate becomes personal and political, not empirical. Paradigm shift: the old guard dies, the new model wins, and the textbooks are rewritten to make the old paradigm look obviously wrong. Kuhn called this "the rewriting of history" explicitly.
 
@@ -201,7 +201,7 @@ The huge unknown is the last term: *L*, the lifespan of a technological civiliza
 
 The standard answer to the Fermi Paradox, "Where is everybody?", has been a version of the Great Filter: something prevents civilizations from reaching interstellar capability. The usual candidates are nuclear war, resource depletion, asteroid impacts, or ecological collapse.
 
-I think the filter is more fundamental. It is not an external event. It is the internal cascade described above. Any civilization that reaches technology will inevitably encounter the FOMO/NIMBY/FAFO/HILO cycle. The question is whether the cycle can be survived.
+I think the filter is more fundamental. It is not an external event. It is the internal cascade described above. Any civilization that reaches technology will inevitably encounter the FOMO/NIMBY/FAFO/HILO (History Is the Loudest Opinion) cycle. The question is whether the cycle can be survived.
 
 The **Second Path** (coherence, long term thinking, collective alignment) is the only state from which a multi-century project like interstellar colonization can be sustained. The **Second Path** requires continuous maintenance, though. The moment a civilization forgets to maintain it, the moment energy flows into comparison and territoriality rather than cooperation, the cascade begins. And the cascade moves faster than a civilization can build generation ships.
 
@@ -239,9 +239,9 @@ The NIMBY phase is visible in the Paris Agreement's structure: every nation want
 
 The FAFO phase is unfolding in real time. Heatwaves, fires, floods, crop failures, hurricanes, ecosystem collapse events, each by itself dismissed as an outlier, but the accumulated weight is unmistakable. The system does not negotiate.
 
-The HILO phase is in full swing. Fossil fuel companies that knew in the 1970s that their product caused warming now present themselves as energy companies leading the transition. Carbon capture is promoted as a solution despite not existing at scale. Offsets are traded that represent no actual sequestration. The narrative is being rewritten in real time.
+The HILO (History Is the Loudest Opinion) phase is in full swing. Fossil fuel companies that knew in the 1970s that their product caused warming now present themselves as energy companies leading the transition. Carbon capture is promoted as a solution despite not existing at scale. Offsets are traded that represent no actual sequestration. The narrative is being rewritten in real time.
 
-The distinction from other case studies is crucial: climate is not *a* system among many. It is the *substrate* that all other human systems sit on. When it tips, there is no successor environment to write the history. HILO ends when there are no readers.
+The distinction from other case studies is crucial: climate is not *a* system among many. It is the *substrate* that all other human systems sit on. When it tips, there is no successor environment to write the history. HILO (History Is the Loudest Opinion) ends when there are no readers.
 
 ---
 
@@ -253,7 +253,7 @@ If this framework is even approximately correct, it carries consequences that ar
 
 **External shocks are never the real cause of collapse.** They are triggers that reveal an internal state already degraded. This means preparing for external threats, asteroid defense, military deterrence, backup systems, is necessary but insufficient. The real protection is internal coherence. A coherent system survives shocks. A brittle system blames them.
 
-**The cascade accelerates.** Each stage feeds the next. FOMO creates NIMBY. NIMBY guarantees FAFO. FAFO enables HILO. The only intervention point is early, before comparison becomes territoriality. Once territoriality is entrenched, collision is inevitable, and collision requires the energy of the **Second Path** to survive.
+**The cascade accelerates.** Each stage feeds the next. FOMO creates NIMBY. NIMBY guarantees FAFO. FAFO enables HILO (History Is the Loudest Opinion). The only intervention point is early, before comparison becomes territoriality. Once territoriality is entrenched, collision is inevitable, and collision requires the energy of the **Second Path** to survive.
 
 **The cure is remembering and practice.**
 
@@ -405,7 +405,7 @@ Though this is an original synthesis, the ideas it synthesizes draw on a wide ra
 
 If this framework resonated with you, take it. Argue with it. Test it against your own experience. Share it with someone who needs to see it.
 
-The pattern only changes if enough people see it, and seeing it is the first step. The next time you feel FOMO rising, you might notice it before it becomes territoriality. The next time you hear someone rewriting history to suit their narrative, you might recognize HILO in real time. The next time you face a collision, you might survive it instead of blaming the universe.
+The pattern only changes if enough people see it, and seeing it is the first step. The next time you feel FOMO rising, you might notice it before it becomes territoriality. The next time you hear someone rewriting history to suit their narrative, you might recognize HILO (History Is the Loudest Opinion) in real time. The next time you face a collision, you might survive it instead of blaming the universe.
 
 The **Second Path**, coherence, contentment, truthfulness, cooperation, is not a utopia to be built. It is a practice to be maintained, moment by moment, generation by generation. It requires no new technology, no political revolution, no charismatic leader. It only requires enough of us to *remember* what we already know, and to act on it before the forgetting takes hold again.
 
@@ -415,7 +415,7 @@ We build a civilization capable of reaching the stars one remembering at a time.
 
 ### Acknowledgments
 
-The author is solely responsible for the content. The four-letter acronym system (FOMO/NIMBY/FAFO/HILO and JOMO/YIMBY/PAFO/HITW) emerged from extended discussion with the author's collaborator, who wishes to remain unnamed but whose contribution to the framework is foundational.
+The author is solely responsible for the content. The four-letter acronym system (FOMO/NIMBY/FAFO/HILO (History Is the Loudest Opinion) and JOMO/YIMBY/PAFO/HITW) emerged from extended discussion with the author's collaborator, who wishes to remain unnamed but whose contribution to the framework is foundational.
 
 ---
 
