@@ -123,7 +123,7 @@ That is the piece we tend to skip in the modern shortcut. Many people want to be
 
 The apprentice respects the master not because the master is powerful but because the master has been through what the apprentice is going through. The standard was applied to him. He survived it. Now he applies it to the next person. The chain is unbroken.
 
-Much of that chain has been broken in modern life. Not by accident — deliberately in many cases. We replaced it with credentials, certifications, performance metrics, engagement scores. We replaced human chains with paper ones. And then we wonder why nobody trusts the judges.
+Much of that chain has been broken in modern life. Not by accident — deliberately in many cases. Through history, humans bound each other with chains — real ones, iron, the kind you could see and feel. The iron is gone now. What is left is paper: credentials, certifications, performance metrics, engagement scores. And then we wonder why nobody trusts the judges.
 
 ---
 
