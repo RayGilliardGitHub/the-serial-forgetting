@@ -20,7 +20,7 @@ As with the earlier essays, the reader is cautioned against absolutes. When I sa
 
 On July 16, 2026, the FDA announced an investigation into an outbreak of Cyclospora cayetanensis across five states. The parasite was traced to shredded iceberg lettuce from Mexico, supplied by Taylor Farms de Mexico in Guanajuato, served at Taco Bell. Over 1,600 confirmed cases. Nearly 7,000 suspected.
 
-Cyclospora causes explosive, watery diarrhea that can persist for weeks without treatment. It is not life-threatening for most people, but it is devastating for someone who cannot afford to miss work. And the people who eat at Taco Bell are disproportionately people who cannot afford to miss work.
+Cyclospora causes explosive, watery diarrhea that can persist for weeks without treatment. It is not life-threatening for most people, but it is devastating for someone who cannot afford to miss work. Since this essay was written, the outbreak has claimed one life. And the people who eat at Taco Bell are disproportionately people who cannot afford to miss work.
 
 The parasite has a simple life cycle. It lives in human intestines. Infected humans shed it in their feces. If that feces gets into water, and that water irrigates lettuce, and that lettuce is not cooked, the parasite reaches a new host. There is no animal reservoir. The CDC states flatly: "Humans appear to be the only major host." When Cyclospora oocysts appear in animal stool, it is because the animal ate human feces and the parasite passed through.
 
