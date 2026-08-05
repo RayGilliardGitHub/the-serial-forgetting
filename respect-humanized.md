@@ -101,7 +101,7 @@ I think that is what I have been doing since 2022.
 
 ### 5. The Silence of the Master
 
-The sixth essay in this series — *The Serial Silence* — corrected the first essay by saying: the cascade does not proceed because the system forgets. It proceeds because the people who know choose not to speak. Silence is the precondition that makes collapse possible.
+The seventh essay in this series — *The Serial Silence* — corrected the first essay by saying: the cascade does not proceed because the system forgets. It proceeds because the people who know choose not to speak. Silence is the precondition that makes collapse possible.
 
 I think now there is a second kind of silence I did not name. The silence of the master who is gone.
 

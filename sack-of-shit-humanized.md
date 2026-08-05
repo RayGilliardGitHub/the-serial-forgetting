@@ -8,7 +8,7 @@
 
 ### Author's Note
 
-This essay is different from the others in this series. *The Serial Forgetting* was constructed over weeks, revised, published. *The Piano Factory* was a single sitting but edited after. This one is being written directly from a single conversation — one long session that started with a news article about a parasite and ended with the Bhagavad Gita, the Fermi Paradox, and the question of whether any of this matters.
+This essay is different from the others in this series. *The Serial Forgetting* was constructed over weeks, revised, published. *The Piano Factory* was a single sitting but revised after. This one is being written directly from a single conversation — one long session that started with a news article about a parasite and ended with the Bhagavad Gita, the Fermi Paradox, and the question of whether any of this matters.
 
 It may read like what it is: a mind working through things in real time. I have chosen not to sand off the edges.
 
