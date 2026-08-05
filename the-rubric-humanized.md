@@ -28,7 +28,7 @@ I am actively working to get Jason DAC, SSI, SSDI — whatever government handou
 
 I stopped drinking. I stopped smoking weed. I stopped playing music. I gave away the electric piano — I had this dream that I would practice and be good enough to get gigs on cruise ships as a lounge player. This was something Nancy and I both enjoyed. I started to pick up the recorder because it was the only musical instrument I had left. I threw out the recorder, and all the fingering charts I built for it, because the sound disturbed Jason. Every pleasure I had, I gave up. One by one. They didn't disappear. I placed them on the altar of responsibility and walked away.
 
-I hate having to bend to keep him stable. I hate not having the things I would have if I didn't need to take care of him. And every night before he goes to bed, he comes into my room and says good night, I love you. I hate that too.
+I hate having to bend to keep him stable. I hate not having the things I would have if I didn't need to take care of him. And every night before he goes to bed, he comes into my room and says good night, I love you. I hate that too. Every "I love you" is a reminder of the love I lost. Nancy said those words the same way, at the same hour of the night, and she is not here to say them anymore. Jason says them and they land on the hole where she used to be.
 
 The therapists and the books and the essays all dance around this truth: long-term caregiving without relief turns love into obligation, and obligation into resentment, and resentment into hate. It's not a moral failing. It's physics. You can only pour from an empty well for so long before you start scraping the dirt.
 
