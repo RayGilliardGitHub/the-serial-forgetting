@@ -87,7 +87,7 @@ That sentence came out before I understood what it meant. I have been sitting wi
 
 Nancy was not a teacher in the formal sense. She did not lecture. She did not offer frameworks. She did what the master in that video did: she held a standard and she told the truth about whether the thing in front of her met it.
 
-I would bring her something — an idea, a worry, a plan, a story — and she would look at it. Turn it over. Run her finger along the rim. And then she would tell me what she saw. Not what I wanted to hear. What she saw.
+I would bring her something — an idea, a worry, a project plan, a story — and she would look at it. Turn it over. Run her finger along the rim. And then she would tell me what she saw. Not what I wanted to hear. What she saw.
 
 If it was flawed, she said so. Not cruelly. Precisely. And because I trusted her judgment absolutely, I could hear it. The flaw was in the thing, not in me. The relationship was not conditional on the thing being good. She was not going anywhere. She would be there for the next attempt.
 

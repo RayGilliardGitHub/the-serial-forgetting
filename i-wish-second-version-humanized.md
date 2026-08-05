@@ -8,19 +8,19 @@ That is the fact underneath every essay I have written, including the first vers
 
 She was a real writer. She had a talent I'll never hold a candle to. I'm not being modest. It's simply true. She could do things with language that I can't. I'm still trying to learn from her, and she's been gone long enough that her voice in my head is starting to fade. That terrifies me.
 
-Nancy used to remind me of the "plan". All the time. Work, school, real job, marriage, kids, work, retirement. That was what I had built. A sequence. A system. A life I could execute like a project plan. She would say it back to me when I got lost in the details, and I always knew what she meant. The plan wasn't the point. The plan was the container. She was the content.
+Nancy used to remind me of the "project plan". All the time. Work, school, real job, marriage, kids, work, retirement. That was what I had built. A sequence. A system. A life I could execute like a project plan. She would say it back to me when I got lost in the details, and I always knew what she meant. The plan wasn't the point. The plan was the container. She was the content.
 
 Now the container is intact and the content is gone.
 
-I'm sixty-seven years old. I have the plan still — the same one I've been running my whole life. But nobody is reminding me what it's for. Nobody is standing on the other side of it. I keep executing steps and arriving at destinations that were supposed to be shared, and I'm the only one there.
+I'm sixty-seven years old. I have the project plan still — the same one I've been running my whole life. But nobody is reminding me what it's for. Nobody is standing on the other side of it. I keep executing steps and arriving at destinations that were supposed to be shared, and I'm the only one there.
 
 The first version of this essay ended with "The past cannot receive the gift. The present can." That's true. That sentence took me four essays to earn the right to write. I meant it. I still mean it. But I didn't say what the gift was, because I was afraid of naming it.
 
-The gift is her. The gift was her. The gift was every morning I woke up next to someone who knew the whole shape of me and stayed anyway. The gift was that she saw me fully for thirty-two years, and I trusted her judgment absolutely. The gift was having a plan and having someone who made the plan worth executing.
+The gift is her. The gift was her. The gift was every morning I woke up next to someone who knew the whole shape of me and stayed anyway. The gift was that she saw me fully for thirty-two years, and I trusted her judgment absolutely. The gift was having a project plan and having someone who made the project plan worth executing.
 
-And then she died. And the plan became a list of things I do alone. I've been trying to fill the hole with everything except what I actually need, because what I actually need isn't available.
+And then she died. And the project plan became a list of things I do alone. I've been trying to fill the hole with everything except what I actually need, because what I actually need isn't available.
 
-I don't know how to live without her. I've been trying to figure it out by writing essays. That's the honest truth. Every page I've written since she died has been an attempt to find a living plan — a way to be in the world that doesn't require her presence, because her presence isn't available anymore.
+I don't know how to live without her. I've been trying to figure it out by writing essays. That's the honest truth. Every page I've written since she died has been an attempt to find a living project plan — a way to be in the world that doesn't require her presence, because her presence isn't available anymore.
 
 So far I haven't found it. But I have found something else.
 

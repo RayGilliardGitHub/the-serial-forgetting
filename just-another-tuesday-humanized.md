@@ -9,7 +9,7 @@ Three words printed by a corporation trying to sell soap, while philosophers spe
 
 Sometimes the deepest principles are not hidden because they are complicated. They are hidden because they are ordinary.
 
-I have spent sixty-seven years looking for the equation. It was printed on a bottle in the shower the whole time. I found it after the person who made the plan worth executing was gone, and I had to figure out what the plan was for.
+I have spent sixty-seven years looking for the equation. It was printed on a bottle in the shower the whole time. I found it after the person who made the project plan worth executing was gone, and I had to figure out what the project plan was for.
 
 ---
 
@@ -30,7 +30,7 @@ Which brings me back to the bottle. Because here is the thing I keep landing on:
 
 The problem is not that we compress. Most systems that persist compress. The problem is what happens when the compressed map stops being checked against the territory.
 
-This is not an intellectual exercise for me. It is a survival mechanism. I ran this loop for forty-five years as a working man, and then the person who made the plan worth executing died, and I learned what a system does when its map stops being checked. It updates, or it defends. I know which one I did first.
+This is not an intellectual exercise for me. It is a survival mechanism. I ran this loop for forty-five years as a working man, and then the person who made the project plan worth executing died, and I learned what a system does when its map stops being checked. It updates, or it defends. I know which one I did first.
 
 ---
 
