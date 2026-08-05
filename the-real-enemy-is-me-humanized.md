@@ -74,7 +74,7 @@ Temüjin unified the Mongol tribes through a combination of military genius, str
 
 What he could not do — what the historical record suggests he never attempted — was to turn that understanding on himself.
 
-The question he appears never to have asked: *Why is this not enough?* He had unified the tribes. He had security. He had wealth. His people had pasture and water and peace. But the machine he built could not stop. Conquest was the only mode it knew. The army needed enemies. The generals needed plunder. The system demanded expansion because no one had ever told it that expansion was optional.
+The question he appears never to have asked: Why is this not enough? He had unified the tribes. He had security. He had wealth. His people had pasture and water and peace. But the machine he built could not stop. Conquest was the only mode it knew. The army needed enemies. The generals needed plunder. The system demanded expansion because no one had ever told it that expansion was optional.
 
 Between 20 and 40 million people died in the Mongol conquests — approximately 10% of the global population at the time. The invasion of the Khwarazmian Empire alone killed more people than most European wars of the era. Cities that resisted were exterminated. Irrigation canals that had sustained Central Asian agriculture for millennia were destroyed and never fully recovered. The population of Iran did not return to pre-Mongol levels for over 500 years.
 
@@ -137,6 +137,8 @@ The whistleblower sees the evil, hears the evil, and speaks it anyway. In most c
 
 Dr. Martin Luther King Jr. spoke the truth about three things his society did not want to hear: that racial segregation was not a southern problem but a national one, that poverty was a structural choice not an accident, and that the Vietnam War was a moral catastrophe being sold as a patriotic necessity. He spoke these truths to power, in public, with stunning clarity. He was assassinated on April 4, 1968.
 
+He was assassinated on April 4, 1968. I was eight years old.
+
 After his death, the comfortable parts of his message were preserved and institutionalized. "I Have a Dream" is taught in every elementary school. King is a national holiday. The parts of his message that made power uncomfortable — his opposition to the war machine, his critique of capitalism, his call for economic redistribution — were quietly dropped from the official record. The institution (the state, the education system, the media) did what institutions do: it preserved what was useful and buried what was not. The man who refused the monkeys was killed, and then his message was selectively edited by the very forces he was speaking against.
 
 He is not alone.
@@ -175,13 +177,13 @@ Within a generation or two of the founder's death — in most cases, though not 
 
 **Jesus** said: "The kingdom of God is within you." This is a radically inward statement. It means salvation is not conditional, not deferred, not mediated by any authority. It is already present, waiting to be recognized. Within two centuries, the institution that bore his name was arguing about which bishop had the authority to define orthodoxy, persecuting those who disagreed, and promising the kingdom as a future reward for correct belief.
 
-**Buddha** said: "The root of suffering is craving. The end of suffering is the end of craving." He hesitated to teach because he knew the teaching would be misunderstood. He was right. Within a generation, the sangha was debating the color of robes, the order of precedence, and which texts had canonical authority.
+**Buddha** said: "The root of suffering is craving. The end of suffering is the end of craving." He hesitated to teach because he knew the teaching would be misunderstood. He was right. Within a generation, the ***sangha*** was debating the color of robes, the order of precedence, and which texts had canonical authority.
 
 **Confucius** said: "The noble person seeks within themselves; the small person seeks within others." He prescribed ritual practice (***li***) as the technology of self-cultivation. Within centuries, his teachings had been codified into an imperial examination system that had more to do with class advancement and state control than with self-cultivation.
 
-**Muhammad** received: "Indeed, Allah will not change the condition of a people until they change what is in themselves." Within five centuries of his death, the Islamic world was fragmenting into sects defined by which party they blamed for the community's problems.
+**Muhammad** received: "Indeed, Allah will not change the condition of a people until they change what is in themselves." I quote these words with respect — they are living faith, not props in an argument. Within five centuries of his death, the Islamic world was fragmenting into sects defined by which party they blamed for the community's problems.
 
-**But this is not the whole story.** The same institutions also preserved. The Church maintained and transmitted enormous amounts of classical philosophy that would otherwise have been lost. The Buddhist sangha preserved the Canon across millennia and across continents. Confucian bureaucracy provided a civilizational stability that kept China from fragmenting as often as Europe did. The Islamic world was, for centuries, the conduit through which the West recovered its own philosophical inheritance.
+**But this is not the whole story.** The same institutions also preserved. The Church maintained and transmitted enormous amounts of classical philosophy that would otherwise have been lost. The Buddhist ***sangha*** preserved the Canon across millennia and across continents. Confucian bureaucracy provided a civilizational stability that kept China from fragmenting as often as Europe did. The Islamic world was, for centuries, the conduit through which the West recovered its own philosophical inheritance.
 
 The problem is not that institutions are *bad*. It is that they face a structural tension that can't be perfectly resolved. The message "the real enemy is inside you" does not recruit members. It does not raise funds. It does not defend borders. It does not justify hierarchy. An institution that takes this message seriously will find itself with fewer resources, less cohesion, and more internal dissent than an institution that tells its members the enemy is outside and the institution holds the key.
 
@@ -219,11 +221,11 @@ This essay ends the same way — but for a different reason.
 
 The cascade never loses because it does not need to win. It is not a force or an enemy. It is the shape of forgetting, and forgetting is the default trajectory of any system that stops maintaining itself. The cascade never loses because winning requires nothing from it. It just waits.
 
-Every January, around Martin Luther King's birthday, the country performs a ritual of remembering — but it is remembering dressed as forgetting. The comfortable fragments are preserved: "I Have a Dream," "content of character." The uncomfortable parts are dropped: the opposition to the Vietnam War, the call for economic redistribution, the FBI surveillance, the assassination. The "content of character" he called for has been twisted into a politics of colorblindness that skips the reckoning and pretends the past does not exist. This is HILO (History Is the Loudest Opinion) applied to history: we rewrite what happened so that no one has to feel uncomfortable about what we inherited or what we are failing to do.
+Every January, around Martin Luther King's birthday, the country performs a ritual of remembering — but it is remembering dressed as forgetting. The comfortable fragments are preserved: "I Have a Dream," "content of character." The uncomfortable parts are dropped: the opposition to the Vietnam War, the call for economic redistribution, the FBI surveillance, the assassination. The "content of character" he called for has been twisted into a politics of colorblindness that skips the reckoning and pretends the past does not exist. This is HILO applied to history: we rewrite what happened so that no one has to feel uncomfortable about what we inherited or what we are failing to do.
 
 The cascade is not only about the future. We do not just forget to act. We actively forget what happened — we edit the record, trim the uncomfortable parts, and if the sanitized version is challenged, we exhume the messenger's flaws to give ourselves permission to stop listening. *If he was flawed, his message must be flawed too.* That is not logic. It is the cascade using our own moral discomfort as a weapon against the truth.
 
-The Second Path requires everything from you. It requires you to admit that the easy answer is the right answer and that your dissatisfaction with its simplicity is your own problem to manage. It requires you to accept that you will not be recognized for maintaining coherence, that your work will be invisible, and that the only reward for doing the right thing is that the wrong thing does not happen — and nobody credits you for the thing that did not happen.
+The Second Path requires everything from you. It requires you to admit that the easy answer is the right answer and that your dissatisfaction with its simplicity is **your own problem** to manage. It requires you to accept that you will not be recognized for maintaining coherence, that your work will be invisible, and that the only reward for doing the right thing is that the wrong thing does not happen — and nobody credits you for the thing that did not happen.
 
 It requires you to say: the real enemy is me, and the war has no victory condition, and the only thing that matters is whether I show up tomorrow and do the boring thing again.
 

@@ -42,7 +42,7 @@ The looking-glass self operates at every level. Individual, tribal, national. We
 
 I spend a lot of time reading about things that have nothing to do with each other. I find it useful.
 
-For instance, Pi lets you measure the circumference of a circle — the outside, the observable boundary — and from that know the diameter, the shortest path through the center. You don't have to drill through the sphere. The structure is encoded in the perimeter.
+For instance, pi. We learn it in grade school: the circumference of a circle is pi times the diameter. We even learn where it comes from — the ratio of the circumference to the diameter, the same number every time, no matter the circle. The magic of it is the direction nobody points out: if you can measure the outside, the observable boundary, the circumference, then pi hands you the diameter — the shortest path through the center — without ever drilling through the middle. The structure is encoded in the perimeter.
 
 The number e lets you predict when a system will flatten out — growth, decay, approach to equilibrium — before it gets there. The curve is known. The landing is inferable.
 
@@ -62,7 +62,7 @@ The difference between mathematical shortcuts and human biases is that the mathe
 
 ## IV.
 
-The Erdős Unit Distance Problem asks: given n points in a plane, what's the maximum number of pairs that can be exactly one unit apart? It sounds simple. It was open for eighty years.
+The Erdős Unit Distance Problem asks: given n points in a plane, what's the maximum number of pairs that can be exactly one unit apart? It sounds simple. It was an open problem in mathematics for eighty years.
 
 The recent breakthrough didn't happen by counting harder. It happened by projecting the problem into a higher-dimensional space, using algebraic geometry to understand the structure there, and then projecting back down. The lines only reveal they're equal when you let the light come from a direction that collapses the apparent distortion.
 
@@ -80,7 +80,7 @@ The problem isn't the lengths. It's the projection.
 
 I had a third-grade teacher tell the class that if you try to solve a math problem the same way twice and it doesn't work, you have to change your relationship to the problem. That's the earliest I remember hearing this idea, even if I didn't understand it then.
 
-The lilies of the field neither toil nor spin, and yet Solomon in all his glory was not arrayed like one of them. The richest, wisest king in Israel's history, standing at the absolute peak of every pyramid a human can climb — not equal to a flower that just grows where it's planted.
+"The lilies of the field neither toil nor spin." Solomon, the richest and wisest king in Israel's history, in all his glory, was not arrayed like one of them. He stood at the absolute peak of every pyramid a human can climb — and was not equal to a flower that just grows where it's planted.
 
 The parable doesn't say the lilies are right. It doesn't say they're wrong, either. It says they're not asking the question. The question itself — what is right, what is wrong, who belongs, who decides — may be something you can't answer from inside the pyramid at all. Because the pyramid is built on striving, measuring, comparing, projecting, calculating. And the answer is in the field, not on the throne.
 
@@ -136,7 +136,7 @@ So I stayed out. Clean. Useless. Powerless. I watch the machine run over people,
 
 And I did nothing. Because the price of entry was my soul, and I wasn't brave enough to spend it.
 
-That's what I was circling toward when I started writing about Denmark and Islam and parallel justice systems and the Erdős problem and the lilies. I wasn't looking for an answer to any of those questions. I was asking whether the question itself is being asked from inside a pyramid I'm not sure I should have been climbing in the first place.
+That's what I was circling toward when I started writing about Denmark and Islam and parallel justice systems and the Erdős problem and the lilies. I wasn't looking for an answer to any of those questions. I was asking whether the question itself is being asked from inside a pyramid, I'm not sure I should have been climbing in the first place.
 
 ---
 

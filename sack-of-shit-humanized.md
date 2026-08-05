@@ -12,7 +12,7 @@ This essay is different from the others in this series. *The Serial Forgetting* 
 
 It may read like what it is: a mind working through things in real time. I have chosen not to sand off the edges.
 
-As with the earlier essays, the reader is cautioned against absolutes. When I say "the universe does not care," I am not claiming to know the mind of the universe. I am describing what the evidence suggests: that the operations of physics proceed without reference to human preference. When I discuss what a baby does or does not experience, I am making an observation about observable behavior — not claiming access to an internal state. The pattern of overreach is the same one I have corrected before, and I have tried to catch it this time.
+As with the earlier essays, the reader is cautioned against absolutes. When I say "the universe does not care," I am not claiming to know the mind of the universe, or that it has one. I am describing what the evidence suggests: that the operations of physics proceed without reference to human preference. When I discuss what a baby does or does not experience, I am making an observation about observable behavior — not claiming access to an internal state. The pattern of overreach is the same one I have corrected before, and I have tried to catch it this time.
 
 ---
 
@@ -60,7 +60,7 @@ The Bhagavad Gita is a conversation on a battlefield. Arjuna looks at the army h
 
 That text is 2,500 years old. It was written by a civilization that understood the dynamics of control, duty, and forgetting at least as well as we do.
 
-There is a line in the ***Upanishads*** (I am paraphrasing) about the greatness of the person who remembers what is not here today but lives somewhere in the future. The same idea recurs across the Gita: the wise see beyond time, beyond birth and death. They see the pattern that others miss because they are too embedded in the moment to notice the shape of the whole.
+There is a line in the Diamond Sutra I keep coming back to. Subhuti asks the Buddha whether a person who hears even a single phrase of the teaching can awaken. The Buddha answers: without a doubt. Such a person has planted the seeds of goodness and merit before hundreds of thousands of Buddhas; when the words are heard, a pure faith and clarity awaken in their mind. The greatness of the person who remembers what is not here today but lives somewhere in the future. The same idea recurs across the Gita: the wise see beyond time, beyond birth and death. They see the pattern that others miss because they are too embedded in the moment to notice the shape of the whole.
 
 Every civilization has produced these texts. Every civilization has watched them be weaponized by the institutions that claimed to preserve them. The Spanish burned nearly every Mesoamerican codex; four survive from an entire civilization's literary output. The Soviet Union rewrote its history every decade, airbrushing commissars out of photographs. Every Chinese dynasty rewrote the history of the preceding dynasty to justify its own legitimacy.
 
@@ -74,7 +74,7 @@ If the pattern is old and the technology is new, the question is whether there i
 
 The science fiction writers may have been more honest than the historians. *The Matrix*, *The Prisoner*, *Brave New World* — they all describe the same structure: a cage that its inhabitants do not recognize as a cage. The bars are made of beliefs, not steel. The guards are internalized norms, not armed men.
 
-Star Wars presents itself as a story about good rebels fighting an evil empire. But there's another reading: the rebellion forces the Empire to tighten its grip. Every successful rebel attack is an excuse for more TIE fighters, more stormtroopers, more surveillance. Palpatine needs the rebellion to justify the military state. Without the scattered resistance, the Imperial Senate might have held some power. The rebels might be the useful idiots who hand the Emperor the excuse he needs to dissolve the Senate permanently.
+Star Wars presents itself as a story about **good** rebels fighting an **evil** empire. But there's another reading: the rebellion forces the Empire to tighten its grip. Every successful rebel attack is an excuse for more TIE fighters, more stormtroopers, more surveillance. Palpatine needs the rebellion to justify the military state. Without the scattered resistance, the Imperial Senate might have held some power. The rebels might be the useful idiots who hand the Emperor the excuse he needs to dissolve the Senate permanently.
 
 I do not know whether that reading is correct. I do not know whether there is ever a form of resistance the system cannot absorb and repurpose. I find the question interesting. That is all I can honestly say about it.
 
@@ -86,7 +86,7 @@ The atom that makes up my desk does not care about the Cyclospora outbreak. The 
 
 Entropy is not cruel. Cruelty requires intent. Entropy is just the statistical inevitability of everything moving toward disorder. The fact that we call it "disorder" is already us imposing meaning on a process that has no opinion about it.
 
-The star that goes nova and blasts the Earth with gamma rays, wiping out all life on the planet — it is not thinking. It is not angry. It is not punishing anyone. It is just what happens when gravity squeezes too hard and fusion can no longer hold. Cause and effect, all the way down.
+The star that goes nova and blasts a planet with gamma rays, wiping out all life on the planet — it is not thinking. It is not angry. It is not punishing anyone. It is just what happens when gravity squeezes too hard and fusion can no longer hold. Cause and effect, all the way down.
 
 There is no end goal. The atoms do not care. The parasites do not have a mind — they have DNA that encodes a response to their environment. Survival of the fittest is not a goal. It is a description of what did not die yet. Nothing in the laws of physics says we need to populate the universe. It is an accident that we exist at all. Some random chemicals four billion years ago happened to get together and do something interesting.
 
@@ -160,7 +160,7 @@ But I do.
 
 **The Bhagavad Gita.** Hindu scripture, c. 2nd century BCE. A conversation on a battlefield between Arjuna and Krishna about duty, action, and the right to perform one's work without controlling its outcome. Referenced in Section 3.
 
-***The Upanishads***. Hindu scriptures, c. 800-200 BCE. "There is a line about the greatness of the person who remembers what is not here today but lives somewhere in the future." Paraphrased in Section 3.
+**The Diamond Sutra (Vajracchedika Prajñāpāramitā Sūtra).** Mahayana Buddhist scripture. The exchange between Subhuti and the Buddha on the seeds of goodness and the awakening of pure faith — quoted in Section 3.
 
 **Huxley, Aldous.** *Brave New World.* London: Chatto & Windus, 1932. A society where inhabitants do not recognize their cage because the bars are made of pleasure, not pain. Referenced in Section 4.
 

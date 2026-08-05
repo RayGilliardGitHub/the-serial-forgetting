@@ -1,12 +1,14 @@
 # I Wish (Second Version)
 
+I had to rewrite the I Wish essay.
+
 Nancy and I were married for 32 years. She died of cancer. I am still here.
 
 That is the fact underneath every essay I have written, including the first version of this one. I danced around it with pi and the Erdős problem and the lilies of the field. I used Denmark as a decoy. I projected my grief onto civilization and called it philosophy. I hid behind intelligence because that was the only thing I knew how to do.
 
 She was a real writer. She had a talent I'll never hold a candle to. I'm not being modest. It's simply true. She could do things with language that I can't. I'm still trying to learn from her, and she's been gone long enough that her voice in my head is starting to fade. That terrifies me.
 
-Nancy used to remind me of the plan. All the time. Work, school, real job, marriage, kids, work, retirement. That was what I had built. A sequence. A system. A life I could execute like a project plan. She would say it back to me when I got lost in the details, and I always knew what she meant. The plan wasn't the point. The plan was the container. She was the content.
+Nancy used to remind me of the "plan". All the time. Work, school, real job, marriage, kids, work, retirement. That was what I had built. A sequence. A system. A life I could execute like a project plan. She would say it back to me when I got lost in the details, and I always knew what she meant. The plan wasn't the point. The plan was the container. She was the content.
 
 Now the container is intact and the content is gone.
 

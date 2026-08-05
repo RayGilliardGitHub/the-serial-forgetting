@@ -41,11 +41,11 @@ There is no universe equation. Nobody has one. But there is something Sun Tzu ac
 
 Sun Tzu did not hand out the full inventory. He gave the handful that wins. Here is that handful:
 
-> Reality rewards stability.
-> Energy follows gradients.
-> Information guides energy.
-> Adaptation defeats resistance.
-> Nothing survives unchanged.
+- Reality rewards stability.
+- Energy follows gradients.
+- Information guides energy.
+- Adaptation defeats resistance.
+- Nothing survives unchanged.
 
 The full inventory, the ten laws, for anyone who wants them, is in the appendix.
 

@@ -10,7 +10,7 @@
 
 This essay was not planned. It emerged from a conversation — a long one, the kind that starts with a question about words like "fascist" and "socialist" and ends somewhere completely unexpected, as long conversations do.
 
-It began with a question from me about language. It passed through the 80-year cycle of oligarchy and democracy, the serial forgetting that drives it, the silence of the people who know, and the difference between a storyteller at a fire and a feed in a pocket. It ended with a video I could not understand because it was not in English. A master making porcelain bowls. An apprentice watching them get broken. A pile on the floor.
+It began with a question from me about language. It passed through the 80-year cycle of oligarchy and democracy, the serial forgetting that drives it, the silence of the people who know, and the difference between a storyteller at a fire and a feed in a pocket. It ended with a video I could not understand because it was not in English. An apprentice making porcelain bowls. A master examining each one, finding it wanting, and breaking it on the pile. A pile on the floor.
 
 The essay that follows is what I learned from that video and from the conversation it closed.
 
@@ -123,7 +123,7 @@ That is the piece we tend to skip in the modern shortcut. Many people want to be
 
 The apprentice respects the master not because the master is powerful but because the master has been through what the apprentice is going through. The standard was applied to him. He survived it. Now he applies it to the next person. The chain is unbroken.
 
-Much of that chain has been broken in modern life. Not by accident — deliberately in many cases. We replaced it with credentials, certifications, performance metrics, engagement scores. We replaced the human chain with a paper one. And then we wonder why nobody trusts the judges.
+Much of that chain has been broken in modern life. Not by accident — deliberately in many cases. We replaced it with credentials, certifications, performance metrics, engagement scores. We replaced human chains with paper ones. And then we wonder why nobody trusts the judges.
 
 ---
 
@@ -141,7 +141,7 @@ Consider each stage in light of the video:
 
 **FAFO** is what happens when the self-taught apprentice collides with a market that still has standards, even if nobody is teaching them.
 
-**HILO (History Is the Loudest Opinion)** is what happens when the pile gets swept away and replaced with a story. The broken bowls were never broken. They were always fine. The standards were oppressive. The master was a tyrant. History rewrites the rejection as oppression.
+**HILO** is what happens when the pile gets swept away and replaced with a story. The broken bowls were never broken. They were always fine. The standards were oppressive. The master was a tyrant. History rewrites the rejection as oppression.
 
 I do not know if this reframing is more true than the first version. But it fits what I saw in that video in a way the original framework did not. The cascade may not be about forgetting or even about silence. It may be about the moment the master stops teaching and the apprentice stops trusting.
 

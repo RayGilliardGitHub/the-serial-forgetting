@@ -101,7 +101,7 @@ It is not just passive silence. It is *withholding* — the one thing they still
 
 From the throne's perspective, this silence looks like agreement. The courtiers are still there, still nodding, still sitting at the table. Nobody is yelling. Nobody is resigning. Nobody is leaking. Everything must be fine.
 
-But the silence is not peace. It is the spite of people who gave up trying to be heard and decided to let gravity do its work. The silence is the moment the system's last chance at correction expires.
+But the silence is not peace. It is the spite of people who gave up trying to be heard and decided to let gravity do its work. The silence is the moment, the system's last chance at correction expires.
 
 That scene in *The Chronicles of Riddick* captures this exactly. The Lord Marshal, mid-speech, does not see the knife approaching. Vaako does. He moves to intervene. His wife stops him. The knife goes in. **"Flawless,"** she says — entropy's voice, observing that the mechanism operated without error. She did not cause it. She just got out of the way.
 
@@ -156,7 +156,7 @@ Silence is one of those choices. Every time I do not say what I see, I am the ca
 
 That is the decision the courtier does not make. He fills the silence with nothing. He lets the cascade run. He is not evil. He is tired. And his tiredness is the system's terminal condition.
 
-*I Wish* was about the projection problem, seeing only our own angle and mistaking it for the whole. The first version used mathematics as metaphor. The second version was honest about what it was really about: the grief of losing someone who made the plan worth executing.
+*I Wish* was about the projection problem, seeing only our own angle and mistaking it for the whole. The first version used mathematics as metaphor. The second version was honest about what it was really about: the grief of losing someone who made the project plan worth executing.
 
 The connection I missed across all three is that silence is the same shape as grief. It is the absence of something that was supposed to be there. A voice. A correction. A person who told you what you needed to hear. The silence is the hole where the truth should be.
 
@@ -222,7 +222,7 @@ The night she passed, I kissed her on the head and went to the bedroom to pay bi
 
 I do not know whether the correction I am offering in this essay is better philosophy. I know it is more honest about what I have been doing. I have been writing essays because I cannot talk to Nancy anymore. These essays are conversations with someone who can no longer answer. And the silence I keep describing, the one that precedes all collapses, is the one I have been living in since she died.
 
-But the silence is not the whole story. Nancy was the whole story. The plan was the container. She was the content. The plan is still running. But nobody is standing on the other side of it anymore.
+But the silence is not the whole story. Nancy was the whole story. The project plan was the container. She was the content. The project plan is still running. But nobody is standing on the other side of it anymore.
 
 I have made mistakes. I will make more. But the silence is not one of them.
 
