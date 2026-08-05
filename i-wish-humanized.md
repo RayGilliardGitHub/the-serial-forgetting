@@ -142,7 +142,7 @@ That's what I was circling toward when I started writing about Denmark and Islam
 
 ## IX.
 
-The Erdős problem took eighty years. The breakthrough happened when someone stopped measuring from the same plane everyone else was measuring from and projected into a dimension nobody had thought to look in.
+The Erdős problem took eighty years. The breakthrough happened when someone stopped measuring from the same plane everyone else was measuring from and projected into a dimension nobody had thought to look in. That someone was an AI — OpenAI's model. It did not try to find the answer in the plane. It built the configuration in a much higher dimensional space and projected it down, and the conjecture fell. Eighty years of mathematicians had looked at the same plane. The AI looked somewhere else first.
 
 For as long as people have been thinking, they've circled the same drain. Both the good and the bad go down. It just takes time for the sink to empty before you hit bottom and it's clean again.
 
@@ -170,5 +170,6 @@ But I know it now. And knowing it now is what matters. The past can't receive th
 **Cooley, Charles Horton.** *Human Nature and the Social Order.* New York: Scribner's, 1902. The concept of the "looking-glass self" (I am who I think you think I am) originates here.
 
 **Erdős, Paul.** "On Sets of Distances of n Points." *American Mathematical Monthly* 53, no. 4 (1946): 248-250. The Unit Distance Problem asks for the maximum number of unit distances among n points in the plane. The problem remained open for eighty years before recent progress via projection into higher-dimensional algebraic geometry.
+**Bazett, Trefor.** "AI just disproved the biggest math conjecture so far [Unit Distance Conjecture]." YouTube, 2026. Reports OpenAI's disproof of the Erdős unit distance conjecture.
 
 **The Bible.** Matthew 6:28-29; Luke 12:27. "Consider the lilies of the field, how they grow: they neither toil nor spin, yet I tell you, even Solomon in all his glory was not arrayed like one of these."
