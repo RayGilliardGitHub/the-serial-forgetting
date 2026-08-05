@@ -97,7 +97,7 @@ The courtier who has watched forty years of bad news being shot, forty years of 
 
 > *"You do not want to hear it. You have made that clear for decades. So I will stop saying it. And when the thing I saw coming arrives, do not act surprised."*
 
-It is not just passive silence. It is *withholding* — the one thing they still control. They cannot change the trajectory. They cannot make the throne listen. But they can stop feeding the illusion that the system is getting good information. They can let the cascade run its course and let history be the loudest opinion.
+It is not just passive silence. It is *withholding* — the one thing they still control. They cannot change the trajectory. They cannot make the throne listen. But they can stop feeding the illusion that the system is getting good information. They can let the cascade run its course and let history be from the loudest opinion.
 
 From the throne's perspective, this silence looks like agreement. The courtiers are still there, still nodding, still sitting at the table. Nobody is yelling. Nobody is resigning. Nobody is leaking. Everything must be fine.
 
