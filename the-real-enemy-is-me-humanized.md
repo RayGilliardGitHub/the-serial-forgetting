@@ -42,6 +42,8 @@ It is also profoundly boring.
 
 Not boring in the sense of *dull*. Boring in the sense of *undramatic*. Boring in the sense that it generates no story. A forest that receives its small controlled fire every spring does not produce a heroic narrative about firefighters saving a town. A marriage where both people are content does not make you lean forward at dinner parties. An empire that does not overextend does not leave ruins for poets to romanticize. A politician who quietly maintains functioning infrastructure does not get a statue.
 
+There is a reason we find it boring, and it is the same reason scientists find a working experiment boring. Run the same experiment a hundred times and it gives the same result a hundred times. That is not a failure. It is the point. Science gets interesting the moment the experiment breaks — the result that should not be there, the number that does not fit, the outcome the model cannot explain. That is when science begins. Everything before it is maintenance. The Second Path is the boring experiment, running correctly, giving the same true result every time. We find it boring for the same reason we find working infrastructure boring: nothing is on fire. The cascade is the experiment breaking. The drama, the story, the ruins for the poets — all of it is what happens after the system stops working.
+
 The dramatic is almost always the *symptom* of the cascade, not the sign of its absence. But we have trained ourselves to mistake drama for meaning. A life without drama feels like a life without significance. So we tolerate — even seek — the first twinges of comparison because they make us feel *alive*.
 
 There are two cultural shortcuts that capture the evasion better than anything abstract I could reach for.
