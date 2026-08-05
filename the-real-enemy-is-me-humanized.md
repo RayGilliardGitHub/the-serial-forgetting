@@ -76,7 +76,7 @@ Temüjin unified the Mongol tribes through a combination of military genius, str
 
 What he could not do — what the historical record suggests he never attempted — was to turn that understanding on himself.
 
-The question he appears never to have asked: Why is this not enough? He had unified the tribes. He had security. He had wealth. His people had pasture and water and peace. But the machine he built could not stop. Conquest was the only mode it knew. The army needed enemies. The generals needed plunder. The system demanded expansion because no one had ever told it that expansion was optional.
+The question he appears never to have asked: Why is this **NOT** enough? He had unified the tribes. He had security. He had wealth. His people had pasture and water and peace. But the machine he built could not stop. Conquest was the only mode it knew. The army needed enemies. The generals needed plunder. The system demanded expansion because no one had ever told it that expansion was optional.
 
 Between 20 and 40 million people died in the Mongol conquests — approximately 10% of the global population at the time. The invasion of the Khwarazmian Empire alone killed more people than most European wars of the era. Cities that resisted were exterminated. Irrigation canals that had sustained Central Asian agriculture for millennia were destroyed and never fully recovered. The population of Iran did not return to pre-Mongol levels for over 500 years.
 
